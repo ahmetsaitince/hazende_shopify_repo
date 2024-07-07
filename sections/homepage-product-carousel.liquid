@@ -1,0 +1,397 @@
+{% assign list_collection 	= section.settings.collection %}
+{%- assign collection = collections[section.settings.collection] -%}
+{% assign nav				= section.settings.owl_navigation  %}
+{% assign margin			= section.settings.owl_margin  %}
+{% assign autoplay			= section.settings.owl_autoplay  %}
+{% assign autospeed			= section.settings.owl_autoplay_speed  %}
+{% assign speed				= section.settings.owl_speed  %}
+{% assign column1			= section.settings.column1  %}
+{% assign column2 			= section.settings.column2  %}
+{% assign column3 			= section.settings.column3  %}
+{% assign column4 			= section.settings.column4  %}
+{% assign column5 			= section.settings.column5  %}
+{% assign limit 			= section.settings.limit    %}
+{% assign row 				= section.settings.row      %}
+{% assign image_size = section.settings.image_size %}
+
+<div class="widget-product-carousel clearfix {% if section.settings.show_dot %} show_dot{% endif %}">
+  <div class="container">
+    <div class="widget-content products-listing grid"> 
+      <div class="home-title">
+        {% if section.settings.title1 != blank %}
+        <h3>{{ section.settings.title1 }}</h3>
+        {% endif %}
+         {% if section.settings.collection_description != blank %}
+        <p class="description">{{ section.settings.collection_description }}</p>
+        {% endif %}
+      </div>
+      <div class="widget-product__item">
+        <div class="banner-product banners">
+            <div class="image">
+            <a  class="img1" href="{{ section.settings.link1 }}" title="{{ section.settings.link1.alt | default: shop.name }}">
+              {% if section.settings.image1 != blank %}
+              <img class="img-responsive lazyload" data-sizes="auto" src="{{ "icon-loadings.svg" | asset_url }}" alt="{{ section.settings.image1.alt | default: shop.name }}" data-src="{{ section.settings.image1 | img_url: 'master' }}" />
+              {% else %}
+              <img class="img-responsive" alt="{{ shop.name }}" src="//placehold.it/635x850" />
+              {% endif %}
+            </a>
+          </div>
+           <div class="button-more">
+            <a class="bt" href="{{ section.settings.link1 }}">
+             {{ section.settings.text_button }}
+            
+            </a>
+          </div>
+        </div>
+          <div class="product-layout block-content">
+            <div class="ss-carousel ss-owl">
+              <div class="owl-carousel" 
+                   {% if settings.enable_rtl %}data-rtl="true"{% endif %}
+                   data-nav		="{{ nav }}"
+                   data-margin	="{{ margin }}"
+                   data-autoplay	="{{ autoplay }}" 
+                   data-autospeed	="{{ autospeed }}" 
+                   data-speed		="{{ speed }}"
+                   data-column1	="{{ column1 }}" 
+                   data-column2	="{{ column2 }}" 
+                   data-column3	="{{ column3 }}" 
+                   data-column4	="{{ column4 }}" 
+                   data-column5	="{{ column5 }}"
+                   >
+                {% for product in collections[list_collection].products limit:limit %}
+
+                {% assign col = forloop.index | modulo:section.settings.row  %}
+                {% assign col3 = forloop.index0 | modulo:section.settings.row   %}
+                {% assign col2 = forloop.index %} 
+
+                {% if col3 == 0 or col2 == 1  %}
+                <div class="item">
+                  {% endif %}
+                  {% include 'product-card-grid-index' %}
+                  {% if col == 0 or forloop.last  %}
+                </div>
+                {% endif %}
+                {% else %}
+                {% for product in (1..limit) %}
+                {% assign col = forloop.index | modulo:section.settings.row  %}
+                {% assign col3 = forloop.index0 | modulo:section.settings.row   %}
+                {% assign col2 = forloop.index %} 
+                {% if col3 == 0 or col2 == 1  %}
+                <div class="item">
+                  {% endif %}
+                  <div class="product-item product-item-container clearfix no-product">
+                    <a href="#" class="product-img">
+                      {% capture current %}{% cycle 1, 2, 3, 4, 5, 6 %}{% endcapture %}
+                      {{ 'product-' | append: current | placeholder_svg_tag: 'placeholder-svg' }}
+                    </a>
+                    <div class="right-block">
+                     
+						<div class="caption">
+                      <div class="product-name">Product's Demo {{ forloop.index }}</div>
+						 <div class="price">
+                        <span class="price-new"><span class="money" data-currency-usd="$111.00">$111.00</span></span>
+                        <span class="price-old"> <span class="money" data-currency-usd="$160.00">$160.00</span> </span>
+                      </div>
+                          </div>
+                       <div class="caption2">
+                          <div class="custom-reviews hidden-xs">          
+                            <span class="shopify-product-reviews-badge" data-id="{{ product.id }}"></span>          
+                          </div>
+                         <div class="button-link">
+							 <div class="btn-button add-to-cart action  ">    
+                              <form action="/cart/add" method="post" class="variants" data-id="AddToCartForm-2218661838910" enctype="multipart/form-data">   
+                                <input type="hidden" name="id" value="20081097441342">           
+                                <a class="btn-addToCart grl btn_df" href="javascript:void(0)" title="Add to cart"><i class="fa fa-shopping-cart"></i><span class="">Add to cart</span></a>
+                              </form>  
+                            </div>
+                             <div class="product-addto-links">
+        
+                                  <a class="btn_df btnProduct" href="/account/login" title="Wishlist">
+                                      <i class="fa fa-heart"></i>
+                                      <span class="hidden">Wishlist</span>
+                                  </a>
+
+                          </div>
+                            </div>
+                      </div>
+                    </div>
+                  </div>
+                  {% if col == 0 or forloop.last  %}
+                </div>
+                {% endif %}
+                {% endfor %}
+                {% endfor %}
+              </div>              
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+{
+"name": "Home - Product Carousel",
+"class": "home-section",
+"settings": [
+		{
+            "type": "header",
+            "content": "Garenal Setting"
+		},
+		{
+            "type": "text",
+            "id": "title1",
+            "label": "Widget Name",
+            "default": "Product Carousel"
+		},
+		{
+        "type": "image_picker",
+        "id": "image1",
+        "label": "Banner image1"
+        },
+        {
+        "type": "url",
+        "id": "link1",
+        "label": "Link1",
+        "info": "Image link1"
+        },
+        {
+            "type": "collection",
+            "id": "collection",
+            "label": "Collection"
+        },
+       
+		
+		{
+            "type": "text",
+            "id": "image_size",
+            "label": "Image product size",
+            "default": "270x",
+            "info": "[Size parameters](https://help.shopify.com/themes/liquid/filters/url-filters#size-parameters)"
+		},
+		{
+            "type": "header",
+            "content": "Owl Settings"
+		},
+		{
+            "type": "select",
+            "id": "column1",
+            "label": "#Column 1",
+            "default": "5",
+            "info": "For Large desktops have screen > 1200px",
+     "options":[
+		{
+            "value": "1",
+            "label": "1"
+		},
+		{
+            "value": "2",
+            "label": "2"
+		},
+		{
+            "value": "3",
+            "label": "3"
+		},
+		{
+            "value": "4",
+            "label": "4"
+		},
+		{
+            "value": "5",
+            "label": "5"
+		},		
+		{
+            "value": "6",
+            "label": "6"
+		}
+				]
+		},
+		{
+            "type": "select",
+            "id": "column2",
+            "label": "#Column 2",
+            "default": "4",
+            "info": "For Tablets have screen 992px to 1199px.",
+	"options":[
+		{
+            "value": "1",
+            "label": "1"
+        },
+		{
+            "value": "2",
+            "label": "2"
+		},
+		{
+          "value": "3",
+          "label": "3"
+        },
+        {
+          "value": "4",
+          "label": "4"
+        },
+        {
+          "value": "5",
+          "label": "5"
+		}
+			]
+		},
+        {
+          "type": "select",
+          "id": "column3",
+          "label": "#Column 3",
+          "info": "For Tablets have screen 768px to 991px.",
+          "default": "3",
+        "options":[
+        {
+          "value": "1",
+          "label": "1"
+        },
+        {
+          "value": "2",
+          "label": "2"
+        },
+        {
+          "value": "3",
+          "label": "3"
+        },
+        {
+          "value": "4",
+          "label": "4"
+        },
+        {
+          "value": "5",
+          "label": "5"
+        }
+        ]
+        },
+        {
+          "type": "select",
+          "id": "column4",
+          "label": "#Column 4",
+          "default": "2",
+          "info": "For Smartphones landscape have screen 568px to 767px",
+        "options":[
+        {
+          "value": "1",
+          "label": "1"
+        },
+        {
+          "value": "2",
+          "label": "2"
+        },
+        {
+          "value": "3",
+          "label": "3"
+        },
+        {
+          "value": "4",
+          "label": "4"
+        },
+        {
+          "value": "5",
+          "label": "5"
+        }
+        ]
+        },
+        {
+          "type": "select",
+          "id": "column5",
+          "label": "#Column 5",
+          "default": "1",
+          "info": "For Smartphones have screen 321px to 567px.",
+        "options":[
+        {
+          "value": "1",
+          "label": "1"
+        },
+        {
+          "value": "2",
+          "label": "2"
+        }
+        ]
+        },
+        {
+          "type": "select",
+          "id": "row",
+          "label": "Sellect Row",
+          "default": "1",
+        "options":[
+        {
+          "value": "1",
+          "label": "1"
+        },
+        {
+          "value": "2",
+          "label": "2"
+        }
+        ]
+        },
+        {
+          "type": "text",
+          "id": "limit",
+          "label": "Limit Item",
+          "default": "8"
+        },
+        {
+          "type": "checkbox",
+          "id": "owl_navigation",
+          "label": "Show navigation",
+          "default": true
+        },
+        {
+        "type": "checkbox",
+        "id": "show_dot",
+        "label": "Show dot",
+        "default": true
+        },
+        {
+          "type": "text",
+          "id": "owl_margin",
+          "label": "Margin Item",
+          "default": "30"
+        },
+        {
+          "type": "checkbox",
+          "id": "owl_autoplay",
+          "label": "Owl Auto Play",
+          "default": false
+        },
+        {
+          "type": "text",
+          "id": "owl_autoplay_speed",
+          "label": "Owl Auto Play speed",
+          "info": "Default: 10000(ms)",
+          "default": "10000"
+        },
+        {
+          "type": "text",
+          "id": "owl_speed",
+          "label": "Owl Speed",
+          "info": "Slide/Fade animation speed",
+          "default": "300"
+        },
+ 		
+{
+          "type": "text",
+          "id": "text_button",
+          "label": "Button",
+          "default": "+ Full Menu"
+        }
+		 
+        ],
+        "presets": [
+        	{
+              "name": "Home Products Slider",
+              "category": "Product"
+        	}
+        ]
+      }
+{% endschema %}
+
+{% stylesheet %}
+
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,148 @@
+{% assign list_collection 	= section.settings.collection %}
+{%- assign collection = collections[section.settings.collection] -%}
+
+{% assign limit 			= section.settings.limit    %}
+{%- assign img_url = section.settings.bg_img | img_url: 'master' -%}
+
+{% assign image_size = section.settings.image_size %}
+
+<div class="widget-dessert clearfix" {% if section.settings.bg_img !=blank %}style="background : url('{{ img_url }}') no-repeat top center; background-size: cover;"
+          {%endif%}>
+  <div class="container">
+    <div class="widget-content"> 
+      <div class="home-title">
+        {% if section.settings.title != blank %}
+        <h3>{{ section.settings.title }}</h3>
+        {% endif %}
+         {% if section.settings.collection_description != blank %}
+        <p class="description">{{ section.settings.collection_description }}</p>
+        {% endif %}
+      </div>
+      <div class="widget-product__item">
+          <div class="wrap row">
+             
+                {% for product in collections[list_collection].products limit:limit %}
+
+                {% assign col2 = forloop.index %} 
+
+                <div class="item tab-pane col-sm-6 col-12">
+                  {% include 'menu-index' %}
+                </div>
+                {% else %}
+                {% for product in (1..limit) %}
+                {% assign col2 = forloop.index %} 
+                 <div class="item tab-pane col-sm-6 col-12">
+                  <div class="product-item">
+                    <div class="right-block">
+                      <div class="caption">
+                        <h4 class="title title-product text-truncate"><a class="product-name" href="/products/dexcepteur-magna">Product's Demo {{ forloop.index }}</a></h4>
+                        <div  class="dot"></div>
+                         
+						 <div class="price">
+                        <span class="price-new"><span class="money" data-currency-usd="$111.00">$111.00</span></span>
+                        <span class="price-old"> <span class="money" data-currency-usd="$160.00">$160.00</span> </span>
+                      </div>
+
+
+                      </div>
+                      <div class="rte description">  
+                         Curabitur egestas malesuada volutpat. Nunc vel vestibulum odio, ac 
+
+
+                        </div>
+
+                    </div> 
+                </div>
+                   </div>
+                 
+                
+                {% endfor %}
+                {% endfor %}
+          </div>
+         <div class="button-more">
+            <span class="bt toggle-more">
+             {{ section.settings.text_button }}
+            
+            </span>
+            <span class="bt toggle-less">
+             {{ section.settings.text_button2 }}
+            
+            </span>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+{
+"name": "Home - Menu",
+"class": "home-section",
+"settings": [
+		{
+            "type": "header",
+            "content": "Garenal Setting"
+		},
+		{
+          "type": "image_picker",
+          "id": "bg_img",
+          "label": "BG Img"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Heading",
+          "default": "Dessert list"
+        },
+        {
+            "type": "collection",
+            "id": "collection",
+            "label": "Collection"
+        },
+       
+		
+		{
+            "type": "text",
+            "id": "image_size",
+            "label": "Image product size",
+            "default": "270x",
+            "info": "[Size parameters](https://help.shopify.com/themes/liquid/filters/url-filters#size-parameters)"
+		},
+		
+        {
+          "type": "text",
+          "id": "limit",
+          "label": "Limit Item",
+          "default": "8"
+        },
+      
+ 		{
+          "type": "text",
+          "id": "text_button",
+          "label": "Toggle more",
+          "default": "+ Full Menu"
+        },
+		{
+          "type": "text",
+          "id": "text_button2",
+          "label": "Toggle less",
+          "default": "- Less Menu"
+        }
+		 
+        ],
+        "presets": [
+        	{
+              "name": "Home Menu",
+              "category": "Product"
+        	}
+        ]
+      }
+{% endschema %}
+
+{% stylesheet %}
+
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

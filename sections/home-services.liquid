@@ -1,0 +1,438 @@
+{% assign column0			= section.settings.column0  %}
+{% assign column1			= section.settings.column1  %}
+{% assign column2 			= section.settings.column2  %}
+{% assign column3 			= section.settings.column3  %}
+{% assign column4 			= section.settings.column4  %}
+{% assign column5 			= section.settings.column5  %}
+{% assign margin			= section.settings.owl_margin  %}
+{% assign nav				= section.settings.owl_navigation  %}
+{% assign autoplay			= section.settings.owl_autoplay  %}
+{% assign autospeed			= section.settings.owl_autoplay_speed  %}
+{% assign speed				= section.settings.owl_speed  %}
+<div class="widget-services {{ section.settings.style }}">
+  <div class="{% if section.settings.show_container %}full{% else %}container{% endif %}">
+    <div class="home-services">
+      <div class="services-inline">
+        {% if section.settings.title != blank %}<h3 class="title-home hidden">{{ section.settings.title }}</h3>{% endif %}
+         {% if section.blocks.size > 0 %}
+    <div class="ss-carousel ss-owl logo-bars">
+      <div class="product-layout owl-carousel" 
+           data-nav			="{{ nav }}" 
+           data-margin		="{{ margin }}"
+           {% if settings.enable_rtl %}data-rtl="true"{% endif %}
+           data-autoplay	="{{ autoplay }}" 
+           data-autospeed	="{{ autospeed }}" 
+           data-speed		="{{ speed }}"
+           data-column0		="{{ column0 }}" 
+           data-column1		="{{ column1 }}" 
+           data-column2		="{{ column2 }}" 
+           data-column3		="{{ column3 }}" 
+           data-column4		="{{ column4 }}" 
+           data-column5		="{{ column5 }}">
+            
+            {% for block in section.blocks %}
+			
+             {% assign col = forloop.index | modulo:section.settings.row  %}
+            {% assign col3 = forloop.index0 | modulo:section.settings.row   %}
+            {% assign col2 = forloop.index %} 
+            {% if col3 == 0 or col2 == 1  %}
+            <div class="policy policy{{ forloop.index0 }}">
+               {% endif %}
+              <div class="policy_inner">
+                {% if block.settings.sv_icon !=blank %}
+                <div class="service-ico">
+                  <i class="material-icons">{{ block.settings.sv_icon }}</i>
+                  
+                </div>
+                
+                
+                {% endif %}
+                
+                  {% if block.settings.show_image !=blank %}
+                <div class="service-ico">
+                <a class="image" href="{{ block.settings.link }}">
+                 {% if block.settings.image != blank %}
+                    <img class="img-responsive" alt="{{ block.settings.image.alt | default: shop.name }}" src="{{ block.settings.image | img_url:'master' }}" />
+                    {% else %}
+                    <img class="img-responsive" alt="{{ shop.name }}" src="//placehold.it/50x50" />
+                    {% endif %}
+                </a>
+                </div>
+                {% endif %}
+                <div class="service-info">
+                  {% if block.settings.title != blank %}<h2 class="title"><a href="{{ block.settings.link }}">{{ block.settings.title }}</a></h2>{% endif %}
+                  {% if block.settings.description != blank %}<p class="des">{{ block.settings.description }}</p>{% endif %}
+                </div>
+              </div>
+               {% if col == 0 or forloop.last  %}
+            </div>
+             {% endif %}
+            {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+"name": "Home Services",
+"class": "home-section clearfix",
+"settings":[
+{
+"type": "header",
+"content": "General Settings"
+},
+{
+"type": "checkbox",
+"id": "show_container",
+"label": "Full width",
+"default": true
+},
+{
+"type": "select",
+"id": "style",
+"label": "Select Style",
+"default": "style-df",
+"options":[
+{
+"value": "style-df",
+"label": "Style Default"
+},
+{
+"value": "style-2",
+"label": "Style 2"
+}
+]
+},
+{
+"type": "text",
+"id": "title",
+"label": "Title",
+"placeholder": "Title",
+"default": "false"
+},
+{
+"type": "header",
+"content": "Owl Settings"
+},
+{
+"type": "select",
+"id": "column0",
+"label": "#Column 0",
+"default": "4",
+"info": "For Large desktops have screen > 1920px",
+"options":[
+{
+"value": "1",
+"label": "1"
+},
+{
+"value": "2",
+"label": "2"
+},
+{
+"value": "3",
+"label": "3"
+},
+{
+"value": "4",
+"label": "4"
+},
+{
+"value": "5",
+"label": "5"
+},
+{
+"value": "6",
+"label": "6"
+},
+{
+"value": "7",
+"label": "7"
+},
+{
+"value": "8",
+"label": "8"
+}
+]
+},
+{
+"type": "select",
+"id": "column1",
+"label": "#Column 1",
+"default": "4",
+"info": "For Large desktops have screen > 1200px",
+"options":[
+{
+"value": "1",
+"label": "1"
+},
+{
+"value": "2",
+"label": "2"
+},
+{
+"value": "3",
+"label": "3"
+},
+{
+"value": "4",
+"label": "4"
+},
+{
+"value": "5",
+"label": "5"
+},
+{
+"value": "6",
+"label": "6"
+},
+{
+"value": "7",
+"label": "7"
+},
+{
+"value": "8",
+"label": "8"
+}
+]
+},
+{
+"type": "select",
+"id": "column2",
+"label": "#Column 2",
+"default": "3",
+"info": "For Tablets have screen 992px to 1199px.",
+"options":[
+{
+"value": "1",
+"label": "1"
+},
+{
+"value": "2",
+"label": "2"
+},
+{
+"value": "3",
+"label": "3"
+},
+{
+"value": "4",
+"label": "4"
+},
+{
+"value": "5",
+"label": "5"
+},
+{
+"value": "6",
+"label": "6"
+},
+{
+"value": "7",
+"label": "7"
+},
+{
+"value": "8",
+"label": "8"
+}
+]
+},
+{
+"type": "select",
+"id": "column3",
+"label": "#Column 3",
+"info": "For Tablets have screen 768px to 991px.",
+"default": "2",
+"options":[
+{
+"value": "1",
+"label": "1"
+},
+{
+"value": "2",
+"label": "2"
+},
+{
+"value": "3",
+"label": "3"
+},
+{
+"value": "4",
+"label": "4"
+},
+{
+"value": "5",
+"label": "5"
+},
+{
+"value": "6",
+"label": "6"
+},
+{
+"value": "7",
+"label": "7"
+},
+{
+"value": "8",
+"label": "8"
+}
+]
+},
+{
+"type": "select",
+"id": "column4",
+"label": "#Column 4",
+"default": "2",
+"info": "For Smartphones landscape have screen 568px to 767px",
+"options":[
+{
+"value": "1",
+"label": "1"
+},
+{
+"value": "2",
+"label": "2"
+},
+{
+"value": "3",
+"label": "3"
+},
+{
+"value": "4",
+"label": "4"
+},
+{
+"value": "5",
+"label": "5"
+}
+]
+},
+{
+"type": "select",
+"id": "column5",
+"label": "#Column 5",
+"default": "1",
+"info": "For Smartphones have screen 320px to 567px.",
+"options":[
+{
+"value": "1",
+"label": "1"
+},
+{
+"value": "2",
+"label": "2"
+}
+]
+},
+{
+"type": "select",
+"id": "row",
+"label": "Sellect Row",
+"default": "1",
+"options":[
+{
+"value": "1",
+"label": "1"
+},
+{
+"value": "2",
+"label": "2"
+},
+{
+"value": "3",
+"label": "3"
+},
+{
+"value": "4",
+"label": "4"
+}
+]
+},
+{
+"type": "text",
+"id": "owl_margin",
+"label": "Margin Item",
+"default": "10"
+},
+ {
+      "type": "checkbox",
+      "id": "owl_autoplay",
+      "label": "Owl Auto Play",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "owl_autoplay_speed",
+      "label": "Owl Auto Play speed",
+      "info": "Default: 10000(ms)",
+      "default": "10000"
+    },
+    {
+      "type": "text",
+      "id": "owl_speed",
+      "label": "Owl Speed",
+      "info": "Slide/Fade animation speed",
+      "default": "300"
+    }
+],
+"blocks": [
+{
+"type": "box",
+"name": "Service Item",
+"settings": [
+{
+"type": "text",
+"id": "sv_icon",
+"label": "Icon name (Font Material)",
+"info": "[Use Font Material](http:\/\/material.io\/icons\/)",
+"default":"local_shipping"
+},
+{
+"type": "checkbox",
+"id": "show_image",
+"label": "Show image",
+"default": false
+},
+{
+"type": "image_picker",
+"id": "image",
+"label": "image icon"
+},
+{
+"type": "text",
+"id": "title",
+"label": "Title",
+"placeholder": "Title",
+"default": "Free Shipping & Return"
+},
+ {
+          "type": "url",
+          "id": "link",
+          "label": "Link",
+          "label": "link"
+        },
+{
+"type": "text",
+"id": "description",
+"label": "Description",
+"placeholder": "Title",
+"default": "Free shipping on orders over $49"
+}
+
+]
+}
+],
+"presets": [
+{
+"name": "Home Services",
+"category": "Services",
+"settings":{
+"title":"Home Services"
+}
+}
+]
+}
+{% endschema %}

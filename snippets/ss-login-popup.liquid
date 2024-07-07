@@ -1,0 +1,55 @@
+
+<div class="bd-example-tabs">
+  <a href="javascript:void(0)" title="Close" class="close close-login fa fa-times" data-dismiss="modal"></a>
+  <nav>
+  <div class="nav nav-tabs">
+          
+          <a class="nav-item nav-link login active" href="#CustomerLoginForm" data-toggle="tab">Sign in</a>
+          
+          
+          <a class="nav-item nav-link register" href="#Register" data-toggle="tab">Register</a>
+          
+          
+        </div>
+  </nav>
+ <div class="tab-content" id="nav-tabContent">
+  <div id="CustomerLoginForm" class="tab-pane active">
+
+    {% form 'customer_login' %}
+
+    <label for="CustomerEmail">{{ 'customer.login.email' | t }}</label>
+    <input required  placeholder="" type="email" name="customer[email]" id="CustomerEmail" class="{% if form.errors contains 'email' %} input--error{% endif %}" autofocus>
+
+    {% if form.password_needed %}
+    <label for="CustomerPassword">{{ 'customer.login.password' | t }}</label>
+    <input required placeholder="" type="password" value="" name="customer[password]" id="CustomerPassword" class="{% if form.errors contains 'password' %} input--error{% endif %}">
+    {% endif %}
+
+    <div class="text-left">
+      <input type="submit" class="btn btn-submit" value=" + {{ 'customer.login.sign_in' | t }}">
+      {% if form.password_needed %}
+      <p><a href="/account/login/#recover">{{ 'customer.login.forgot_password' | t }}</a></p>
+      {% endif %}
+
+      <p>
+
+      </p>
+    </div>
+
+    {% endform %}
+  </div>
+  <div id="Register" class="tab-pane">
+ 
+    <h2>{{ 'customer.login.new_here' | t }}</h2>
+    <p class="note-reg">{{ 'customer.login.registration_easy' | t }}</p>
+    <ul class="list-log">
+      <li>{{ 'customer.login.faster_checkout' | t }}</li>
+      <li>{{ 'customer.login.save' | t }}</li>
+      <li>{{ 'customer.login.view' | t }}</li>
+    </ul>                                    
+       {{ 'layout.customer.create_account' | t | customer_register_link }}
+                               
+    
+  </div>
+</div>
+</div>

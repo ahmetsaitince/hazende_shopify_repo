@@ -1,0 +1,144 @@
+{% if block.settings.image_size != blank %}
+{% assign image_size = block.settings.image_size %}
+{% else %}
+{% assign image_size = 'master' %}
+{% endif %}
+{%- assign img_url = section.settings.bg_img | img_url: 'master' -%}
+
+{% assign min = 65 %}
+{% assign max = 80 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
+
+<div id="product-{{ randomNumber }}" class="widget-product-list" {% if section.settings.bg_img !=blank %}style="background : url('{{ img_url }}') no-repeat top center; background-size: cover;"
+          {%endif%}>
+  
+ 
+  
+	<div class="{% if show_container %}container_full{% else %}container{% endif %}">
+    <div class="wrap">
+		<div class="tab-vertical">
+  <div class="tabs-menu">
+          <span class="tabs-menu_btn open-title-menu"><i class="fa fa-bars"></i></span>
+        <ul class="nav nav-tabs tabs-menu_title tabs-title">
+        	{% for block in section.blocks %}
+          
+          <li class="nav-item "><a class="nav-link nav-link{{ forloop.index }} {% if forloop.index == 1 %}active{% endif %}" href="#pro_tabs{{ forloop.index }}" data-toggle="tab">{{ block.settings.title }}</a></li>
+           {% endfor %}
+        </ul>
+          </div>
+        <div class="tab-content">
+        	{% for block in section.blocks %}
+          <div class="tab-pane tab-pane{{ forloop.index }} {% if forloop.index == 1 %}active{% endif %}" id="pro_tabs{{ forloop.index }}">               
+            <div class="rte description">
+              {{ block.settings.dec }}
+            </div>
+            {% if block.settings.link != blank %}
+          <a href="{{ block.settings.link }}" class="logo-bar__link">
+            {% endif %}
+            {% if block.settings.image != blank %}
+            <img class="img-responsive" alt="{{ block.settings.image.alt | default: shop.name }}" src="{{ block.settings.image | img_url: image_size }}" />
+            {% else %}
+             <img class="img-responsive" alt="{{ shop.name }}" src="//placehold.it/270x270" />
+            {% endif %}
+            {% if block.settings.link != blank %}
+          </a>
+          {% endif %}
+          </div>
+           {% endfor %}
+
+        </div>
+      </div>
+        </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Home Product List",
+  "class": "home-section",
+  "max_blocks": 5,
+  "settings": [
+	{
+      "type": "header",
+      "content": "Settings Garenal"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_container",
+      "label": "Section Full Width",
+      "default": false
+    },
+	{
+      "type": "image_picker",
+      "id": "bg_img",
+      "label": "BG Img"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading",
+      "default": "Product List"
+    }
+
+    
+  ],
+  "blocks": [
+    {
+      "type": "item_product",
+      "name": "Item",
+      "settings": [
+		{
+	      "type": "text",
+	      "id": "title",
+	      "label": "title",
+	      "default": "title"
+	    },
+		{
+          "type": "textarea",
+          "id": "dec",
+          "label": "dec",
+          "info": "Optional"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "image_size",
+          "label": "Image size",
+          "default": "170x100",
+          "info": "[Size parameters](https://help.shopify.com/themes/liquid/filters/url-filters#size-parameters)"
+        },
+       
+		{
+          "type": "url",
+          "id": "link",
+          "label": "Link",
+          "info": "Optional"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Home Product List",
+      "category": "Image",
+      "blocks": [
+        {
+          "type": "item_product"
+        },
+        {
+          "type": "item_product"
+        },
+        {
+          "type": "item_product"
+        }
+        
+      ]
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,144 @@
+<div class="widget-instagram">
+  <div class="{% if section.settings.container_full %}container-full{% else %}container{% endif %}">
+    {% if section.settings.title_instagram %}
+    <div class="title">      
+      {{ section.settings.title_instagram }}
+    </div>  
+    {% endif %}
+    <div class="widget-content"> 
+      <div id="instafeed" class="instagram-slide" 
+           data-id="instafeed{{ section.id }}"
+           data-userid="{{ section.settings.userid }}"
+           data-accesstoken="{{ section.settings.accessToken }}"
+           data-tag="{{ section.settings.tag }}"
+           data-limit="{{ section.settings.limited }}"
+           data-resolution="{{ section.settings.resolution }}"
+           data-navigation="{{ section.settings.navigation }}">
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  var hastag = '{{ section.settings.tag }}';
+  var currentCount = 0;
+  (function() {
+    "use strict";
+    
+    if (hastag != "") {
+          var feed = new Instafeed({
+            get: 'user',
+            userId: '{{ section.settings.userid }}',
+            accessToken: '{{ section.settings.accessToken }}',
+            resolution: '{{ section.settings.resolution }}',
+            template: '<div class="instagram-item"><a href="{'+'{link}}" id="{'+'{id}}"><div class="hover-mask"></div><img class="card-image lazyload" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="{'+'{image}}" /></a><div class="dec"><i class="fa fa-instagram" aria-hidden="true"></i><p>{'+'{caption}}</p></div></div>',
+            filter: function(image) {
+              // put your real limit here
+              var shouldDisplay = (currentCount < {{ section.settings.limited }});
+
+              if (shouldDisplay) {
+                if (image.tags && image.tags.indexOf(hastag) >= 0) {
+                  currentCount += 1;
+                } else {
+                  shouldDisplay = false;
+                }
+              }
+
+              return shouldDisplay;
+            }
+          });
+    } else {
+    var feed = new Instafeed({
+      get: 'user',
+      userId: '{{ section.settings.userid }}',
+      accessToken: '{{ section.settings.accessToken }}',
+      resolution: '{{ section.settings.resolution }}',
+      template: '<div class="instagram-item"><a href="{'+'{link}}" id="{'+'{id}}"><div class="hover-mask"></div><img class="card-image lazyload" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="{'+'{image}}" /></a><div class="dec"><i class="fa fa-instagram" aria-hidden="true"></i><p>{'+'{caption}}</p></div></div>',
+      sortBy: 'most-recent',
+      limit: '{{ section.settings.limited }}',
+      links: true
+	});
+    }
+    feed.run();
+  })();
+</script>
+
+{% schema %}
+    {
+        "name": "Home Instagram",
+        "class": "home-section",
+        "settings": [
+            {
+                "type": "checkbox",
+                "id": "container_full",
+                "label": "Show Container Full ?",
+                "default": false
+            },
+            {
+                "type": "header",
+                "content": "Setting Instagram"
+            },
+            {
+                "type": "text",
+                "id": "title_instagram",
+                "label": "Title Instagram",
+				"default": "share your style with <a href='#'>@nova</a> <i class='fa fa-instagram'></i>"
+            },
+            {
+                "type": "text",
+                "id": "userid",
+                "label": "User Id (*)",
+                "placeholder": "User Id",
+                "default": "4012702189",
+                "info": "[Where do I find User ID?](https:\/\/smashballoon.com\/instagram-feed\/find-instagram-user-id\/)"
+            },
+            {
+                "type": "text",
+                "id": "accessToken",
+                "label": "Access Token (*)",
+                "placeholder": "Access Token",
+                "default": "4012702189.1677ed0.d5482a8171664404a766446364e5e391",
+                "info": "[Where do I find Access Token?](http:\/\/instagram.pixelunion.net\/)"
+            },
+            {
+                "type": "text",
+                "id": "tag",
+                "label": "Hastag of Image",
+                "default": "nova3"
+            },
+            {
+                "type": "text",
+                "id": "limited",
+                "placeholder": "Ex:8",
+                "label": "Limit The Number of Images",
+                "default": "5"
+            },
+            {
+                "type": "select",
+                "id": "resolution",
+                "label": "Resolution of images",
+				"default": "low_resolution",
+                "options": [
+                    {
+                        "value": "thumbnail",
+                        "label": "Thumbnail (150x150)"
+                    },
+                    {
+                        "value": "low_resolution",
+                        "label": "Low Resolution (320x320)"
+                    },
+                    {
+                        "value": "standard_resolution",
+                        "label": "Standard Resolution (640x640)"
+                    }
+                ]
+            }
+        ],
+        "presets": [
+            {
+                "name": "Home Instagram",
+                "category": "Image"
+            }
+        ]
+    }
+{% endschema %}

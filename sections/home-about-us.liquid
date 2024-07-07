@@ -1,0 +1,234 @@
+{% assign nav				= section.settings.owl_navigation  %}
+{% assign margin			= section.settings.owl_margin  %}
+{% assign dots				= section.settings.show_dot  %}
+{% assign autoplay			= section.settings.owl_autoplay  %}
+{% assign autospeed			= section.settings.owl_autoplay_speed  %}
+{% assign speed				= section.settings.owl_speed  %}
+{%- assign img_url = section.settings.background_image | img_url: 'master' -%}
+
+<div class="widget-about-us {% if section.settings.show_dot %}show_dot{% endif %}">
+  <div class="{% if section.settings.container_full %}container-full{% else %}container{% endif %} bg-image"
+       style="background : {% if section.settings.background_image !=blank %}url('{{ img_url }}');{%else%}
+              {{section.settings.background_color}} ;{%endif%}" 
+       >
+
+      {% if section.settings.title2 != blank %}
+      <div class="home-title"><h2>{{ section.settings.title2 }}</h2></div>
+      {% endif %}
+      <div class="testimonial">
+         <div class="banner-product banners">
+            <div class="image">
+            <a  class="img1" href="{{ section.settings.link1 }}" title="{{ section.settings.link1.alt | default: shop.name }}">
+              {% if section.settings.image1 != blank %}
+              <img class="img-responsive lazyload" data-sizes="auto" src="{{ "icon-loadings.svg" | asset_url }}" alt="{{ section.settings.image1.alt | default: shop.name }}" data-src="{{ section.settings.image1 | img_url: 'master' }}" />
+              {% else %}
+              <img class="img-responsive" alt="{{ shop.name }}" src="//placehold.it/952x600" />
+              {% endif %}
+            </a>
+          </div>
+        </div>
+        <div class="ss-carousel ss-owl client-carousel">
+          <div class="owl-carousel" 
+               {% if settings.enable_rtl %}data-rtl="true"{% endif %}
+               data-nav			="{{ nav }}" 
+               data-dots		="{{ dots }}"
+               data-margin		="{{ margin }}"
+               data-autoplay	="{{ autoplay }}" 
+               data-autospeed	="{{ autospeed }}" 
+               data-speed		="{{ speed }}" 
+               data-column1	="1" 
+               data-column2	="1" 
+               data-column3	="1" 
+               data-column4	="1" 
+               data-column5	="1">
+            {% for block in section.blocks %}
+            {% if block.settings.user != blank %}
+            <div class="item">
+              <div class="info">
+                <div class="client-image">
+                  {% if block.settings.image != blank %}
+                  <img class="img-responsive lazyload" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ block.settings.image | img_url:'187x',crop:'center' }}" alt="{{ block.settings.image.alt | default: shop.name }}" />
+                  {% else %}
+                  <img class="img-responsive lazyload" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//placehold.it/187x138" alt="{{ shop.name }}" />
+                  {% endif %}                 
+                </div>
+                <div class="client-info">
+                   {% if  block.settings.client_quote != '' %}
+                <p class="client-quote">
+                  {{ block.settings.client_quote }}
+                </p>
+                {% endif %}
+                  {% if  section.settings.show_review != '' %}
+                   <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i> - 
+                   {% endif %}
+                  <h2>{% if  block.settings.client_name != '' %}{{ block.settings.client_name }}{% endif %}</h2>
+                 
+                </div>
+               <div class="info-dec">
+                    {% if  block.settings.client_dec != '' %}{{ block.settings.client_dec }}{% endif %}
+                  </div>
+              </div>
+            </div>
+            {% endif %}
+            {% else %}
+            {% for product in (1..2) %}
+            <div style="padding: 10px;" class="item">     
+              <div class="info">
+                <div class="client-image">
+                  {% if block.settings.image != blank %}
+                  <img class="img-responsive" alt="{{ block.settings.image.alt | default: shop.name }}" src="{{ block.settings.image | img_url:'master' }}" />
+                  {% else %}
+                  <img class="img-responsive" alt="{{ shop.name }}" src="//placehold.it/86x86" />
+                  {% endif %}                 
+                </div>
+              </div>
+              <p class="client-quote">
+                “Duis aliquam, magna ac fermentum are finibus, orci viverra risus, non into varius tellus tortor sed eros. Sed pharetra ante sit amet suscipit ornare”
+              </p> 
+              <div class="client-info">
+                <div class="client-name">John - Manager </div>
+              </div>
+            </div>
+            {% endfor %}
+            {% endfor %}
+          </div>
+        </div>  
+      </div>
+ 
+  </div>  
+</div>
+
+
+{% schema %}
+{
+	"name": "About us",
+	"class": "home-section",
+	"settings":[
+        {
+          "type": "header",
+          "content": "General Settings"
+        },
+		{
+          "type": "checkbox",
+          "id": "container_full",
+          "label": "Show Container Full ?",
+          "default": true
+        },
+        {
+          "type": "image_picker",
+          "id": "background_image",
+          "label": "Background image"
+        },
+        {
+          "type": "color",
+          "id": "background_color",
+          "label": "Background color",
+          "default": "#111111"
+        },
+		{
+        "type": "image_picker",
+        "id": "image1",
+        "label": "Banner image1"
+        },
+        {
+        "type": "url",
+        "id": "link1",
+        "label": "Link1",
+        "info": "Image link1"
+        },
+		{
+          "type": "header",
+          "content": "Owl Settings"
+        },
+        {
+          "type": "checkbox",
+          "id": "owl_navigation",
+          "label": "Show navigation",
+          "default": true
+        },
+        {
+          "type": "checkbox",
+          "id": "show_dot",
+          "label": "Show dot",
+          "default": true
+        },
+ 			{
+          "type": "checkbox",
+          "id": "show_review",
+          "label": "Show Review",
+          "default": true
+        },
+        {
+          "type": "text",
+          "id": "owl_margin",
+          "label": "Margin Item",
+          "default": "30"
+        },
+        {
+          "type": "checkbox",
+          "id": "owl_autoplay",
+          "label": "Owl Auto Play",
+          "default": false
+        },
+        {
+          "type": "text",
+          "id": "owl_autoplay_speed",
+          "label": "Owl Auto Play speed",
+          "info": "Default: 10000(ms)",
+          "default": "10000"
+        },
+        {
+          "type": "text",
+          "id": "owl_speed",
+          "label": "Owl Speed",
+          "info": "Slide/Fade animation speed",
+          "default": "300"
+        }
+	],
+ "blocks": [
+        {
+            "type": "testimonial",
+            "name": "Client",
+            "settings": [
+                  {
+                    "type": "header",
+                    "content": "Client"
+                  },
+                  {
+                    "type": "checkbox",
+                    "id": "user",
+                    "label": "Display user"
+                  },
+                  {
+                    "type": "text",
+                    "id": "client_name",
+                    "label": "Client Name"
+                  },
+                  {
+                    "type": "image_picker",
+                    "id": "image",
+                    "label": "Client image"
+                  },
+                 
+                  {
+                    "type": "textarea",
+                    "id": "client_quote",
+                    "label": "Client Message"
+                  },
+					 {
+                    "type": "textarea",
+                    "id": "client_dec",
+                    "label": "Client's Decription"
+                  }
+
+            ]
+        }
+    ],
+	"presets": [
+        {
+            "name": "About us",
+            "category": "Magentech"
+        }
+    ]
+}
+{% endschema %}
