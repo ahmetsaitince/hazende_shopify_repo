@@ -2046,7 +2046,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/yatay_kebap.jpg",
               "banner_link": "",
-              "position": "center",
+              "position": "left",
               "show_info": "yes",
               "position_info": "center",
               "offset_info": "0",
