@@ -1,1 +1,2551 @@
-{"current":{"favicon":"","logo_img_nav":true,"logo_max_width_nav":"161","effect":"effect_10","gotop_enable":true,"gotopmobile_enable":false,"loading_enable":true,"img_loading":"","breadcrumb_bgcolor":"#ffffff","breadcrumb_textcolor":"#666666","breadcrumb_bgimage":false,"bg_breadcrumb":"","header_float_enable":false,"pay_page":"","enable_rtl":false,"wrapper_page_type":"wrapper-full","bg_body_img":"none","bg_body_color":"#ffffff","bg_body_position_x":"left","bg_body_position_y":"top","bg_body_repeat":"repeat","bg_body_attachment":"scroll","font_body":"google_fonts","fonts_body":"Muli","body_fontsize":13,"font_heading":"google_fonts","fonts_heading":"Josefin Sans","heading_fontsize":14,"font_custom":"google_fonts","fonts_custom":"Sacramento","custom_fontsize":16,"color_base":"#ffd200","color_body_text":"#444444","color_link":"#444444","body_text_hover":"#ffd200","color_border":"#ebebeb","color_prtitle":"#444444","color_prtitlehover":"#ffd200","color_sale_bg":"#222222","color_new_bg":"#f0f0f0","color_hot_bg":"#ec0101","color_sold_out_bg":"#999","color_price":"#000000","color_oldprice":"#949494","color_btntext":"#ffffff","color_btntext_hover":"#fff","color_btnbg":"#444444","color_btnbg_hover":"#ff3c20","color_btntext2":"#222222","color_btntext_hover2":"#ffffff","color_btnbg2":"#fff","color_btnbg_hover2":"#ff3c20","color_btnline":"#222222","color_btnline_hover":"#ff3c20","color_startbase":"#df9e32","display_language":false,"title_language":"Dil","default_language":"Turkish","linklist_language":"language","display_currency":true,"logo_text":"Logo","logo_img":true,"logo":"shopify:\/\/shop_images\/hazende_logo.png","logo_max_width":"167","logo_mobile":"shopify:\/\/shop_images\/logo.png","display_wishlist":true,"display_shopcart":true,"enable_collection_sidebar":true,"enable_blogs_sidebar":true,"sidebar_position":"left","enable_category_sidebar":true,"enable_sidebar_categories_detail":true,"sidebar_categories_title":"Categories","categories_menu":"sidebar-menu","enable_featured_collection":true,"enable_featured_product_detail":true,"enable_featured_product_blogs":false,"featured_product_title":"Featured Products","featured_product_list_collection":"frontpage","featured_product_limit":"3","enable_sidebar_collection":true,"enable_sidebar_custom_detail":true,"enable_sidebar_custom_blog":false,"custom_html_title":"Custom Services","custom_html_text":"<div class=\"services-sidebar\">\n\t<ul>\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-truck\"><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free Delivery\">Free Delivery<\/a><\/h4>\n\t\t\t\t\t<p>From $59.89<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-support\"><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Support 24\/7\">Support 24\/7<\/a><\/h4>\n\t\t\t\t\t<p>Online 24 hours<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-refresh\"><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free return\">Free return<\/a><\/h4>\n\t\t\t\t\t<p>365 a day<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n\t\t\t\t\t<em class=\"fa fa-cc-paypal\"><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"payment method\">payment method<\/a><\/h4>\n\t\t\t\t\t<p>Secure payment<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t<\/ul>\n<\/div>","enable_banner_sidebar":true,"enable_banner_sidebar_detail":true,"enable_banner_sidebar_blog":true,"image_sidebar":"shopify:\/\/shop_images\/banner_sidebar.png","image_sidebar_link":"shopify:\/\/collections\/furniture","enable_categories_blog":true,"blog_menu":"sidebar-blog","enable_recent_blog":true,"enable_instagram_blog":false,"instagram_title":"INSTAGRAM GALLERY","userid":"12989755280","accessToken":"12989755280.1677ed0.5d90cfda22b64bd5a4f642509b07c511","limited":"9","resolution":"thumbnail","mode_view_default":"grid-3","show-title":true,"limit_title":"70","show-vendor":false,"show-review":true,"show-price":true,"show-deals":true,"show-gallery":false,"gallery_tyle":"gallery-bottom","limit_gallery":"3","product_layout":"2col_left","pp_grid":"4","show_multiple_currencies":true,"currency_format":"money_format","supported_currencies":"USD EUR GBP","default_currency":"USD","fixed_social":false,"position":"left","position_top":"100","social_twitter_link":"https:\/\/twitter.com\/izgarahazende","social_facebook_link":"https:\/\/www.facebook.com\/100063822134562\/videos\/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d\/305586208333988\/","social_google_link":"#","social_pinterest_link":"https:\/\/tr.pinterest.com\/hazendeizgara\/","social_instagram_link":"https:\/\/www.instagram.com\/hazendeizgara\/","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"https:\/\/www.youtube.com\/channel\/UCfvBfV9Aa7bcdtPgScPwvDQ","social_vimeo_link":"#","ssnp_width":800,"ssnp_status":true,"ssnp_expired":1,"ssnp_title":"haber bülteni","ssnp_description":"Yeni gelen ürünler, özel tekliflerle ilgili güncellemeleri almak için posta listesine abone olun.","ssnp_checkbox_title":"Bu açılır pencereyi bir daha gösterme","ssnp_show_checkbox":true,"newsletter":"shopify:\/\/shop_images\/bg-newletter_03.png","newslettermodal_mailchimp":true,"newslettermodal_cookie":"60","newsletter_formmodal_action":"\/\/magentech.us16.list-manage.com\/subscribe\/post?u=74b0f77582219cf039a743aa5&amp;id=e872bd5efa","ssnp_show_facebook":true,"ssnp_link_facebook":"https:\/\/www.facebook.com\/100063822134562\/videos\/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d\/305586208333988\/","ssnp_show_twitter":true,"ssnp_link_twitter":"https:\/\/twitter.com\/izgarahazende","ssnp_show_googleplus":false,"ssnp_link_googleplus":"#","ssnp_show_pinterest":true,"ssnp_link_pinterest":"https:\/\/tr.pinterest.com\/hazendeizgara\/","ssnp_show_linkedin":true,"ssnp_link_linkedin":"https:\/\/tr.linkedin.com\/in\/hazende-izgara-b2982a225","ssnp_show_instagram":true,"ssnp_link_instagram":"https:\/\/www.instagram.com\/hazendeizgara\/","ssnp_show_tumblr":false,"ssnp_link_tumblr":"#","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"Helvetica Neue","checkout_body_font":"Helvetica Neue","checkout_accent_color":"#1990c6","checkout_button_color":"#1990c6","checkout_error_color":"#ff6d6d","display_header_top":true,"headertop_bgcolor":"#ffffff","text_headertop_color":"#222222","border_headertop_color":"#eeeeee","welcome-msg":"Welcome to Bestore","display_acc":true,"display_check":false,"headerct_bgcolor":"#ffffff","border_headerct_color":"#ffffff","text_headerct_color":"#6d6d6d","display_oder":true,"text_oder":"track your order","link_order":"","display_hotline":true,"text_hotline":"Hotline (+123)4 567 890","headerbt_bgcolor":"#f7f7f7","text_headerbt_color":"#222222","text_msg":"Welcome to our online store!","header_mobile_float":"true","display_laguage":true,"enable_product_sidebar":"false","on_rtl":"rtl","display_popup_newsletter":true,"popup_newsletter_title":"aaaaaaaaa","popup_newsletter_sub_title":"aaaaaaaaaaaaaa","popup_newsletter_message":"aaaaaaaaaa","mailing_list_form_action":"ádasdasd","display_popup_social":true,"ssnp_show_bgimage":true,"ssnp_bgimage":"","psp_width_zoom":"900x","product_zoom":false,"product_video":true,"product_video_icon":"","logo_text_nav":"Logo","logo_nav":"","second_image":false,"show-color-swatch":true,"menu":"sidebar-blogs","blog_category":"","pt_position":"bottom","pt_item":"5","psp_width":"95x","product_vendor":false,"product_available":false,"product_review":false,"product_shortdes":false,"swatch_color":false,"size_guide":true,"color_startactive":"#ffffff","pt_carousel":"false","banner-sidebar-1":"","banner_sidebar_link_1":"","display_sidebar_categories_detail":true,"show_featured_collection":true,"show_featured_product_detail":true,"show_featured_product_blogs":true,"display_banner_sidebar":true,"display_banner_sidebar_detail":true,"display_banner_sidebar_blog":true,"banner-sidebar":"","banner_sidebar_link":"#","display_sidebar_custom":true,"display_sidebar_custom_detail":true,"display_sidebar_custom_blog":true,"custom_cms_title":"Custom CMS Block","custom_cms_text":"<div class=\"services-sidebar\">\n\t<ul>\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-truck\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free Delivery\">Free Delivery<\/a><\/h4>\n\t\t\t\t\t<p>From $59.89<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-support\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Support 24\/7\">Support 24\/7<\/a><\/h4>\n\t\t\t\t\t<p>Online 24 hours<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-refresh\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free return\">Free return<\/a><\/h4>\n\t\t\t\t\t<p>365 a day<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n\t\t\t\t\t<em class=\"fa fa-cc-paypal\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"payment method\">payment method<\/a><\/h4>\n\t\t\t\t\t<p>Secure payment<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t<\/ul>\n<\/div>","home_page_layout":"home-page_layout-2","color_prlinks":"#333333","color_prlinkshover":"#1fc0a0","color_body_text_hover":"#ff3c20","share_facebook":true,"share_twitter":true,"share_pinterest":true,"image_ico":"","title":"100 S Manhattan St, Amarillo,","title2":"TX 79104, North America","image_ico2":"","title3":"Sales@MagenTech.Com","title4":"( +123 ) 456 7890","image_ico4":"","title5":"Free Delivery","title6":"On order over $89.00","show-deals ":"true","header_design":"header-style1","text_hot":"(801) 2345 - 6789","display_hot":"true","top":"Summer sale discount off 50%! <a href=\"#\">Shop Now<\/a>","display_call":true,"text_call":"Call us now","text_info_call":"Toll free: 123 456 7890","hover-image":"change","label_headertop_color":"#777777","display_label":"true","display_call_free":"true","text_call_free":"Call Us: (+800) 1234 5678","vermenu_bgcolor":"#ffffff","vermenu_titlecolor":"#ffffff","vermenu_linkcolor":"#444444","vermenu_linkcolor_hover":"#ffffff","vermenu_linkbgcolor_hover":"#f4a137","vermenu_dropdown_bgcolor":"#ffffff","vermenu_dropdown_linkcolor":"#333333","vermenu_dropdown_linkcolor_hover":"#f4a137","display_call_fee":true,"text_call_fee":"Call us toll free: (123) 456-7890","newsletterP_title":"Newsletter","newsletterP_subtitle":"Subscribe to the Simolux mailing list to receive updates on new<br>arrivals, special offers and other discount information.","newsletterP_delay":"5000","newsletterP_dontshow":"Don't show this popup again","color_image_overlay_text":"#fff","color_image_overlay":"#3d4246","image_overlay_opacity":"0.25","collection_results_per_row":"4","collection_results_per_page":"12","enable_image_category":"true","show_collection_description":"true","enable_scroll_sidebar":"true","listing_page_design":"left-sidebar","sidebar_opened_tabs":"","sidebar_shopby":"true","sidebar_shopby_title":"Shopby","sidebar_categories":"true","shop_by_tags_2":"true","shop_by_tags_2_title":"22","shop_by_tags_2_list_tags":"222","fit_color_label":"Black, Orange, Blue, Silver","fit_by_color":"true","fit_by_color_title":"Color","fit_color_1_label":"Black","fit_color_2_label":"Silver","fit_color_3_label":"","fit_color_4_label":"","fit_color_5_label":"","fit_color_6_label":"","fit_color_7_label":"","fit_color_8_label":"","fit_color_9_label":"","fit_color_10_label":"","fit_color_11_label":"","fit_color_12_label":"","enable_shop_by_tags_3":"true","shop_by_tags_3_title":"","shop_by_tags_3_list_tags":"","enable_shop_by_tags_4":"true","shop_by_tags_4_title":"aaa","shop_by_tags_4_list_tags":"Lime,Glass","link_msg":"shopify:\/\/pages\/page-get-fre","display_cate":"true","title_cate":"Categories","show_categories":"show_all","categories_items":"Electronics, Home page","sidebar_mini_listing":"true","sidebar_mini_listing_title":"Best Sellers","sidebar_mini_listing_collection":"electronics","sidebar_mini_listing_limit":"4","header_layout":"header_layout_2","bingo_newslettermodal_enable":true,"bingo_newslettermodal_type":"one","bingo_newslettermodal_cookie":"60","bingo_newslettermodal_titile":"NEWSLETTER","bingo_newslettermodal_description":"Subscribe to the Market mailing list to receive updates on new arrivals, special offers and other discount information.","bingo_newslettermodal_chk":"Don't show this popup again","bingo_newslettermodal_bgimage":false,"bingo_newslettermodal_mailchimp":true,"enable_sidebar":true,"image":"shopify:\/\/shop_images\/banner-sidebar.jpg","color_text":"#3d4246","color_borders":"#e8e9eb","color_button":"#7796a8","color_sale_text":"#7796a8","color_button_text":"#fff","color_small_button":"#fff","color_small_button_text":"#3d4246","color_text_field":"#fff","color_text_field_text":"#000","color_body_bg":"#fff","type_header_family":"Google_Work+Sans_600_sans","type_header_base_size":"26px","type_base_family":"Google_Work+Sans_400_sans","type_base_size":"16px","type_bold_product_titles":false,"use_color_swatch":true,"sections":{"header":{"type":"header","settings":{}},"footer":{"type":"footer","settings":{"footer_newleter_enable":true,"footer_title_4":"Aramıza Katılın","subtitle":"Sıcak fırsatları ve lezzetli sürprizleri yakalamak için bize katılın! .","footer_center_enable":true,"bg_headercenter":"#161619","footer_co1_enable":true,"footer_show_logo":true,"img_logo_ft":"shopify:\/\/shop_images\/logo-hazende-izgara_1.webp","link_logo":"","footer_dec":"Lezzetli tatlar ve keyifli anlar için biz buradayız! En taze malzemelerle hazırlanan özenle seçilmiş menümüzü keşfedin ve lezzetli bir deneyim yaşayın. Sizi bekliyoruz!","footer_contact_email":"bilgi@hazende.com","footer_contact_phone":"+90 (545) 429 3633","footer_co2_enable":true,"footer_title_2":"INFORMATION","footer_linklist_2":"","footer_co3_enable":true,"footer_title_3":"OUR SHOPS","footer_linklist_3":"","show_bottom":true,"bg_headerbottom":"#161619","footer_about":"© Hazende Izgara, 2024. Tüm hakları saklıdır."}},"collection-template":{"type":"collection-template","settings":{"pagination_style":"default","rows":"4","results_per_page":"9"}},"product-template":{"type":"product-template","settings":{"display_product_reviews":true,"show_vendor":true,"show_product_type":true,"show_desc":"no-show","show_product_countdown":true,"use_color_swatch":true,"show_price_subtotal":false,"show_quantity_selector":true,"show_share_buttons":true,"show_category":true,"show_tag":false,"show_brand":true,"pt_position":"bottom","pt_item":"4","enable_sevicer":false,"sv_title":"90 günde<br>paranız iade","sv_icon":"usd","sv_title_2":"ücretsiz teslimat <br> tüm ürünlerde","sv_icon_2":"truck","sv_title_3":"en düşük fiyat <br> garantisi","sv_icon_3":"calendar","sv_title_4":"güvenli alışveriş <br> garantisi","sv_icon_4":"umbrella","product_tab_type":"protab","product_tab1_enable":true,"product_tab1_title":"Detaylar","product_tab2_enable":true,"product_tab2_title":"İade &amp; Teslimat","product_tab2_content":"<div class=\"success rte\">\n<p>100₺ ve üzeri siparişlerinizde ücretsiz standart teslimat avantajından yararlanın.<\/p>\n<ul class=\"ncss-list-ul mt4-sm mb4-sm\">\n<li class=\"ncss-li\">Standart teslimat 2-3 iş günü içerisinde gerçekleştirilir<\/li>\n<li class=\"ncss-li\">Hızlı teslimat 1-2 iş günü içerisinde gerçekleştirilir<\/li>\n<\/ul>\n<br><p>Siparişleriniz Pazartesi-Cuma günleri arasında işlenir ve teslim edilir (resmi tatiller hariç).<\/p>\n<\/div>","product_tab3_enable":false,"product_tab3_title":"Boyut Grafiği","product_tab4_enable":true,"product_tab4_title":"İncelemeler","product_related_enable":true,"product_related_title":"İlgili Ürünler","related_products_type":"tags","product_related_limit":"6","navigation":true,"margin-rl":"20","column1":"3","column2":"3","column3":"3","column4":"2","column5":"2"}},"list-collections-template":{"type":"list-collections-template","blocks":{"1499738278102":{"type":"collection","settings":{"collection":"frontpage"}},"1499738114928":{"type":"collection","settings":{"collection":"barbecue"}},"1499738226235":{"type":"collection","settings":{"collection":"stir-fried-meal"}},"1499738260929":{"type":"collection","settings":{"collection":"frontpage"}},"1499738099326":{"type":"collection","settings":{"collection":"barbecue"}},"1514823718413":{"type":"collection","settings":{"collection":"stir-fried-meal"}},"1499738244928":{"type":"collection","settings":{"collection":"frontpage"}},"1514823795425":{"type":"collection","settings":{"collection":"barbecue"}}},"block_order":["1499738278102","1499738114928","1499738226235","1499738260929","1499738099326","1514823718413","1499738244928","1514823795425"],"settings":{"display_type":"selected","sort":"products_low","grid":"4"}},"blog-template":{"type":"blog-template","settings":{"layout":"grid","limit_blog":"9","grid_per":"3","blog_show_author":false,"blog_show_date":true,"blog_show_readmore":true}},"article-template":{"type":"article-template","settings":{"blog_show_author":true,"blog_show_date":true,"show_share_buttons":true,"font_size_title":18,"text_blog":"#444","text_des_blog":"#666"}},"template-contact":{"type":"template-contact","settings":{"display_google_map":true,"google_map_code":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d6787.11846816203!2d-74.00106388051138!3d40.73303806053912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2zVGjDoG5oIHBo4buRIE5ldyBZb3JrLCBUaeG7g3UgYmFuZyBOZXcgWW9yaw!5e0!3m2!1svi!2s!4v1498454043100\"><\/iframe>","title_info":"CONTACT US","contact_text_desc":"Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br> Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat sed do eiusmod tempor","title_1":"","des_1":"123 Suspendis mattis, Sollicitudin District, Accums Fringilla","icon_1":"map-marker","title_2":"Email:","des_2":"support@demo.com","icon_2":"envelope","title_3":"Phone:","des_3":"0123456789","icon_3":"phone","title_form":"SEND YOUR COMMENTS"}},"template-about":{"type":"template-about","blocks":{"1512635249137":{"type":"faq","settings":{"our_image_1":"shopify:\/\/shop_images\/ourteam1.png","cl_name_1":"Jennifer lawrence","cl_job_1":"Tech Leader","cl_des_1":"","social_facebook_link":"#","social_twitter_link":"#","social_google_link":"#","social_dribbble_link":"#","social_linkedin_link":"#"}},"1512639232534":{"type":"faq","settings":{"our_image_1":"shopify:\/\/shop_images\/ourteam2.png","cl_name_1":"George Scoots","cl_job_1":"Ceo & Director","cl_des_1":"","social_facebook_link":"#","social_twitter_link":"#","social_google_link":"#","social_dribbble_link":"#","social_linkedin_link":"#"}},"1512639272630":{"type":"faq","settings":{"our_image_1":"shopify:\/\/shop_images\/ourteam3.png","cl_name_1":"George Scoots","cl_job_1":"Ceo & Director","cl_des_1":"","social_facebook_link":"#","social_twitter_link":"#","social_google_link":"#","social_dribbble_link":"#","social_linkedin_link":"#"}},"1512639296273":{"type":"faq","settings":{"our_image_1":"shopify:\/\/shop_images\/ourteam4.png","cl_name_1":"Jennifer lawrence","cl_job_1":"Tech Leader","cl_des_1":"","social_facebook_link":"#","social_twitter_link":"#","social_google_link":"#","social_dribbble_link":"#","social_linkedin_link":"#"}}},"block_order":["1512635249137","1512639232534","1512639272630","1512639296273"],"settings":{"about_title":"Hello, We are Established 2018 - Paris  Fashion Show","about_image":"shopify:\/\/shop_images\/img-about.png","about_text_desc":"<p>Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk. Mogul talk. Cloth talk. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth. In life you have to take the trash out, if you have trash in your life, take it out, throw it away, get rid of it, major key. Surround yourself with angels.<\/p>\n<br>\n<p>\nThey key is to have every key, the key to open every door. We don’t see them, we will never see them. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it. They never said winning was easy. Some people can’t handle success, I can. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth.\n<\/p>","about_link":"#","show_service":true,"icon1":"Strategy & Marketing","des1":"Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.","icon2":"interaction design","des2":"Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.","icon3":"WEb Development","des3":"Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.","show_team":true,"member_title":"Our Member","our_text_desc":"Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week","show_policy":true,"title1":"Free shipping","description1":"Free shipping on oder over $100","title2":"secure payment","description2":"We value your security","title3":"Online support","description3":"We have support 24\/7","title4":"payment on delivery","description4":"Cash on delivery option"}},"ss-mainmenu":{"type":"ss-mainmenu","blocks":{"1528441729722":{"type":"text","settings":{"title":"asd","cal_width":"custom","customWidth":"650px","mega_class":"","cal_align":"left","cal_align_margin":"0px","navi_show":true,"item_linklist":"koleksiyonlar","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"banner_enable1":false,"banner_link":"","banner_col_column":6,"banner_enable2":false,"banner_link2":"","banner_col_column2":6,"banner_enable3":false,"banner_link3":"","banner_col_column4":6,"mega_page_enable":true,"page_col_column":12,"mega_page":"dropdown-layout-home"}},"text_Vtqz6a":{"type":"text","settings":{"title":"Catalog","cal_width":"full","customWidth":"","mega_class":"","cal_align":"left","cal_align_margin":"0px","navi_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"banner_enable1":false,"banner_link":"","banner_col_column":6,"banner_enable2":false,"banner_link2":"","banner_col_column2":6,"banner_enable3":false,"banner_link3":"","banner_col_column4":6,"mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1528441946800":{"type":"text","settings":{"title":"Features","cal_width":"custom","customWidth":"750px","mega_class":"","cal_align":"left","cal_align_margin":"0px","navi_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"banner_enable1":false,"banner_link":"","banner_col_column":6,"banner_enable2":false,"banner_link2":"","banner_col_column2":6,"banner_enable3":false,"banner_link3":"","banner_col_column4":6,"mega_page_enable":true,"page_col_column":12,"mega_page":"collection"}},"1510549520114":{"type":"text","settings":{"title":"Gönderim Bölgeleri","cal_width":"custom","customWidth":"860px","mega_class":"","cal_align":"left","cal_align_margin":"0px","navi_show":true,"item_linklist":"","menu_col_column":8,"menu_item_col":6,"product_show":true,"product_title":"Featured Product","product_sellect":"frontpage","product_limit":"3","product_col_column":4,"product_item_col":12,"banner_enable1":false,"banner_link":"","banner_col_column":6,"banner_enable2":false,"banner_link2":"","banner_col_column2":6,"banner_enable3":false,"banner_link3":"","banner_col_column4":6,"mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1512705049457":{"type":"text","settings":{"title":"Kampanyalar","cal_width":"custom","customWidth":"750px","mega_class":"","cal_align":"left","cal_align_margin":"-96px","navi_show":true,"item_linklist":"","menu_col_column":12,"menu_item_col":4,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"banner_enable1":true,"banner_link":"shopify:\/\/collections\/electronics","banner_col_column":4,"banner_enable2":true,"banner_link2":"shopify:\/\/collections\/cameras-photo","banner_col_column2":4,"banner_enable3":true,"banner_link3":"shopify:\/\/collections\/new-arrivals","banner_col_column4":4,"mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1562579859647":{"type":"text","settings":{"title":"Lookbook","cal_width":"custom","customWidth":"200px","mega_class":"","cal_align":"left","cal_align_margin":"0px","navi_show":true,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"banner_enable1":false,"banner_link":"","banner_col_column":6,"banner_enable2":false,"banner_link2":"","banner_col_column2":6,"banner_enable3":false,"banner_link3":"","banner_col_column4":6,"mega_page_enable":false,"page_col_column":12,"mega_page":""}}},"block_order":["1528441729722","text_Vtqz6a","1528441946800","1510549520114","1512705049457","1562579859647"],"settings":{"main_linklist":"main-menu","nav_bg_color":"#ffffff","nav_menu_color":"#444444","show_dropdown_arrow":true,"enable_new":false,"megamenu_items_new":"","enable_hot":false,"megamenu_items_hot":""}},"cart-template":{"type":"cart-template","settings":{"cart_notes_enable":true}},"ss-tools":{"type":"ss-tools","settings":{"status":true,"position":"right","position_top":"100","show_category":true,"show_cart":true,"show_account":true,"show_search":true,"show_recent_product":true,"limit_product":"6","show_backtop":false}},"ss-facebook-message":{"type":"ss-facebook-message","settings":{"status":false,"position":"right-bottom","width":320,"height":250,"button_style":"default","widget_text":"Chat with Us","page_url":"https:\/\/www.facebook.com\/MagenTech","tabs":"messages","small_header":true,"hide_cover":false,"show_facepile":false}},"ss-vertical-menu":{"type":"ss-vertical-menu","blocks":{"1509959680604":{"type":"text","settings":{"title":"Smartphones & Tablets","menu_url":"shopify:\/\/collections\/smartphones-tablets","enable_menu_icon":false,"font_icon":"television","menu_icon":"","dropdown_type":"mega_drop","megamenu_width_col":"750px","megamenu_class":"","menu_show":true,"item_linklist":"","menu_col_column":7,"menu_item_col":6,"product_show":true,"product_title":"","product_sellect":"","product_limit":"1","product_col_column":5,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":7,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":5,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1509959843931":{"type":"text","settings":{"title":"Electronics","menu_url":"shopify:\/\/collections\/electronics","enable_menu_icon":false,"font_icon":"eercast","menu_icon":"","dropdown_type":"none","megamenu_width_col":"650px","megamenu_class":"","menu_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":4,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":12,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1509959804345":{"type":"text","settings":{"title":"Laptop","menu_url":"shopify:\/\/collections\/sports-outdoors","enable_menu_icon":false,"font_icon":"gift","menu_icon":"","dropdown_type":"mega_drop","megamenu_width_col":"600px","megamenu_class":"","menu_show":true,"item_linklist":"","menu_col_column":6,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":true,"banner_col_column":6,"image_banner":"","banner_link":"#","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1509959767921":{"type":"text","settings":{"title":"Computer","menu_url":"shopify:\/\/collections\/health-beauty","enable_menu_icon":false,"font_icon":"deaf","menu_icon":"","dropdown_type":"none","megamenu_width_col":"900px","megamenu_class":"","menu_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":6,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1509959728138":{"type":"text","settings":{"title":"Camera & Photo","menu_url":"shopify:\/\/collections\/toys-hobbies","enable_menu_icon":false,"font_icon":"camera-retro","menu_icon":"","dropdown_type":"none","megamenu_width_col":"200px","megamenu_class":"","menu_show":true,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":6,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1509959869218":{"type":"text","settings":{"title":"Television & Video","menu_url":"shopify:\/\/collections\/furniture","enable_menu_icon":false,"font_icon":"grav","menu_icon":"","dropdown_type":"none","megamenu_width_col":"900px","megamenu_class":"","menu_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":6,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1510891816668":{"type":"text","settings":{"title":"Accessories","menu_url":"shopify:\/\/collections\/automotive-motorcycle","enable_menu_icon":false,"font_icon":"futbol-o","menu_icon":"","dropdown_type":"mega_drop","megamenu_width_col":"700px","megamenu_class":"","menu_show":true,"item_linklist":"","menu_col_column":12,"menu_item_col":4,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":12,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1510891836292":{"type":"text","settings":{"title":"Laptops & Accessories","menu_url":"shopify:\/\/collections\/laptops-accessories","enable_menu_icon":false,"font_icon":"shopping-bag","menu_icon":"","dropdown_type":"none","megamenu_width_col":"900px","megamenu_class":"","menu_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":6,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1534845645835":{"type":"text","settings":{"title":"Home Audio","menu_url":"shopify:\/\/collections\/jewelry-watches","enable_menu_icon":false,"font_icon":"desktop","menu_icon":"","dropdown_type":"none","megamenu_width_col":"900px","megamenu_class":"","menu_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":6,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}},"1534845731697":{"type":"text","settings":{"title":"Cameras & Photo","menu_url":"shopify:\/\/collections\/cameras-photo","enable_menu_icon":false,"font_icon":"desktop","menu_icon":"","dropdown_type":"none","megamenu_width_col":"900px","megamenu_class":"","menu_show":false,"item_linklist":"","menu_col_column":12,"menu_item_col":12,"product_show":false,"product_title":"","product_sellect":"","product_limit":"","product_col_column":12,"product_item_col":12,"html_enable":false,"html_col_column":12,"html_content":"","banner_enable1":false,"banner_col_column":6,"image_banner":"","banner_link":"","banner_enable2":false,"banner_col_column2":6,"image_banner2":"","banner_link2":"","mega_page_enable":false,"page_col_column":12,"mega_page":""}}},"block_order":["1509959680604","1509959843931","1509959804345","1509959767921","1509959728138","1509959869218","1510891816668","1510891836292","1534845645835","1534845731697"],"settings":{"ver_bg_color":"rgba(0,0,0,0)","ver_menu_color":"#ffffff","ver_title":"ALL CATEGORIES","ver_all":"More All Categories","ver_url":"shopify:\/\/collections"}},"sidebar-filter-collection":{"type":"sidebar-filter-collection","blocks":{"1522833934637":{"type":"filter_tag","settings":{"enable":true,"title":"Price","list_tags":"0 - $99, $100 - $199, $200 - $299, $300 - $399, Above $400"}},"1522833926819":{"type":"filter_color","settings":{"enable":true,"title":"Color","color_text_1":"Red","color_img_1":"","color_text_2":"Blue","color_img_2":"","color_text_3":"Brown","color_img_3":"","color_text_4":"Orange","color_img_4":"","color_text_5":"Green","color_img_5":"","color_text_6":"Black","color_img_6":"","color_text_7":"Pink","color_img_7":"","color_text_8":"Sliver","color_img_8":"","color_text_9":"White","color_img_9":"","color_text_10":"Yellow","color_img_10":"","color_text_11":"Pink","color_img_11":"","color_text_12":"Cyan","color_img_12":"","color_text_13":"Gold","color_img_13":"","color_text_14":"Grey","color_img_14":"","color_text_15":"","color_img_15":"","color_text_16":"","color_img_16":"","color_text_17":"","color_img_17":"","color_text_18":"","color_img_18":"","color_text_19":"","color_img_19":"","color_text_20":"","color_img_20":""}},"1522980753781":{"type":"filter_tag","settings":{"enable":true,"title":"Size","list_tags":"16, 18, 20, 22, 24, 26, ONE SIZE"}},"1522834136250":{"type":"filter_tag","settings":{"enable":true,"title":"Brand","list_tags":"Chanel, Dior, Lion, Gap, Lucci, Louis, Hermes, Cherry, Glass, Lime, Nice"}}},"block_order":["1522833934637","1522833926819","1522980753781","1522834136250"],"settings":{"enable_filter":true,"enable_filter-fixed":true}},"collection-infos":{"type":"collection-infos","settings":{"show_collection_image":false,"show_collection_title":false,"show_collection_des":false,"show_collection":false,"linklist_collections_name":"","column1":"5","column2":"4","column3":"3"}},"homepage-logolist":{"type":"homepage-logolist","blocks":{"1525851623622":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}},"1525851657785":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}},"1525851669031":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}},"1525851777965":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}},"1525852305813":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}},"1525852316870":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}},"1525852326589":{"type":"logo_image","settings":{"image":"","image_size":"170x100","link":"\/"}},"1525852567476":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}},"1525852577385":{"type":"logo_image","settings":{"image":"","image_size":"140x73","link":"\/"}}},"block_order":["1525851623622","1525851657785","1525851669031","1525851777965","1525852305813","1525852316870","1525852326589","1525852567476","1525852577385"],"settings":{"show_container":true,"title":"","column1":"8","column2":"6","column3":"5","column4":"4","column5":"3","owl_navigation":true,"owl_margin":"30","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300"}},"homepage-product-carousel":{"type":"homepage-product-carousel","settings":{"title1":"MOST VIEWED","image1":"","link1":"","collection":"","image_size":"270x270","column1":"4","column2":"3","column3":"2","column4":"2","column5":"1","row":"1","limit":"8","owl_navigation":true,"show_dot":true,"owl_margin":"30","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300","text_button":"View all"}},"template-hotdeals":{"type":"template-hotdeals","blocks":{"1534584054374":{"type":"product","settings":{"title":"","prt_collection":"frontpage"}},"1534584058420":{"type":"product","settings":{"title":"","prt_collection":"barbecue"}},"1534584061272":{"type":"product","settings":{"title":"","prt_collection":"stir-fried-meal"}}},"block_order":["1534584054374","1534584058420","1534584061272"],"settings":{"display_image_cat":true,"img_cat":"shopify:\/\/shop_images\/F005454A54507ACCCBB897BF522E5E26407DF72B52C5C59600_pimgpsh_fullsize_distr.png","limit_product":"12"}},"home-slider":{"type":"home-slider","blocks":{"1533097029829":{"type":"slider_list","settings":{"image":"","banner_link":"shopify:\/\/collections\/sports-outdoors","position":"center","show_info":"no","position_info":"left","offset_info":"200","show_button":"no","button_title":"Buy now","button_link":"","button_color_text":"#ffffff","fontsize_button":"14","button_color_bg":"#000000","text1":"Text 1","color_text1":"#ffffff","fontsize_text1":"14","text2":"Text 2","color_text2":"#ffffff","fontsize_text2":"14","text3":"Text 3","color_text3":"#ffffff","fontsize_text3":"14","use_custom_html":"0","code_html":"<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"}},"1533192513962":{"type":"slider_list","settings":{"image":"","banner_link":"shopify:\/\/collections\/electronics","position":"center","show_info":"no","position_info":"left","offset_info":"200","show_button":"no","button_title":"Buy now","button_link":"","button_color_text":"#ffffff","fontsize_button":"14","button_color_bg":"#000000","text1":"Text 1","color_text1":"#ffffff","fontsize_text1":"14","text2":"Text 2","color_text2":"#ffffff","fontsize_text2":"14","text3":"Text 3","color_text3":"#ffffff","fontsize_text3":"14","use_custom_html":"0","code_html":"<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"}},"1533192527768":{"type":"slider_list","settings":{"image":"","banner_link":"shopify:\/\/collections\/smartphones-tablets","position":"center","show_info":"no","position_info":"left","offset_info":"200","show_button":"no","button_title":"Buy now","button_link":"","button_color_text":"#ffffff","fontsize_button":"14","button_color_bg":"#000000","text1":"Text 1","color_text1":"#ffffff","fontsize_text1":"14","text2":"Text 2","color_text2":"#ffffff","fontsize_text2":"14","text3":"Text 3","color_text3":"#ffffff","fontsize_text3":"14","use_custom_html":"0","code_html":"<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"}}},"block_order":["1533097029829","1533192513962","1533192527768"],"settings":{"show_bannertimer":true,"start_width":"870","start_height":"495","delay_time":"3000","navigation":"solo","navigation_type":"bullet","navigation_stype":"round"}},"siderbar-home":{"type":"siderbar-home","blocks":{"1533119144454":{"type":"banner","settings":{"enable_img":true,"image":"","link":""}},"1533119180723":{"type":"product","settings":{"bs_title":"SPECIALS","collection":"","bs_limit":"4"}},"1533119184816":{"type":"banner","settings":{"enable_img":true,"image":"","link":""}},"1533176830358":{"type":"product","settings":{"bs_title":"Best Sellers","collection":"","bs_limit":"4"}},"1533119206002":{"type":"Menu","settings":{"title_menu":"POPULAR TAGS","link":""}}},"block_order":["1533119144454","1533119180723","1533119184816","1533176830358","1533119206002"],"settings":{"enable_sidebar_detail":true,"show_sidebar":"left"}},"home-product-deals":{"type":"home-product-deals","settings":{"show_container":true,"title1":"DEALS OF THE WEEK","list_collection":"","image_size":"270x","column1":"3","column2":"3","column3":"2","column4":"2","column5":"1","row":"1","limit":"5","owl_navigation":false,"owl_dot":false,"owl_margin":"30","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300"}},"home-quicklink":{"type":"home-quicklink","blocks":{"1533118341105":{"type":"quick_link","settings":{"title_quick":"Moto E","link_quick":"shopify:\/\/products\/bresaola-volupta"}},"1533118357812":{"type":"quick_link","settings":{"title_quick":"Mobile","link_quick":"shopify:\/\/products\/boudin-tenderloin"}},"1533118374698":{"type":"quick_link","settings":{"title_quick":"Tablet","link_quick":"shopify:\/\/products\/jalapeno-kielbasa"}},"1533118384157":{"type":"quick_link","settings":{"title_quick":"Fashion Accessories","link_quick":"shopify:\/\/products\/cignon-frankes"}},"1533118443735":{"type":"quick_link","settings":{"title_quick":"Laptops","link_quick":"shopify:\/\/products\/aoccaecat-pariatur"}},"1533118458115":{"type":"quick_link","settings":{"title_quick":"Pen Drivers","link_quick":"shopify:\/\/products\/bresaola-volupta"}},"1533118478996":{"type":"quick_link","settings":{"title_quick":"Toys","link_quick":"shopify:\/\/products\/ipsum-ribeye"}},"1533118487208":{"type":"quick_link","settings":{"title_quick":"Dress","link_quick":"shopify:\/\/products\/capicola-deserun"}}},"block_order":["1533118341105","1533118357812","1533118374698","1533118384157","1533118443735","1533118458115","1533118478996","1533118487208"],"settings":{"show_section":true,"title_quick":"Top Search:"}},"home-services":{"type":"home-services","blocks":{"1533179654185":{"type":"box","settings":{"sv_icon":"local_shipping","show_image":false,"image":"","title":"FREE SHIPPING<br>ON ALL ORDER","link":"","description":""}},"1533179659159":{"type":"box","settings":{"sv_icon":"reply_all","show_image":false,"image":"","title":"Money Back<br>Guarantee","link":"","description":""}},"1533179660435":{"type":"box","settings":{"sv_icon":"security","show_image":false,"image":"","title":"SAFE SHOPPING<br>GUARANTEE","link":"","description":""}}},"block_order":["1533179654185","1533179659159","1533179660435"],"settings":{"show_container":true,"style":"style-df","title":"false","column0":"4","column1":"3","column2":"3","column3":"2","column4":"2","column5":"1","row":"1","owl_margin":"0","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300"}},"home-fullbanner":{"type":"home-fullbanner","blocks":{"1533181462793":{"type":"image","settings":{"link":"shopify:\/\/collections\/apple-mobile","image":""}}},"block_order":["1533181462793"],"settings":{"show_section":true,"show_container":false,"title":"","item-img":"1","size_image":"870x90"}},"home-collection":{"type":"home-collection","blocks":{"1533182966174":{"type":"featured_collection","settings":{"collection":"","collection_name":"Tablets","image":""}},"1533183018931":{"type":"featured_collection","settings":{"collection":"","collection_name":"Cameras","image":""}},"1533183047189":{"type":"featured_collection","settings":{"collection":"","collection_name":"Keyboard","image":""}},"1533183065827":{"type":"featured_collection","settings":{"collection":"","collection_name":"Laptops","image":""}},"1533183085748":{"type":"featured_collection","settings":{"collection":"","collection_name":"Smartphone","image":""}},"1533183103177":{"type":"featured_collection","settings":{"collection":"","collection_name":"Televisions","image":""}}},"block_order":["1533182966174","1533183018931","1533183047189","1533183065827","1533183085748","1533183103177"],"settings":{"titles":"ELECTRONICS","column1":"5","column2":"4","column3":"3","column4":"2","column5":"2","owl_margin":"0"}},"home-product-tabs":{"type":"home-product-tabs","blocks":{"1533183191806":{"type":"product","settings":{"title":"Best Sellers","prt_collection":""}},"1533183227454":{"type":"product","settings":{"title":"New Arrivals","prt_collection":""}},"1533183248526":{"type":"product","settings":{"title":"Top Rating","prt_collection":""}}},"block_order":["1533183191806","1533183227454","1533183248526"],"settings":{"fw":true,"title":"","image_size":"270x","column1":"3","column2":"3","column3":"3","column4":"2","column5":"2","row":"1","limit":"8","owl_navigation":false,"owl_margin":"30","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300"}},"1557650755208":{"type":"home-blog","settings":{"style":"style-df","title1":"Our Latest News","description":"","list_blog":"news","image_featured":true,"image_size":"480x","column1":"3","column2":"3","column3":"2","column4":"2","column5":"1","row":"1","limit":"5","owl_navigation":true,"owl_margin":"30","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300"}},"1561191658957":{"type":"home-slider","blocks":{"1561191658957-0":{"type":"slider_list","settings":{"banner_link":"","position":"center","show_info":"yes","position_info":"center","offset_info":"0","show_button":"yes","button_title":"+ Discover More","button_link":"","button_color_text":"#ffffff","fontsize_button":"14","button_color_bg":"rgba(0,0,0,0)","text1":"Wine and Dine","color_text1":"#ffffff","fontsize_text1":"44","text2":"Delicious","color_text2":"#ffffff","fontsize_text2":"110","text3":"We Serve You Quality & Taste","color_text3":"#ffffff","fontsize_text3":"30","use_custom_html":"0","code_html":"<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"}},"1561197983776":{"type":"slider_list","settings":{"banner_link":"#","position":"center","show_info":"yes","position_info":"center","offset_info":"200","show_button":"yes","button_title":"+ Discover More","button_link":"\/","button_color_text":"#ffffff","fontsize_button":"14","button_color_bg":"rgba(0,0,0,0)","text1":"Wine and Dine","color_text1":"#ffffff","fontsize_text1":"44","text2":"Delicious","color_text2":"#ffffff","fontsize_text2":"110","text3":"We Serve You Quality & Taste","color_text3":"#ffffff","fontsize_text3":"30","use_custom_html":"0","code_html":"<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"}},"1562120867629":{"type":"slider_list","settings":{"banner_link":"","position":"center","show_info":"yes","position_info":"center","offset_info":"200","show_button":"yes","button_title":"+ Discover More","button_link":"\/","button_color_text":"#ffffff","fontsize_button":"14","button_color_bg":"rgba(0,0,0,0)","text1":"Wine and Dine","color_text1":"#ffffff","fontsize_text1":"44","text2":"Delicious","color_text2":"#ffffff","fontsize_text2":"110","text3":"We Serve You Quality & Taste","color_text3":"#ffffff","fontsize_text3":"30","use_custom_html":"0","code_html":"<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"}}},"block_order":["1561191658957-0","1561197983776","1562120867629"],"settings":{"show_bannertimer":true,"start_width":"1903","start_height":"870","delay_time":"16000","navigation":"solo","navigation_type":"none","navigation_stype":"round"}},"1561539494982":{"type":"homepage-product-carousel","settings":{"title1":"Today’s Special Dish","link1":"\/","collection":"barbecue","image_size":"270x270","column1":"2","column2":"2","column3":"2","column4":"2","column5":"1","row":"2","limit":"8","owl_navigation":false,"show_dot":false,"owl_margin":"30","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300","text_button":"+ Discover More"}},"1561710015999":{"type":"home-collection","blocks":{"1561710015999-0":{"type":"featured_collection","settings":{"collection":"frontpage","collection_name":"HOP & ROLL BEER"}},"1561710015999-1":{"type":"featured_collection","settings":{"collection":"barbecue","collection_name":"NEW BRANDED BEER"}},"1561710015999-2":{"type":"featured_collection","settings":{"collection":"barbecue","collection_name":"Brewberry Bears"}},"1561710178486":{"type":"featured_collection","settings":{"collection":"frontpage","collection_name":"NEW BRANDED BEER"}}},"block_order":["1561710015999-0","1561710015999-1","1561710015999-2","1561710178486"],"settings":{"titles":"Recommended Today","column1":"3","column2":"3","column3":"2","column4":"2","column5":"1","owl_margin":"30"}},"1561710553628":{"type":"home-testimonial","blocks":{"1561710553628-0":{"type":"item_testimonial","settings":{"title":"Celvin Anthony","dec":"<h2>Meet our Chefs<\/h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,<\/p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.<\/p>","image_size":"170x100","link":"\/"}},"1561710553628-1":{"type":"item_testimonial","settings":{"title":"Alexander","dec":"<h2>Alexander<\/h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<\/p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, <\/p>","image_size":"170x100","link":"\/"}},"1561710553628-2":{"type":"item_testimonial","settings":{"title":"Mark Washington","dec":"<h2>Mark Washington<\/h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,<\/p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. <\/p>","image_size":"170x100","link":"\/"}},"1561710649567":{"type":"item_testimonial","settings":{"title":"Dillon Harper","dec":"<h2>Dillon Harper<\/h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<\/p>","image_size":"170x100","link":"\/"}},"1561710657551":{"type":"item_testimonial","settings":{"title":"Peterson Henderson","dec":"<h2>Peterson Henderson<\/h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,<\/p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.<\/p>","image_size":"170x100","link":""}}},"block_order":["1561710553628-0","1561710553628-1","1561710553628-2","1561710649567","1561710657551"],"settings":{"show_container":false,"title":"Testimonial list"}},"1561956557977":{"type":"home-product-list","blocks":{"1561956557977-0":{"type":"item_product","settings":{"title":"Cheese Croissants","dec":"<h2>Today's best offer<\/h2>\n<p class=\"qt\">TÜrkçe  is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,<\/p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.<\/p>","image_size":"308x292","link":"\/"}},"1561956557977-1":{"type":"item_product","settings":{"title":"Bruschetti","dec":"<h2>Bruschetti<\/h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<\/p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, <\/p>","image_size":"308x292","link":"\/"}},"1561956557977-2":{"type":"item_product","settings":{"title":"Awesome Vegetable","dec":"<h2>Awesome Vegetable<\/h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,<\/p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free fro<\/p>","image_size":"308x292","link":"\/"}},"1561956824049":{"type":"item_product","settings":{"title":"Tasty Snacks","dec":"<h2>Tasty Snacks<\/h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has <\/p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<\/p>","image_size":"308x292","link":"\/"}},"1561956852039":{"type":"item_product","settings":{"title":"Meal for Whole Family","dec":"<h2>Meal for Whole Family<\/h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,<\/p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.<\/p>","image_size":"308x292","link":"\/"}}},"block_order":["1561956557977-0","1561956557977-1","1561956557977-2","1561956824049","1561956852039"],"settings":{"show_container":false,"title":""}},"1561977235542":{"type":"home-instagram","settings":{"container_full":true,"title_instagram":"","userid":"4012702189","accessToken":"4012702189.1677ed0.d5482a8171664404a766446364e5e391","tag":"apetine","limited":"4","resolution":"standard_resolution"}},"1562043035140":{"type":"home-about-us","blocks":{"1562043080442":{"type":"testimonial","settings":{"user":true,"client_name":"Jenifer Jacob","client_quote":"I watch cooking change the cook, just as it transforms the food.","client_dec":"A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."}},"1562051393654":{"type":"testimonial","settings":{"user":true,"client_name":"Jenifer Jacob","client_quote":"I watch cooking change the cook, just as it transforms the food.","client_dec":"A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."}},"1562054916884":{"type":"testimonial","settings":{"user":true,"client_name":"Jenifer Jacob","client_quote":"I watch cooking change the cook, just as it transforms the food.","client_dec":"A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."}}},"block_order":["1562043080442","1562051393654","1562054916884"],"settings":{"container_full":true,"background_color":"#ffffff","link1":"","owl_navigation":false,"show_dot":true,"show_review":true,"owl_margin":"30","owl_autoplay":false,"owl_autoplay_speed":"10000","owl_speed":"300"}},"1562401540930":{"type":"homepage-menu","settings":{"title":"Dessert list","collection":"frontpage","image_size":"270x","limit":"20","text_button":"+ Full Menu","text_button2":"- Less Menu"}},"1562569363144":{"type":"ss_book","settings":{"status":true,"book_heading":"Make Reservation","book_time_open":"8:00 AM - 18:00 PM | Monday - Friday","book_phone":"+39 059 22 39 12","link":"\/"}}},"content_for_index":["1561191658957","1561956557977","1562043035140","1562569363144","1561539494982","1562401540930","1561710015999","1561977235542","1561710553628","1557650755208"]},"presets":{"Default":{"color_text":"#3d4246","color_body_text":"#788188","color_sale_text":"#7796A8","color_borders":"#e8e9eb","color_button":"#7796A8","color_button_text":"#fff","color_small_button":"#fff","color_small_button_text":"#3d4246","color_text_field":"#fff","color_text_field_text":"#000","color_image_overlay_text":"#fff","color_image_overlay":"#3d4246","image_overlay_opacity":"0.25","color_body_bg":"#fff","type_header_family":"Google_Work+Sans_600_sans","type_header_base_size":"26px","type_base_family":"Google_Work+Sans_400_sans","type_base_size":"16px","type_bold_product_titles":false,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"sections":{"header":{"type":"header","settings":{}},"footer":{"type":"footer","settings":{}}},"content_for_index":[]},"Light":{"color_text":"#162950","color_body_text":"#757575","color_sale_text":"#ff574f","color_borders":"#e4e4e4","color_button":"#ff574f","color_button_text":"#ffffff","color_small_button":"#eaeaea","color_small_button_text":"#162950","color_text_field":"#ffffff","color_text_field_text":"#162950","color_image_overlay_text":"#ffffff","color_image_overlay":"#3d3d3d","image_overlay_opacity":"0.3","color_body_bg":"#f8f8f8","type_header_family":"Google_Muli_600_sans","type_header_base_size":"26px","type_base_family":"Google_Muli_600_sans","type_base_size":"18px","type_bold_product_titles":true,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"social_twitter_link":"","social_facebook_link":"","social_pinterest_link":"","social_instagram_link":"","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","favicon":"","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"small","checkout_body_background_image":"","checkout_body_background_color":"#ffffff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#e8f3f6","checkout_heading_font":"Roboto","checkout_body_font":"Source Sans Pro","checkout_accent_color":"#1990c6","checkout_button_color":"#23314e","checkout_error_color":"#ff6d6d","sections":{"header":{"type":"header","settings":{}},"footer":{"type":"footer","settings":{}},"product-template":{"type":"product-template","settings":{"show_vendor":false,"show_quantity_selector":false,"show_share_buttons":true}},"collection-template":{"type":"collection-template","settings":{"rows":"2"}},"blog-template":{"type":"blog-template","settings":{"layout":"grid","blog_show_author":true,"blog_show_date":false}},"article-template":{"type":"article-template","settings":{"blog_show_author":true,"blog_show_date":true,"show_share_buttons":true}},"cart-template":{"type":"cart-template","settings":{"cart_notes_enable":false}}},"content_for_index":[]}}}
+{
+  "current": {
+    "favicon": "",
+    "logo_img_nav": true,
+    "logo_max_width_nav": "161",
+    "effect": "effect_10",
+    "gotop_enable": true,
+    "gotopmobile_enable": false,
+    "loading_enable": true,
+    "img_loading": "",
+    "breadcrumb_bgcolor": "#ffffff",
+    "breadcrumb_textcolor": "#666666",
+    "breadcrumb_bgimage": false,
+    "bg_breadcrumb": "",
+    "header_float_enable": false,
+    "pay_page": "",
+    "enable_rtl": false,
+    "wrapper_page_type": "wrapper-full",
+    "bg_body_img": "none",
+    "bg_body_color": "#ffffff",
+    "bg_body_position_x": "left",
+    "bg_body_position_y": "top",
+    "bg_body_repeat": "repeat",
+    "bg_body_attachment": "scroll",
+    "font_body": "google_fonts",
+    "fonts_body": "Muli",
+    "body_fontsize": 13,
+    "font_heading": "google_fonts",
+    "fonts_heading": "Josefin Sans",
+    "heading_fontsize": 14,
+    "font_custom": "google_fonts",
+    "fonts_custom": "Sacramento",
+    "custom_fontsize": 16,
+    "color_base": "#ffd200",
+    "color_body_text": "#444444",
+    "color_link": "#444444",
+    "body_text_hover": "#ffd200",
+    "color_border": "#ebebeb",
+    "color_prtitle": "#444444",
+    "color_prtitlehover": "#ffd200",
+    "color_sale_bg": "#222222",
+    "color_new_bg": "#f0f0f0",
+    "color_hot_bg": "#ec0101",
+    "color_sold_out_bg": "#999",
+    "color_price": "#000000",
+    "color_oldprice": "#949494",
+    "color_btntext": "#ffffff",
+    "color_btntext_hover": "#fff",
+    "color_btnbg": "#444444",
+    "color_btnbg_hover": "#ff3c20",
+    "color_btntext2": "#222222",
+    "color_btntext_hover2": "#ffffff",
+    "color_btnbg2": "#fff",
+    "color_btnbg_hover2": "#ff3c20",
+    "color_btnline": "#222222",
+    "color_btnline_hover": "#ff3c20",
+    "color_startbase": "#df9e32",
+    "display_language": false,
+    "title_language": "Dil",
+    "default_language": "Turkish",
+    "linklist_language": "language",
+    "display_currency": true,
+    "logo_text": "Logo",
+    "logo_img": true,
+    "logo": "shopify://shop_images/hazende_logo.png",
+    "logo_max_width": "167",
+    "logo_mobile": "shopify://shop_images/logo.png",
+    "display_wishlist": true,
+    "display_shopcart": true,
+    "enable_collection_sidebar": true,
+    "enable_blogs_sidebar": true,
+    "sidebar_position": "left",
+    "enable_category_sidebar": true,
+    "enable_sidebar_categories_detail": true,
+    "sidebar_categories_title": "Categories",
+    "categories_menu": "sidebar-menu",
+    "enable_featured_collection": true,
+    "enable_featured_product_detail": true,
+    "enable_featured_product_blogs": false,
+    "featured_product_title": "Featured Products",
+    "featured_product_list_collection": "frontpage",
+    "featured_product_limit": "3",
+    "enable_sidebar_collection": true,
+    "enable_sidebar_custom_detail": true,
+    "enable_sidebar_custom_blog": false,
+    "custom_html_title": "Custom Services",
+    "custom_html_text": "<div class=\"services-sidebar\">\n\t<ul>\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-truck\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free Delivery\">Free Delivery</a></h4>\n\t\t\t\t\t<p>From $59.89</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-support\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Support 24/7\">Support 24/7</a></h4>\n\t\t\t\t\t<p>Online 24 hours</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-refresh\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free return\">Free return</a></h4>\n\t\t\t\t\t<p>365 a day</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n\t\t\t\t\t<em class=\"fa fa-cc-paypal\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"payment method\">payment method</a></h4>\n\t\t\t\t\t<p>Secure payment</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t</ul>\n</div>",
+    "enable_banner_sidebar": true,
+    "enable_banner_sidebar_detail": true,
+    "enable_banner_sidebar_blog": true,
+    "image_sidebar": "shopify://shop_images/banner_sidebar.png",
+    "image_sidebar_link": "shopify://collections/furniture",
+    "enable_categories_blog": true,
+    "blog_menu": "sidebar-blog",
+    "enable_recent_blog": true,
+    "enable_instagram_blog": false,
+    "instagram_title": "INSTAGRAM GALLERY",
+    "userid": "12989755280",
+    "accessToken": "12989755280.1677ed0.5d90cfda22b64bd5a4f642509b07c511",
+    "limited": "9",
+    "resolution": "thumbnail",
+    "mode_view_default": "grid-3",
+    "show-title": true,
+    "limit_title": "70",
+    "show-vendor": false,
+    "show-review": true,
+    "show-price": true,
+    "show-deals": true,
+    "show-gallery": false,
+    "gallery_tyle": "gallery-bottom",
+    "limit_gallery": "3",
+    "product_layout": "2col_left",
+    "pp_grid": "4",
+    "show_multiple_currencies": true,
+    "currency_format": "money_format",
+    "supported_currencies": "USD EUR GBP",
+    "default_currency": "USD",
+    "fixed_social": false,
+    "position": "left",
+    "position_top": "100",
+    "social_twitter_link": "https://twitter.com/izgarahazende",
+    "social_facebook_link": "https://www.facebook.com/100063822134562/videos/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d/305586208333988/",
+    "social_google_link": "#",
+    "social_pinterest_link": "https://tr.pinterest.com/hazendeizgara/",
+    "social_instagram_link": "https://www.instagram.com/hazendeizgara/",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "https://www.youtube.com/channel/UCfvBfV9Aa7bcdtPgScPwvDQ",
+    "social_vimeo_link": "#",
+    "ssnp_width": 800,
+    "ssnp_status": true,
+    "ssnp_expired": 1,
+    "ssnp_title": "haber bülteni",
+    "ssnp_description": "Yeni gelen ürünler, özel tekliflerle ilgili güncellemeleri almak için posta listesine abone olun.",
+    "ssnp_checkbox_title": "Bu açılır pencereyi bir daha gösterme",
+    "ssnp_show_checkbox": true,
+    "newsletter": "shopify://shop_images/bg-newletter_03.png",
+    "newslettermodal_mailchimp": true,
+    "newslettermodal_cookie": "60",
+    "newsletter_formmodal_action": "//magentech.us16.list-manage.com/subscribe/post?u=74b0f77582219cf039a743aa5&amp;id=e872bd5efa",
+    "ssnp_show_facebook": true,
+    "ssnp_link_facebook": "https://www.facebook.com/100063822134562/videos/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d/305586208333988/",
+    "ssnp_show_twitter": true,
+    "ssnp_link_twitter": "https://twitter.com/izgarahazende",
+    "ssnp_show_googleplus": false,
+    "ssnp_link_googleplus": "#",
+    "ssnp_show_pinterest": true,
+    "ssnp_link_pinterest": "https://tr.pinterest.com/hazendeizgara/",
+    "ssnp_show_linkedin": true,
+    "ssnp_link_linkedin": "https://tr.linkedin.com/in/hazende-izgara-b2982a225",
+    "ssnp_show_instagram": true,
+    "ssnp_link_instagram": "https://www.instagram.com/hazendeizgara/",
+    "ssnp_show_tumblr": false,
+    "ssnp_link_tumblr": "#",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#1990c6",
+    "checkout_button_color": "#1990c6",
+    "checkout_error_color": "#ff6d6d",
+    "display_header_top": true,
+    "headertop_bgcolor": "#ffffff",
+    "text_headertop_color": "#222222",
+    "border_headertop_color": "#eeeeee",
+    "welcome-msg": "Welcome to Bestore",
+    "display_acc": true,
+    "display_check": false,
+    "headerct_bgcolor": "#ffffff",
+    "border_headerct_color": "#ffffff",
+    "text_headerct_color": "#6d6d6d",
+    "display_oder": true,
+    "text_oder": "track your order",
+    "link_order": "",
+    "display_hotline": true,
+    "text_hotline": "Hotline (+123)4 567 890",
+    "headerbt_bgcolor": "#f7f7f7",
+    "text_headerbt_color": "#222222",
+    "text_msg": "Welcome to our online store!",
+    "header_mobile_float": "true",
+    "display_laguage": true,
+    "enable_product_sidebar": "false",
+    "on_rtl": "rtl",
+    "display_popup_newsletter": true,
+    "popup_newsletter_title": "aaaaaaaaa",
+    "popup_newsletter_sub_title": "aaaaaaaaaaaaaa",
+    "popup_newsletter_message": "aaaaaaaaaa",
+    "mailing_list_form_action": "ádasdasd",
+    "display_popup_social": true,
+    "ssnp_show_bgimage": true,
+    "ssnp_bgimage": "",
+    "psp_width_zoom": "900x",
+    "product_zoom": false,
+    "product_video": true,
+    "product_video_icon": "",
+    "logo_text_nav": "Logo",
+    "logo_nav": "",
+    "second_image": false,
+    "show-color-swatch": true,
+    "menu": "sidebar-blogs",
+    "blog_category": "",
+    "pt_position": "bottom",
+    "pt_item": "5",
+    "psp_width": "95x",
+    "product_vendor": false,
+    "product_available": false,
+    "product_review": false,
+    "product_shortdes": false,
+    "swatch_color": false,
+    "size_guide": true,
+    "color_startactive": "#ffffff",
+    "pt_carousel": "false",
+    "banner-sidebar-1": "",
+    "banner_sidebar_link_1": "",
+    "display_sidebar_categories_detail": true,
+    "show_featured_collection": true,
+    "show_featured_product_detail": true,
+    "show_featured_product_blogs": true,
+    "display_banner_sidebar": true,
+    "display_banner_sidebar_detail": true,
+    "display_banner_sidebar_blog": true,
+    "banner-sidebar": "",
+    "banner_sidebar_link": "#",
+    "display_sidebar_custom": true,
+    "display_sidebar_custom_detail": true,
+    "display_sidebar_custom_blog": true,
+    "custom_cms_title": "Custom CMS Block",
+    "custom_cms_text": "<div class=\"services-sidebar\">\n\t<ul>\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-truck\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free Delivery\">Free Delivery</a></h4>\n\t\t\t\t\t<p>From $59.89</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-support\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Support 24/7\">Support 24/7</a></h4>\n\t\t\t\t\t<p>Online 24 hours</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-refresh\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free return\">Free return</a></h4>\n\t\t\t\t\t<p>365 a day</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n\t\t\t\t\t<em class=\"fa fa-cc-paypal\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"payment method\">payment method</a></h4>\n\t\t\t\t\t<p>Secure payment</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t</ul>\n</div>",
+    "home_page_layout": "home-page_layout-2",
+    "color_prlinks": "#333333",
+    "color_prlinkshover": "#1fc0a0",
+    "color_body_text_hover": "#ff3c20",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "image_ico": "",
+    "title": "100 S Manhattan St, Amarillo,",
+    "title2": "TX 79104, North America",
+    "image_ico2": "",
+    "title3": "Sales@MagenTech.Com",
+    "title4": "( +123 ) 456 7890",
+    "image_ico4": "",
+    "title5": "Free Delivery",
+    "title6": "On order over $89.00",
+    "show-deals ": "true",
+    "header_design": "header-style1",
+    "text_hot": "(801) 2345 - 6789",
+    "display_hot": "true",
+    "top": "Summer sale discount off 50%! <a href=\"#\">Shop Now</a>",
+    "display_call": true,
+    "text_call": "Call us now",
+    "text_info_call": "Toll free: 123 456 7890",
+    "hover-image": "change",
+    "label_headertop_color": "#777777",
+    "display_label": "true",
+    "display_call_free": "true",
+    "text_call_free": "Call Us: (+800) 1234 5678",
+    "vermenu_bgcolor": "#ffffff",
+    "vermenu_titlecolor": "#ffffff",
+    "vermenu_linkcolor": "#444444",
+    "vermenu_linkcolor_hover": "#ffffff",
+    "vermenu_linkbgcolor_hover": "#f4a137",
+    "vermenu_dropdown_bgcolor": "#ffffff",
+    "vermenu_dropdown_linkcolor": "#333333",
+    "vermenu_dropdown_linkcolor_hover": "#f4a137",
+    "display_call_fee": true,
+    "text_call_fee": "Call us toll free: (123) 456-7890",
+    "newsletterP_title": "Newsletter",
+    "newsletterP_subtitle": "Subscribe to the Simolux mailing list to receive updates on new<br>arrivals, special offers and other discount information.",
+    "newsletterP_delay": "5000",
+    "newsletterP_dontshow": "Don't show this popup again",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay": "#3d4246",
+    "image_overlay_opacity": "0.25",
+    "collection_results_per_row": "4",
+    "collection_results_per_page": "12",
+    "enable_image_category": "true",
+    "show_collection_description": "true",
+    "enable_scroll_sidebar": "true",
+    "listing_page_design": "left-sidebar",
+    "sidebar_opened_tabs": "",
+    "sidebar_shopby": "true",
+    "sidebar_shopby_title": "Shopby",
+    "sidebar_categories": "true",
+    "shop_by_tags_2": "true",
+    "shop_by_tags_2_title": "22",
+    "shop_by_tags_2_list_tags": "222",
+    "fit_color_label": "Black, Orange, Blue, Silver",
+    "fit_by_color": "true",
+    "fit_by_color_title": "Color",
+    "fit_color_1_label": "Black",
+    "fit_color_2_label": "Silver",
+    "fit_color_3_label": "",
+    "fit_color_4_label": "",
+    "fit_color_5_label": "",
+    "fit_color_6_label": "",
+    "fit_color_7_label": "",
+    "fit_color_8_label": "",
+    "fit_color_9_label": "",
+    "fit_color_10_label": "",
+    "fit_color_11_label": "",
+    "fit_color_12_label": "",
+    "enable_shop_by_tags_3": "true",
+    "shop_by_tags_3_title": "",
+    "shop_by_tags_3_list_tags": "",
+    "enable_shop_by_tags_4": "true",
+    "shop_by_tags_4_title": "aaa",
+    "shop_by_tags_4_list_tags": "Lime,Glass",
+    "link_msg": "shopify://pages/page-get-fre",
+    "display_cate": "true",
+    "title_cate": "Categories",
+    "show_categories": "show_all",
+    "categories_items": "Electronics, Home page",
+    "sidebar_mini_listing": "true",
+    "sidebar_mini_listing_title": "Best Sellers",
+    "sidebar_mini_listing_collection": "electronics",
+    "sidebar_mini_listing_limit": "4",
+    "header_layout": "header_layout_2",
+    "bingo_newslettermodal_enable": true,
+    "bingo_newslettermodal_type": "one",
+    "bingo_newslettermodal_cookie": "60",
+    "bingo_newslettermodal_titile": "NEWSLETTER",
+    "bingo_newslettermodal_description": "Subscribe to the Market mailing list to receive updates on new arrivals, special offers and other discount information.",
+    "bingo_newslettermodal_chk": "Don't show this popup again",
+    "bingo_newslettermodal_bgimage": false,
+    "bingo_newslettermodal_mailchimp": true,
+    "enable_sidebar": true,
+    "image": "shopify://shop_images/banner-sidebar.jpg",
+    "color_text": "#3d4246",
+    "color_borders": "#e8e9eb",
+    "color_button": "#7796a8",
+    "color_sale_text": "#7796a8",
+    "color_button_text": "#fff",
+    "color_small_button": "#fff",
+    "color_small_button_text": "#3d4246",
+    "color_text_field": "#fff",
+    "color_text_field_text": "#000",
+    "color_body_bg": "#fff",
+    "type_header_family": "Google_Work+Sans_600_sans",
+    "type_header_base_size": "26px",
+    "type_base_family": "Google_Work+Sans_400_sans",
+    "type_base_size": "16px",
+    "type_bold_product_titles": false,
+    "use_color_swatch": true,
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {}
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "footer_newleter_enable": true,
+          "footer_title_4": "Aramıza Katılın",
+          "subtitle": "Sıcak fırsatları ve lezzetli sürprizleri yakalamak için bize katılın! .",
+          "footer_center_enable": true,
+          "bg_headercenter": "#161619",
+          "footer_co1_enable": true,
+          "footer_show_logo": true,
+          "img_logo_ft": "shopify://shop_images/logo-hazende-izgara_1.webp",
+          "link_logo": "",
+          "footer_dec": "Lezzetli tatlar ve keyifli anlar için biz buradayız! En taze malzemelerle hazırlanan özenle seçilmiş menümüzü keşfedin ve lezzetli bir deneyim yaşayın. Sizi bekliyoruz!",
+          "footer_contact_email": "bilgi@hazende.com",
+          "footer_contact_phone": "+90 (545) 429 3633",
+          "footer_co2_enable": true,
+          "footer_title_2": "INFORMATION",
+          "footer_linklist_2": "",
+          "footer_co3_enable": true,
+          "footer_title_3": "OUR SHOPS",
+          "footer_linklist_3": "",
+          "show_bottom": true,
+          "bg_headerbottom": "#161619",
+          "footer_about": "© Hazende Izgara, 2024. Tüm hakları saklıdır."
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "pagination_style": "default",
+          "rows": "4",
+          "results_per_page": "9"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "display_product_reviews": true,
+          "show_vendor": true,
+          "show_product_type": true,
+          "show_desc": "no-show",
+          "show_product_countdown": true,
+          "use_color_swatch": true,
+          "show_price_subtotal": false,
+          "show_quantity_selector": true,
+          "show_share_buttons": true,
+          "show_category": true,
+          "show_tag": false,
+          "show_brand": true,
+          "pt_position": "bottom",
+          "pt_item": "4",
+          "enable_sevicer": false,
+          "sv_title": "90 günde<br>paranız iade",
+          "sv_icon": "usd",
+          "sv_title_2": "ücretsiz teslimat <br> tüm ürünlerde",
+          "sv_icon_2": "truck",
+          "sv_title_3": "en düşük fiyat <br> garantisi",
+          "sv_icon_3": "calendar",
+          "sv_title_4": "güvenli alışveriş <br> garantisi",
+          "sv_icon_4": "umbrella",
+          "product_tab_type": "protab",
+          "product_tab1_enable": true,
+          "product_tab1_title": "Detaylar",
+          "product_tab2_enable": true,
+          "product_tab2_title": "İade &amp; Teslimat",
+          "product_tab2_content": "<div class=\"success rte\">\n<p>100₺ ve üzeri siparişlerinizde ücretsiz standart teslimat avantajından yararlanın.</p>\n<ul class=\"ncss-list-ul mt4-sm mb4-sm\">\n<li class=\"ncss-li\">Standart teslimat 2-3 iş günü içerisinde gerçekleştirilir</li>\n<li class=\"ncss-li\">Hızlı teslimat 1-2 iş günü içerisinde gerçekleştirilir</li>\n</ul>\n<br><p>Siparişleriniz Pazartesi-Cuma günleri arasında işlenir ve teslim edilir (resmi tatiller hariç).</p>\n</div>",
+          "product_tab3_enable": false,
+          "product_tab3_title": "Boyut Grafiği",
+          "product_tab4_enable": true,
+          "product_tab4_title": "İncelemeler",
+          "product_related_enable": true,
+          "product_related_title": "İlgili Ürünler",
+          "related_products_type": "tags",
+          "product_related_limit": "6",
+          "navigation": true,
+          "margin-rl": "20",
+          "column1": "3",
+          "column2": "3",
+          "column3": "3",
+          "column4": "2",
+          "column5": "2"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1499738278102": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "1499738114928": {
+            "type": "collection",
+            "settings": {
+              "collection": "barbecue"
+            }
+          },
+          "1499738226235": {
+            "type": "collection",
+            "settings": {
+              "collection": "stir-fried-meal"
+            }
+          },
+          "1499738260929": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "1499738099326": {
+            "type": "collection",
+            "settings": {
+              "collection": "barbecue"
+            }
+          },
+          "1514823718413": {
+            "type": "collection",
+            "settings": {
+              "collection": "stir-fried-meal"
+            }
+          },
+          "1499738244928": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "1514823795425": {
+            "type": "collection",
+            "settings": {
+              "collection": "barbecue"
+            }
+          }
+        },
+        "block_order": [
+          "1499738278102",
+          "1499738114928",
+          "1499738226235",
+          "1499738260929",
+          "1499738099326",
+          "1514823718413",
+          "1499738244928",
+          "1514823795425"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "sort": "products_low",
+          "grid": "4"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "limit_blog": "9",
+          "grid_per": "3",
+          "blog_show_author": false,
+          "blog_show_date": true,
+          "blog_show_readmore": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true,
+          "font_size_title": 18,
+          "text_blog": "#444",
+          "text_des_blog": "#666"
+        }
+      },
+      "template-contact": {
+        "type": "template-contact",
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6787.11846816203!2d-74.00106388051138!3d40.73303806053912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2zVGjDoG5oIHBo4buRIE5ldyBZb3JrLCBUaeG7g3UgYmFuZyBOZXcgWW9yaw!5e0!3m2!1svi!2s!4v1498454043100\"></iframe>",
+          "title_info": "CONTACT US",
+          "contact_text_desc": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br> Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat sed do eiusmod tempor",
+          "title_1": "",
+          "des_1": "123 Suspendis mattis, Sollicitudin District, Accums Fringilla",
+          "icon_1": "map-marker",
+          "title_2": "Email:",
+          "des_2": "support@demo.com",
+          "icon_2": "envelope",
+          "title_3": "Phone:",
+          "des_3": "0123456789",
+          "icon_3": "phone",
+          "title_form": "SEND YOUR COMMENTS"
+        }
+      },
+      "template-about": {
+        "type": "template-about",
+        "blocks": {
+          "1512635249137": {
+            "type": "faq",
+            "settings": {
+              "our_image_1": "shopify://shop_images/ourteam1.png",
+              "cl_name_1": "Jennifer lawrence",
+              "cl_job_1": "Tech Leader",
+              "cl_des_1": "",
+              "social_facebook_link": "#",
+              "social_twitter_link": "#",
+              "social_google_link": "#",
+              "social_dribbble_link": "#",
+              "social_linkedin_link": "#"
+            }
+          },
+          "1512639232534": {
+            "type": "faq",
+            "settings": {
+              "our_image_1": "shopify://shop_images/ourteam2.png",
+              "cl_name_1": "George Scoots",
+              "cl_job_1": "Ceo & Director",
+              "cl_des_1": "",
+              "social_facebook_link": "#",
+              "social_twitter_link": "#",
+              "social_google_link": "#",
+              "social_dribbble_link": "#",
+              "social_linkedin_link": "#"
+            }
+          },
+          "1512639272630": {
+            "type": "faq",
+            "settings": {
+              "our_image_1": "shopify://shop_images/ourteam3.png",
+              "cl_name_1": "George Scoots",
+              "cl_job_1": "Ceo & Director",
+              "cl_des_1": "",
+              "social_facebook_link": "#",
+              "social_twitter_link": "#",
+              "social_google_link": "#",
+              "social_dribbble_link": "#",
+              "social_linkedin_link": "#"
+            }
+          },
+          "1512639296273": {
+            "type": "faq",
+            "settings": {
+              "our_image_1": "shopify://shop_images/ourteam4.png",
+              "cl_name_1": "Jennifer lawrence",
+              "cl_job_1": "Tech Leader",
+              "cl_des_1": "",
+              "social_facebook_link": "#",
+              "social_twitter_link": "#",
+              "social_google_link": "#",
+              "social_dribbble_link": "#",
+              "social_linkedin_link": "#"
+            }
+          }
+        },
+        "block_order": [
+          "1512635249137",
+          "1512639232534",
+          "1512639272630",
+          "1512639296273"
+        ],
+        "settings": {
+          "about_title": "Hello, We are Established 2018 - Paris  Fashion Show",
+          "about_image": "shopify://shop_images/img-about.png",
+          "about_text_desc": "<p>Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk. Mogul talk. Cloth talk. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth. In life you have to take the trash out, if you have trash in your life, take it out, throw it away, get rid of it, major key. Surround yourself with angels.</p>\n<br>\n<p>\nThey key is to have every key, the key to open every door. We don’t see them, we will never see them. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it. They never said winning was easy. Some people can’t handle success, I can. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth.\n</p>",
+          "about_link": "#",
+          "show_service": true,
+          "icon1": "Strategy & Marketing",
+          "des1": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.",
+          "icon2": "interaction design",
+          "des2": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.",
+          "icon3": "WEb Development",
+          "des3": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.",
+          "show_team": true,
+          "member_title": "Our Member",
+          "our_text_desc": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week",
+          "show_policy": true,
+          "title1": "Free shipping",
+          "description1": "Free shipping on oder over $100",
+          "title2": "secure payment",
+          "description2": "We value your security",
+          "title3": "Online support",
+          "description3": "We have support 24/7",
+          "title4": "payment on delivery",
+          "description4": "Cash on delivery option"
+        }
+      },
+      "ss-mainmenu": {
+        "type": "ss-mainmenu",
+        "blocks": {
+          "1528441729722": {
+            "type": "text",
+            "settings": {
+              "title": "asd",
+              "cal_width": "custom",
+              "customWidth": "650px",
+              "mega_class": "",
+              "cal_align": "left",
+              "cal_align_margin": "0px",
+              "navi_show": true,
+              "item_linklist": "koleksiyonlar",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "banner_enable1": false,
+              "banner_link": "",
+              "banner_col_column": 6,
+              "banner_enable2": false,
+              "banner_link2": "",
+              "banner_col_column2": 6,
+              "banner_enable3": false,
+              "banner_link3": "",
+              "banner_col_column4": 6,
+              "mega_page_enable": true,
+              "page_col_column": 12,
+              "mega_page": "dropdown-layout-home"
+            }
+          },
+          "text_Vtqz6a": {
+            "type": "text",
+            "settings": {
+              "title": "Catalog",
+              "cal_width": "full",
+              "customWidth": "",
+              "mega_class": "",
+              "cal_align": "left",
+              "cal_align_margin": "0px",
+              "navi_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "banner_enable1": false,
+              "banner_link": "",
+              "banner_col_column": 6,
+              "banner_enable2": false,
+              "banner_link2": "",
+              "banner_col_column2": 6,
+              "banner_enable3": false,
+              "banner_link3": "",
+              "banner_col_column4": 6,
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1528441946800": {
+            "type": "text",
+            "settings": {
+              "title": "Features",
+              "cal_width": "custom",
+              "customWidth": "750px",
+              "mega_class": "",
+              "cal_align": "left",
+              "cal_align_margin": "0px",
+              "navi_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "banner_enable1": false,
+              "banner_link": "",
+              "banner_col_column": 6,
+              "banner_enable2": false,
+              "banner_link2": "",
+              "banner_col_column2": 6,
+              "banner_enable3": false,
+              "banner_link3": "",
+              "banner_col_column4": 6,
+              "mega_page_enable": true,
+              "page_col_column": 12,
+              "mega_page": "collection"
+            }
+          },
+          "1510549520114": {
+            "type": "text",
+            "settings": {
+              "title": "Gönderim Bölgeleri",
+              "cal_width": "custom",
+              "customWidth": "860px",
+              "mega_class": "",
+              "cal_align": "left",
+              "cal_align_margin": "0px",
+              "navi_show": true,
+              "item_linklist": "",
+              "menu_col_column": 8,
+              "menu_item_col": 6,
+              "product_show": true,
+              "product_title": "Featured Product",
+              "product_sellect": "frontpage",
+              "product_limit": "3",
+              "product_col_column": 4,
+              "product_item_col": 12,
+              "banner_enable1": false,
+              "banner_link": "",
+              "banner_col_column": 6,
+              "banner_enable2": false,
+              "banner_link2": "",
+              "banner_col_column2": 6,
+              "banner_enable3": false,
+              "banner_link3": "",
+              "banner_col_column4": 6,
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1512705049457": {
+            "type": "text",
+            "settings": {
+              "title": "Kampanyalar",
+              "cal_width": "custom",
+              "customWidth": "750px",
+              "mega_class": "",
+              "cal_align": "left",
+              "cal_align_margin": "-96px",
+              "navi_show": true,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 4,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "banner_enable1": true,
+              "banner_link": "shopify://collections/electronics",
+              "banner_col_column": 4,
+              "banner_enable2": true,
+              "banner_link2": "shopify://collections/cameras-photo",
+              "banner_col_column2": 4,
+              "banner_enable3": true,
+              "banner_link3": "shopify://collections/new-arrivals",
+              "banner_col_column4": 4,
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1562579859647": {
+            "type": "text",
+            "settings": {
+              "title": "Lookbook",
+              "cal_width": "custom",
+              "customWidth": "200px",
+              "mega_class": "",
+              "cal_align": "left",
+              "cal_align_margin": "0px",
+              "navi_show": true,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "banner_enable1": false,
+              "banner_link": "",
+              "banner_col_column": 6,
+              "banner_enable2": false,
+              "banner_link2": "",
+              "banner_col_column2": 6,
+              "banner_enable3": false,
+              "banner_link3": "",
+              "banner_col_column4": 6,
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          }
+        },
+        "block_order": [
+          "1528441729722",
+          "text_Vtqz6a",
+          "1528441946800",
+          "1510549520114",
+          "1512705049457",
+          "1562579859647"
+        ],
+        "settings": {
+          "main_linklist": "main-menu",
+          "nav_bg_color": "#ffffff",
+          "nav_menu_color": "#444444",
+          "show_dropdown_arrow": true,
+          "enable_new": false,
+          "megamenu_items_new": "",
+          "enable_hot": false,
+          "megamenu_items_hot": ""
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": true
+        }
+      },
+      "ss-tools": {
+        "type": "ss-tools",
+        "settings": {
+          "status": true,
+          "position": "right",
+          "position_top": "100",
+          "show_category": true,
+          "show_cart": true,
+          "show_account": true,
+          "show_search": true,
+          "show_recent_product": true,
+          "limit_product": "6",
+          "show_backtop": false
+        }
+      },
+      "ss-facebook-message": {
+        "type": "ss-facebook-message",
+        "settings": {
+          "status": false,
+          "position": "right-bottom",
+          "width": 320,
+          "height": 250,
+          "button_style": "default",
+          "widget_text": "Chat with Us",
+          "page_url": "https://www.facebook.com/MagenTech",
+          "tabs": "messages",
+          "small_header": true,
+          "hide_cover": false,
+          "show_facepile": false
+        }
+      },
+      "ss-vertical-menu": {
+        "type": "ss-vertical-menu",
+        "blocks": {
+          "1509959680604": {
+            "type": "text",
+            "settings": {
+              "title": "Smartphones & Tablets",
+              "menu_url": "shopify://collections/smartphones-tablets",
+              "enable_menu_icon": false,
+              "font_icon": "television",
+              "menu_icon": "",
+              "dropdown_type": "mega_drop",
+              "megamenu_width_col": "750px",
+              "megamenu_class": "",
+              "menu_show": true,
+              "item_linklist": "",
+              "menu_col_column": 7,
+              "menu_item_col": 6,
+              "product_show": true,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "1",
+              "product_col_column": 5,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 7,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 5,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1509959843931": {
+            "type": "text",
+            "settings": {
+              "title": "Electronics",
+              "menu_url": "shopify://collections/electronics",
+              "enable_menu_icon": false,
+              "font_icon": "eercast",
+              "menu_icon": "",
+              "dropdown_type": "none",
+              "megamenu_width_col": "650px",
+              "megamenu_class": "",
+              "menu_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 4,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 12,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1509959804345": {
+            "type": "text",
+            "settings": {
+              "title": "Laptop",
+              "menu_url": "shopify://collections/sports-outdoors",
+              "enable_menu_icon": false,
+              "font_icon": "gift",
+              "menu_icon": "",
+              "dropdown_type": "mega_drop",
+              "megamenu_width_col": "600px",
+              "megamenu_class": "",
+              "menu_show": true,
+              "item_linklist": "",
+              "menu_col_column": 6,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": true,
+              "banner_col_column": 6,
+              "image_banner": "",
+              "banner_link": "#",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1509959767921": {
+            "type": "text",
+            "settings": {
+              "title": "Computer",
+              "menu_url": "shopify://collections/health-beauty",
+              "enable_menu_icon": false,
+              "font_icon": "deaf",
+              "menu_icon": "",
+              "dropdown_type": "none",
+              "megamenu_width_col": "900px",
+              "megamenu_class": "",
+              "menu_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 6,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1509959728138": {
+            "type": "text",
+            "settings": {
+              "title": "Camera & Photo",
+              "menu_url": "shopify://collections/toys-hobbies",
+              "enable_menu_icon": false,
+              "font_icon": "camera-retro",
+              "menu_icon": "",
+              "dropdown_type": "none",
+              "megamenu_width_col": "200px",
+              "megamenu_class": "",
+              "menu_show": true,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 6,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1509959869218": {
+            "type": "text",
+            "settings": {
+              "title": "Television & Video",
+              "menu_url": "shopify://collections/furniture",
+              "enable_menu_icon": false,
+              "font_icon": "grav",
+              "menu_icon": "",
+              "dropdown_type": "none",
+              "megamenu_width_col": "900px",
+              "megamenu_class": "",
+              "menu_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 6,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1510891816668": {
+            "type": "text",
+            "settings": {
+              "title": "Accessories",
+              "menu_url": "shopify://collections/automotive-motorcycle",
+              "enable_menu_icon": false,
+              "font_icon": "futbol-o",
+              "menu_icon": "",
+              "dropdown_type": "mega_drop",
+              "megamenu_width_col": "700px",
+              "megamenu_class": "",
+              "menu_show": true,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 4,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 12,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1510891836292": {
+            "type": "text",
+            "settings": {
+              "title": "Laptops & Accessories",
+              "menu_url": "shopify://collections/laptops-accessories",
+              "enable_menu_icon": false,
+              "font_icon": "shopping-bag",
+              "menu_icon": "",
+              "dropdown_type": "none",
+              "megamenu_width_col": "900px",
+              "megamenu_class": "",
+              "menu_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 6,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1534845645835": {
+            "type": "text",
+            "settings": {
+              "title": "Home Audio",
+              "menu_url": "shopify://collections/jewelry-watches",
+              "enable_menu_icon": false,
+              "font_icon": "desktop",
+              "menu_icon": "",
+              "dropdown_type": "none",
+              "megamenu_width_col": "900px",
+              "megamenu_class": "",
+              "menu_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 6,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          },
+          "1534845731697": {
+            "type": "text",
+            "settings": {
+              "title": "Cameras & Photo",
+              "menu_url": "shopify://collections/cameras-photo",
+              "enable_menu_icon": false,
+              "font_icon": "desktop",
+              "menu_icon": "",
+              "dropdown_type": "none",
+              "megamenu_width_col": "900px",
+              "megamenu_class": "",
+              "menu_show": false,
+              "item_linklist": "",
+              "menu_col_column": 12,
+              "menu_item_col": 12,
+              "product_show": false,
+              "product_title": "",
+              "product_sellect": "",
+              "product_limit": "",
+              "product_col_column": 12,
+              "product_item_col": 12,
+              "html_enable": false,
+              "html_col_column": 12,
+              "html_content": "",
+              "banner_enable1": false,
+              "banner_col_column": 6,
+              "image_banner": "",
+              "banner_link": "",
+              "banner_enable2": false,
+              "banner_col_column2": 6,
+              "image_banner2": "",
+              "banner_link2": "",
+              "mega_page_enable": false,
+              "page_col_column": 12,
+              "mega_page": ""
+            }
+          }
+        },
+        "block_order": [
+          "1509959680604",
+          "1509959843931",
+          "1509959804345",
+          "1509959767921",
+          "1509959728138",
+          "1509959869218",
+          "1510891816668",
+          "1510891836292",
+          "1534845645835",
+          "1534845731697"
+        ],
+        "settings": {
+          "ver_bg_color": "rgba(0,0,0,0)",
+          "ver_menu_color": "#ffffff",
+          "ver_title": "ALL CATEGORIES",
+          "ver_all": "More All Categories",
+          "ver_url": "shopify://collections"
+        }
+      },
+      "sidebar-filter-collection": {
+        "type": "sidebar-filter-collection",
+        "blocks": {
+          "1522833934637": {
+            "type": "filter_tag",
+            "settings": {
+              "enable": true,
+              "title": "Price",
+              "list_tags": "0 - $99, $100 - $199, $200 - $299, $300 - $399, Above $400"
+            }
+          },
+          "1522833926819": {
+            "type": "filter_color",
+            "settings": {
+              "enable": true,
+              "title": "Color",
+              "color_text_1": "Red",
+              "color_img_1": "",
+              "color_text_2": "Blue",
+              "color_img_2": "",
+              "color_text_3": "Brown",
+              "color_img_3": "",
+              "color_text_4": "Orange",
+              "color_img_4": "",
+              "color_text_5": "Green",
+              "color_img_5": "",
+              "color_text_6": "Black",
+              "color_img_6": "",
+              "color_text_7": "Pink",
+              "color_img_7": "",
+              "color_text_8": "Sliver",
+              "color_img_8": "",
+              "color_text_9": "White",
+              "color_img_9": "",
+              "color_text_10": "Yellow",
+              "color_img_10": "",
+              "color_text_11": "Pink",
+              "color_img_11": "",
+              "color_text_12": "Cyan",
+              "color_img_12": "",
+              "color_text_13": "Gold",
+              "color_img_13": "",
+              "color_text_14": "Grey",
+              "color_img_14": "",
+              "color_text_15": "",
+              "color_img_15": "",
+              "color_text_16": "",
+              "color_img_16": "",
+              "color_text_17": "",
+              "color_img_17": "",
+              "color_text_18": "",
+              "color_img_18": "",
+              "color_text_19": "",
+              "color_img_19": "",
+              "color_text_20": "",
+              "color_img_20": ""
+            }
+          },
+          "1522980753781": {
+            "type": "filter_tag",
+            "settings": {
+              "enable": true,
+              "title": "Size",
+              "list_tags": "16, 18, 20, 22, 24, 26, ONE SIZE"
+            }
+          },
+          "1522834136250": {
+            "type": "filter_tag",
+            "settings": {
+              "enable": true,
+              "title": "Brand",
+              "list_tags": "Chanel, Dior, Lion, Gap, Lucci, Louis, Hermes, Cherry, Glass, Lime, Nice"
+            }
+          }
+        },
+        "block_order": [
+          "1522833934637",
+          "1522833926819",
+          "1522980753781",
+          "1522834136250"
+        ],
+        "settings": {
+          "enable_filter": true,
+          "enable_filter-fixed": true
+        }
+      },
+      "collection-infos": {
+        "type": "collection-infos",
+        "settings": {
+          "show_collection_image": false,
+          "show_collection_title": false,
+          "show_collection_des": false,
+          "show_collection": false,
+          "linklist_collections_name": "",
+          "column1": "5",
+          "column2": "4",
+          "column3": "3"
+        }
+      },
+      "homepage-logolist": {
+        "type": "homepage-logolist",
+        "blocks": {
+          "1525851623622": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          },
+          "1525851657785": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          },
+          "1525851669031": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          },
+          "1525851777965": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          },
+          "1525852305813": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          },
+          "1525852316870": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          },
+          "1525852326589": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "170x100",
+              "link": "/"
+            }
+          },
+          "1525852567476": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          },
+          "1525852577385": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "image_size": "140x73",
+              "link": "/"
+            }
+          }
+        },
+        "block_order": [
+          "1525851623622",
+          "1525851657785",
+          "1525851669031",
+          "1525851777965",
+          "1525852305813",
+          "1525852316870",
+          "1525852326589",
+          "1525852567476",
+          "1525852577385"
+        ],
+        "settings": {
+          "show_container": true,
+          "title": "",
+          "column1": "8",
+          "column2": "6",
+          "column3": "5",
+          "column4": "4",
+          "column5": "3",
+          "owl_navigation": true,
+          "owl_margin": "30",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300"
+        }
+      },
+      "homepage-product-carousel": {
+        "type": "homepage-product-carousel",
+        "settings": {
+          "title1": "MOST VIEWED",
+          "image1": "",
+          "link1": "",
+          "collection": "",
+          "image_size": "270x270",
+          "column1": "4",
+          "column2": "3",
+          "column3": "2",
+          "column4": "2",
+          "column5": "1",
+          "row": "1",
+          "limit": "8",
+          "owl_navigation": true,
+          "show_dot": true,
+          "owl_margin": "30",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300",
+          "text_button": "View all"
+        }
+      },
+      "template-hotdeals": {
+        "type": "template-hotdeals",
+        "blocks": {
+          "1534584054374": {
+            "type": "product",
+            "settings": {
+              "title": "",
+              "prt_collection": "frontpage"
+            }
+          },
+          "1534584058420": {
+            "type": "product",
+            "settings": {
+              "title": "",
+              "prt_collection": "barbecue"
+            }
+          },
+          "1534584061272": {
+            "type": "product",
+            "settings": {
+              "title": "",
+              "prt_collection": "stir-fried-meal"
+            }
+          }
+        },
+        "block_order": [
+          "1534584054374",
+          "1534584058420",
+          "1534584061272"
+        ],
+        "settings": {
+          "display_image_cat": true,
+          "img_cat": "shopify://shop_images/F005454A54507ACCCBB897BF522E5E26407DF72B52C5C59600_pimgpsh_fullsize_distr.png",
+          "limit_product": "12"
+        }
+      },
+      "home-slider": {
+        "type": "home-slider",
+        "blocks": {
+          "1533097029829": {
+            "type": "slider_list",
+            "settings": {
+              "image": "",
+              "banner_link": "shopify://collections/sports-outdoors",
+              "position": "center",
+              "show_info": "no",
+              "position_info": "left",
+              "offset_info": "200",
+              "show_button": "no",
+              "button_title": "Buy now",
+              "button_link": "",
+              "button_color_text": "#ffffff",
+              "fontsize_button": "14",
+              "button_color_bg": "#000000",
+              "text1": "Text 1",
+              "color_text1": "#ffffff",
+              "fontsize_text1": "14",
+              "text2": "Text 2",
+              "color_text2": "#ffffff",
+              "fontsize_text2": "14",
+              "text3": "Text 3",
+              "color_text3": "#ffffff",
+              "fontsize_text3": "14",
+              "use_custom_html": "0",
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+            }
+          },
+          "1533192513962": {
+            "type": "slider_list",
+            "settings": {
+              "image": "",
+              "banner_link": "shopify://collections/electronics",
+              "position": "center",
+              "show_info": "no",
+              "position_info": "left",
+              "offset_info": "200",
+              "show_button": "no",
+              "button_title": "Buy now",
+              "button_link": "",
+              "button_color_text": "#ffffff",
+              "fontsize_button": "14",
+              "button_color_bg": "#000000",
+              "text1": "Text 1",
+              "color_text1": "#ffffff",
+              "fontsize_text1": "14",
+              "text2": "Text 2",
+              "color_text2": "#ffffff",
+              "fontsize_text2": "14",
+              "text3": "Text 3",
+              "color_text3": "#ffffff",
+              "fontsize_text3": "14",
+              "use_custom_html": "0",
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+            }
+          },
+          "1533192527768": {
+            "type": "slider_list",
+            "settings": {
+              "image": "",
+              "banner_link": "shopify://collections/smartphones-tablets",
+              "position": "center",
+              "show_info": "no",
+              "position_info": "left",
+              "offset_info": "200",
+              "show_button": "no",
+              "button_title": "Buy now",
+              "button_link": "",
+              "button_color_text": "#ffffff",
+              "fontsize_button": "14",
+              "button_color_bg": "#000000",
+              "text1": "Text 1",
+              "color_text1": "#ffffff",
+              "fontsize_text1": "14",
+              "text2": "Text 2",
+              "color_text2": "#ffffff",
+              "fontsize_text2": "14",
+              "text3": "Text 3",
+              "color_text3": "#ffffff",
+              "fontsize_text3": "14",
+              "use_custom_html": "0",
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+            }
+          }
+        },
+        "block_order": [
+          "1533097029829",
+          "1533192513962",
+          "1533192527768"
+        ],
+        "settings": {
+          "show_bannertimer": true,
+          "start_width": "870",
+          "start_height": "495",
+          "delay_time": "3000",
+          "navigation": "solo",
+          "navigation_type": "bullet",
+          "navigation_stype": "round"
+        }
+      },
+      "siderbar-home": {
+        "type": "siderbar-home",
+        "blocks": {
+          "1533119144454": {
+            "type": "banner",
+            "settings": {
+              "enable_img": true,
+              "image": "",
+              "link": ""
+            }
+          },
+          "1533119180723": {
+            "type": "product",
+            "settings": {
+              "bs_title": "SPECIALS",
+              "collection": "",
+              "bs_limit": "4"
+            }
+          },
+          "1533119184816": {
+            "type": "banner",
+            "settings": {
+              "enable_img": true,
+              "image": "",
+              "link": ""
+            }
+          },
+          "1533176830358": {
+            "type": "product",
+            "settings": {
+              "bs_title": "Best Sellers",
+              "collection": "",
+              "bs_limit": "4"
+            }
+          },
+          "1533119206002": {
+            "type": "Menu",
+            "settings": {
+              "title_menu": "POPULAR TAGS",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1533119144454",
+          "1533119180723",
+          "1533119184816",
+          "1533176830358",
+          "1533119206002"
+        ],
+        "settings": {
+          "enable_sidebar_detail": true,
+          "show_sidebar": "left"
+        }
+      },
+      "home-product-deals": {
+        "type": "home-product-deals",
+        "settings": {
+          "show_container": true,
+          "title1": "DEALS OF THE WEEK",
+          "list_collection": "",
+          "image_size": "270x",
+          "column1": "3",
+          "column2": "3",
+          "column3": "2",
+          "column4": "2",
+          "column5": "1",
+          "row": "1",
+          "limit": "5",
+          "owl_navigation": false,
+          "owl_dot": false,
+          "owl_margin": "30",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300"
+        }
+      },
+      "home-quicklink": {
+        "type": "home-quicklink",
+        "blocks": {
+          "1533118341105": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Moto E",
+              "link_quick": "shopify://products/bresaola-volupta"
+            }
+          },
+          "1533118357812": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Mobile",
+              "link_quick": "shopify://products/boudin-tenderloin"
+            }
+          },
+          "1533118374698": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Tablet",
+              "link_quick": "shopify://products/jalapeno-kielbasa"
+            }
+          },
+          "1533118384157": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Fashion Accessories",
+              "link_quick": "shopify://products/cignon-frankes"
+            }
+          },
+          "1533118443735": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Laptops",
+              "link_quick": "shopify://products/aoccaecat-pariatur"
+            }
+          },
+          "1533118458115": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Pen Drivers",
+              "link_quick": "shopify://products/bresaola-volupta"
+            }
+          },
+          "1533118478996": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Toys",
+              "link_quick": "shopify://products/ipsum-ribeye"
+            }
+          },
+          "1533118487208": {
+            "type": "quick_link",
+            "settings": {
+              "title_quick": "Dress",
+              "link_quick": "shopify://products/capicola-deserun"
+            }
+          }
+        },
+        "block_order": [
+          "1533118341105",
+          "1533118357812",
+          "1533118374698",
+          "1533118384157",
+          "1533118443735",
+          "1533118458115",
+          "1533118478996",
+          "1533118487208"
+        ],
+        "settings": {
+          "show_section": true,
+          "title_quick": "Top Search:"
+        }
+      },
+      "home-services": {
+        "type": "home-services",
+        "blocks": {
+          "1533179654185": {
+            "type": "box",
+            "settings": {
+              "sv_icon": "local_shipping",
+              "show_image": false,
+              "image": "",
+              "title": "FREE SHIPPING<br>ON ALL ORDER",
+              "link": "",
+              "description": ""
+            }
+          },
+          "1533179659159": {
+            "type": "box",
+            "settings": {
+              "sv_icon": "reply_all",
+              "show_image": false,
+              "image": "",
+              "title": "Money Back<br>Guarantee",
+              "link": "",
+              "description": ""
+            }
+          },
+          "1533179660435": {
+            "type": "box",
+            "settings": {
+              "sv_icon": "security",
+              "show_image": false,
+              "image": "",
+              "title": "SAFE SHOPPING<br>GUARANTEE",
+              "link": "",
+              "description": ""
+            }
+          }
+        },
+        "block_order": [
+          "1533179654185",
+          "1533179659159",
+          "1533179660435"
+        ],
+        "settings": {
+          "show_container": true,
+          "style": "style-df",
+          "title": "false",
+          "column0": "4",
+          "column1": "3",
+          "column2": "3",
+          "column3": "2",
+          "column4": "2",
+          "column5": "1",
+          "row": "1",
+          "owl_margin": "0",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300"
+        }
+      },
+      "home-fullbanner": {
+        "type": "home-fullbanner",
+        "blocks": {
+          "1533181462793": {
+            "type": "image",
+            "settings": {
+              "link": "shopify://collections/apple-mobile",
+              "image": ""
+            }
+          }
+        },
+        "block_order": [
+          "1533181462793"
+        ],
+        "settings": {
+          "show_section": true,
+          "show_container": false,
+          "title": "",
+          "item-img": "1",
+          "size_image": "870x90"
+        }
+      },
+      "home-collection": {
+        "type": "home-collection",
+        "blocks": {
+          "1533182966174": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "",
+              "collection_name": "Tablets",
+              "image": ""
+            }
+          },
+          "1533183018931": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "",
+              "collection_name": "Cameras",
+              "image": ""
+            }
+          },
+          "1533183047189": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "",
+              "collection_name": "Keyboard",
+              "image": ""
+            }
+          },
+          "1533183065827": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "",
+              "collection_name": "Laptops",
+              "image": ""
+            }
+          },
+          "1533183085748": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "",
+              "collection_name": "Smartphone",
+              "image": ""
+            }
+          },
+          "1533183103177": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "",
+              "collection_name": "Televisions",
+              "image": ""
+            }
+          }
+        },
+        "block_order": [
+          "1533182966174",
+          "1533183018931",
+          "1533183047189",
+          "1533183065827",
+          "1533183085748",
+          "1533183103177"
+        ],
+        "settings": {
+          "titles": "ELECTRONICS",
+          "column1": "5",
+          "column2": "4",
+          "column3": "3",
+          "column4": "2",
+          "column5": "2",
+          "owl_margin": "0"
+        }
+      },
+      "home-product-tabs": {
+        "type": "home-product-tabs",
+        "blocks": {
+          "1533183191806": {
+            "type": "product",
+            "settings": {
+              "title": "Best Sellers",
+              "prt_collection": ""
+            }
+          },
+          "1533183227454": {
+            "type": "product",
+            "settings": {
+              "title": "New Arrivals",
+              "prt_collection": ""
+            }
+          },
+          "1533183248526": {
+            "type": "product",
+            "settings": {
+              "title": "Top Rating",
+              "prt_collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "1533183191806",
+          "1533183227454",
+          "1533183248526"
+        ],
+        "settings": {
+          "fw": true,
+          "title": "",
+          "image_size": "270x",
+          "column1": "3",
+          "column2": "3",
+          "column3": "3",
+          "column4": "2",
+          "column5": "2",
+          "row": "1",
+          "limit": "8",
+          "owl_navigation": false,
+          "owl_margin": "30",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300"
+        }
+      },
+      "1557650755208": {
+        "type": "home-blog",
+        "settings": {
+          "style": "style-df",
+          "title1": "Our Latest News",
+          "description": "",
+          "list_blog": "news",
+          "image_featured": true,
+          "image_size": "480x",
+          "column1": "3",
+          "column2": "3",
+          "column3": "2",
+          "column4": "2",
+          "column5": "1",
+          "row": "1",
+          "limit": "5",
+          "owl_navigation": true,
+          "owl_margin": "30",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300"
+        }
+      },
+      "1561191658957": {
+        "type": "home-slider",
+        "blocks": {
+          "1561191658957-0": {
+            "type": "slider_list",
+            "settings": {
+              "banner_link": "",
+              "position": "center",
+              "show_info": "yes",
+              "position_info": "center",
+              "offset_info": "0",
+              "show_button": "yes",
+              "button_title": "+ Discover More",
+              "button_link": "",
+              "button_color_text": "#ffffff",
+              "fontsize_button": "14",
+              "button_color_bg": "rgba(0,0,0,0)",
+              "text1": "Wine and Dine",
+              "color_text1": "#ffffff",
+              "fontsize_text1": "44",
+              "text2": "Delicious",
+              "color_text2": "#ffffff",
+              "fontsize_text2": "110",
+              "text3": "We Serve You Quality & Taste",
+              "color_text3": "#ffffff",
+              "fontsize_text3": "30",
+              "use_custom_html": "0",
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+            }
+          },
+          "1561197983776": {
+            "type": "slider_list",
+            "settings": {
+              "banner_link": "#",
+              "position": "center",
+              "show_info": "yes",
+              "position_info": "center",
+              "offset_info": "200",
+              "show_button": "yes",
+              "button_title": "+ Discover More",
+              "button_link": "/",
+              "button_color_text": "#ffffff",
+              "fontsize_button": "14",
+              "button_color_bg": "rgba(0,0,0,0)",
+              "text1": "Wine and Dine",
+              "color_text1": "#ffffff",
+              "fontsize_text1": "44",
+              "text2": "Delicious",
+              "color_text2": "#ffffff",
+              "fontsize_text2": "110",
+              "text3": "We Serve You Quality & Taste",
+              "color_text3": "#ffffff",
+              "fontsize_text3": "30",
+              "use_custom_html": "0",
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+            }
+          },
+          "1562120867629": {
+            "type": "slider_list",
+            "settings": {
+              "banner_link": "",
+              "position": "center",
+              "show_info": "yes",
+              "position_info": "center",
+              "offset_info": "200",
+              "show_button": "yes",
+              "button_title": "+ Discover More",
+              "button_link": "/",
+              "button_color_text": "#ffffff",
+              "fontsize_button": "14",
+              "button_color_bg": "rgba(0,0,0,0)",
+              "text1": "Wine and Dine",
+              "color_text1": "#ffffff",
+              "fontsize_text1": "44",
+              "text2": "Delicious",
+              "color_text2": "#ffffff",
+              "fontsize_text2": "110",
+              "text3": "We Serve You Quality & Taste",
+              "color_text3": "#ffffff",
+              "fontsize_text3": "30",
+              "use_custom_html": "0",
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+            }
+          }
+        },
+        "block_order": [
+          "1561191658957-0",
+          "1561197983776",
+          "1562120867629"
+        ],
+        "settings": {
+          "show_bannertimer": true,
+          "start_width": "1903",
+          "start_height": "870",
+          "delay_time": "16000",
+          "navigation": "solo",
+          "navigation_type": "none",
+          "navigation_stype": "round"
+        }
+      },
+      "1561539494982": {
+        "type": "homepage-product-carousel",
+        "settings": {
+          "title1": "Today’s Special Dish",
+          "link1": "/",
+          "collection": "barbecue",
+          "image_size": "270x270",
+          "column1": "2",
+          "column2": "2",
+          "column3": "2",
+          "column4": "2",
+          "column5": "1",
+          "row": "2",
+          "limit": "8",
+          "owl_navigation": false,
+          "show_dot": false,
+          "owl_margin": "30",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300",
+          "text_button": "+ Discover More"
+        }
+      },
+      "1561710015999": {
+        "type": "home-collection",
+        "blocks": {
+          "1561710015999-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "frontpage",
+              "collection_name": "HOP & ROLL BEER"
+            }
+          },
+          "1561710015999-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "barbecue",
+              "collection_name": "NEW BRANDED BEER"
+            }
+          },
+          "1561710015999-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "barbecue",
+              "collection_name": "Brewberry Bears"
+            }
+          },
+          "1561710178486": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "frontpage",
+              "collection_name": "NEW BRANDED BEER"
+            }
+          }
+        },
+        "block_order": [
+          "1561710015999-0",
+          "1561710015999-1",
+          "1561710015999-2",
+          "1561710178486"
+        ],
+        "settings": {
+          "titles": "Recommended Today",
+          "column1": "3",
+          "column2": "3",
+          "column3": "2",
+          "column4": "2",
+          "column5": "1",
+          "owl_margin": "30"
+        }
+      },
+      "1561710553628": {
+        "type": "home-testimonial",
+        "blocks": {
+          "1561710553628-0": {
+            "type": "item_testimonial",
+            "settings": {
+              "title": "Celvin Anthony",
+              "dec": "<h2>Meet our Chefs</h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,</p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.</p>",
+              "image_size": "170x100",
+              "link": "/"
+            }
+          },
+          "1561710553628-1": {
+            "type": "item_testimonial",
+            "settings": {
+              "title": "Alexander",
+              "dec": "<h2>Alexander</h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, </p>",
+              "image_size": "170x100",
+              "link": "/"
+            }
+          },
+          "1561710553628-2": {
+            "type": "item_testimonial",
+            "settings": {
+              "title": "Mark Washington",
+              "dec": "<h2>Mark Washington</h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,</p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. </p>",
+              "image_size": "170x100",
+              "link": "/"
+            }
+          },
+          "1561710649567": {
+            "type": "item_testimonial",
+            "settings": {
+              "title": "Dillon Harper",
+              "dec": "<h2>Dillon Harper</h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>",
+              "image_size": "170x100",
+              "link": "/"
+            }
+          },
+          "1561710657551": {
+            "type": "item_testimonial",
+            "settings": {
+              "title": "Peterson Henderson",
+              "dec": "<h2>Peterson Henderson</h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,</p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+              "image_size": "170x100",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1561710553628-0",
+          "1561710553628-1",
+          "1561710553628-2",
+          "1561710649567",
+          "1561710657551"
+        ],
+        "settings": {
+          "show_container": false,
+          "title": "Testimonial list"
+        }
+      },
+      "1561956557977": {
+        "type": "home-product-list",
+        "blocks": {
+          "1561956557977-0": {
+            "type": "item_product",
+            "settings": {
+              "title": "Cheese Croissants",
+              "dec": "<h2>Today's best offer</h2>\n<p class=\"qt\">TÜrkçe  is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,</p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.</p>",
+              "image_size": "308x292",
+              "link": "/"
+            }
+          },
+          "1561956557977-1": {
+            "type": "item_product",
+            "settings": {
+              "title": "Bruschetti",
+              "dec": "<h2>Bruschetti</h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, </p>",
+              "image_size": "308x292",
+              "link": "/"
+            }
+          },
+          "1561956557977-2": {
+            "type": "item_product",
+            "settings": {
+              "title": "Awesome Vegetable",
+              "dec": "<h2>Awesome Vegetable</h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,</p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free fro</p>",
+              "image_size": "308x292",
+              "link": "/"
+            }
+          },
+          "1561956824049": {
+            "type": "item_product",
+            "settings": {
+              "title": "Tasty Snacks",
+              "dec": "<h2>Tasty Snacks</h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has </p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>",
+              "image_size": "308x292",
+              "link": "/"
+            }
+          },
+          "1561956852039": {
+            "type": "item_product",
+            "settings": {
+              "title": "Meal for Whole Family",
+              "dec": "<h2>Meal for Whole Family</h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,</p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+              "image_size": "308x292",
+              "link": "/"
+            }
+          }
+        },
+        "block_order": [
+          "1561956557977-0",
+          "1561956557977-1",
+          "1561956557977-2",
+          "1561956824049",
+          "1561956852039"
+        ],
+        "settings": {
+          "show_container": false,
+          "title": ""
+        }
+      },
+      "1561977235542": {
+        "type": "home-instagram",
+        "settings": {
+          "container_full": true,
+          "title_instagram": "",
+          "userid": "4012702189",
+          "accessToken": "4012702189.1677ed0.d5482a8171664404a766446364e5e391",
+          "tag": "apetine",
+          "limited": "4",
+          "resolution": "standard_resolution"
+        }
+      },
+      "1562043035140": {
+        "type": "home-about-us",
+        "blocks": {
+          "1562043080442": {
+            "type": "testimonial",
+            "settings": {
+              "user": true,
+              "client_name": "Jenifer Jacob",
+              "client_quote": "I watch cooking change the cook, just as it transforms the food.",
+              "client_dec": "A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."
+            }
+          },
+          "1562051393654": {
+            "type": "testimonial",
+            "settings": {
+              "user": true,
+              "client_name": "Jenifer Jacob",
+              "client_quote": "I watch cooking change the cook, just as it transforms the food.",
+              "client_dec": "A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."
+            }
+          },
+          "1562054916884": {
+            "type": "testimonial",
+            "settings": {
+              "user": true,
+              "client_name": "Jenifer Jacob",
+              "client_quote": "I watch cooking change the cook, just as it transforms the food.",
+              "client_dec": "A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."
+            }
+          }
+        },
+        "block_order": [
+          "1562043080442",
+          "1562051393654",
+          "1562054916884"
+        ],
+        "settings": {
+          "container_full": true,
+          "background_color": "#ffffff",
+          "link1": "",
+          "owl_navigation": false,
+          "show_dot": true,
+          "show_review": true,
+          "owl_margin": "30",
+          "owl_autoplay": false,
+          "owl_autoplay_speed": "10000",
+          "owl_speed": "300"
+        }
+      },
+      "1562401540930": {
+        "type": "homepage-menu",
+        "settings": {
+          "title": "Dessert list",
+          "collection": "frontpage",
+          "image_size": "270x",
+          "limit": "20",
+          "text_button": "+ Full Menu",
+          "text_button2": "- Less Menu"
+        }
+      },
+      "1562569363144": {
+        "type": "ss_book",
+        "settings": {
+          "status": true,
+          "book_heading": "Make Reservation",
+          "book_time_open": "8:00 AM - 18:00 PM | Monday - Friday",
+          "book_phone": "+39 059 22 39 12",
+          "link": "/"
+        }
+      }
+    },
+    "content_for_index": [
+      "1561191658957",
+      "1561956557977",
+      "1562043035140",
+      "1562569363144",
+      "1561539494982",
+      "1562401540930",
+      "1561710015999",
+      "1561977235542",
+      "1561710553628",
+      "1557650755208"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "color_text": "#3d4246",
+      "color_body_text": "#788188",
+      "color_sale_text": "#7796A8",
+      "color_borders": "#e8e9eb",
+      "color_button": "#7796A8",
+      "color_button_text": "#fff",
+      "color_small_button": "#fff",
+      "color_small_button_text": "#3d4246",
+      "color_text_field": "#fff",
+      "color_text_field_text": "#000",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3d4246",
+      "image_overlay_opacity": "0.25",
+      "color_body_bg": "#fff",
+      "type_header_family": "Google_Work+Sans_600_sans",
+      "type_header_base_size": "26px",
+      "type_base_family": "Google_Work+Sans_400_sans",
+      "type_base_size": "16px",
+      "type_bold_product_titles": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {}
+        }
+      },
+      "content_for_index": []
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#757575",
+      "color_sale_text": "#ff574f",
+      "color_borders": "#e4e4e4",
+      "color_button": "#ff574f",
+      "color_button_text": "#ffffff",
+      "color_small_button": "#eaeaea",
+      "color_small_button_text": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": "0.3",
+      "color_body_bg": "#f8f8f8",
+      "type_header_family": "Google_Muli_600_sans",
+      "type_header_base_size": "26px",
+      "type_base_family": "Google_Muli_600_sans",
+      "type_base_size": "18px",
+      "type_bold_product_titles": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {}
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_vendor": false,
+            "show_quantity_selector": false,
+            "show_share_buttons": true
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "rows": "2"
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        }
+      },
+      "content_for_index": []
+    }
+  }
+}
