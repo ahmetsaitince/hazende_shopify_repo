@@ -2221,8 +2221,9 @@
           "1561956557977-0": {
             "type": "item_product",
             "settings": {
-              "title": "Cheese Croissants",
-              "dec": "<h2>Today's best offer<\/h2>\n<p class=\"qt\">TÜrkçe  is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,<\/p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.<\/p>",
+              "title": "Adana Kebap",
+              "dec": "<h2>ADANA KEBAP<\/h2>\n<p class=\"qt\">TÜrkçe  is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,<\/p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.<\/p>",
+              "image": "shopify:\/\/shop_images\/ciger-sis-01_beeb2d6f-45b4-4e0b-b81c-b72760b05bad.webp",
               "image_size": "308x292",
               "link": "\/"
             }
@@ -2291,6 +2292,16 @@
       "1562043035140": {
         "type": "home-about-us",
         "blocks": {
+          "testimonial_7667Yy": {
+            "type": "testimonial",
+            "settings": {
+              "user": false,
+              "client_name": "",
+              "image": "shopify:\/\/shop_images\/mercimek.jpg",
+              "client_quote": "",
+              "client_dec": ""
+            }
+          },
           "1562043080442": {
             "type": "testimonial",
             "settings": {
@@ -2320,6 +2331,7 @@
           }
         },
         "block_order": [
+          "testimonial_7667Yy",
           "1562043080442",
           "1562051393654",
           "1562054916884"
@@ -2327,6 +2339,7 @@
         "settings": {
           "container_full": true,
           "background_color": "#ffffff",
+          "image1": "shopify:\/\/shop_images\/mercimek.jpg",
           "link1": "",
           "owl_navigation": false,
           "show_dot": true,
