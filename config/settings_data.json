@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "favicon": "",
@@ -62,9 +71,9 @@
     "display_currency": true,
     "logo_text": "Logo",
     "logo_img": true,
-    "logo": "shopify://shop_images/hazende_logo.png",
+    "logo": "shopify:\/\/shop_images\/hazende_logo.png",
     "logo_max_width": "167",
-    "logo_mobile": "shopify://shop_images/logo.png",
+    "logo_mobile": "shopify:\/\/shop_images\/logo.png",
     "display_wishlist": true,
     "display_shopcart": true,
     "enable_collection_sidebar": true,
@@ -72,24 +81,24 @@
     "sidebar_position": "left",
     "enable_category_sidebar": true,
     "enable_sidebar_categories_detail": true,
-    "sidebar_categories_title": "Categories",
-    "categories_menu": "sidebar-menu",
+    "sidebar_categories_title": "Kategoriler",
+    "categories_menu": "koleksiyonlar",
     "enable_featured_collection": true,
     "enable_featured_product_detail": true,
     "enable_featured_product_blogs": false,
-    "featured_product_title": "Featured Products",
+    "featured_product_title": "Çok Satanlar",
     "featured_product_list_collection": "frontpage",
     "featured_product_limit": "3",
     "enable_sidebar_collection": true,
     "enable_sidebar_custom_detail": true,
     "enable_sidebar_custom_blog": false,
-    "custom_html_title": "Custom Services",
-    "custom_html_text": "<div class=\"services-sidebar\">\n\t<ul>\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-truck\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free Delivery\">Free Delivery</a></h4>\n\t\t\t\t\t<p>From $59.89</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-support\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Support 24/7\">Support 24/7</a></h4>\n\t\t\t\t\t<p>Online 24 hours</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-refresh\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free return\">Free return</a></h4>\n\t\t\t\t\t<p>365 a day</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n\t\t\t\t\t<em class=\"fa fa-cc-paypal\"></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"payment method\">payment method</a></h4>\n\t\t\t\t\t<p>Secure payment</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t</ul>\n</div>",
-    "enable_banner_sidebar": true,
-    "enable_banner_sidebar_detail": true,
-    "enable_banner_sidebar_blog": true,
-    "image_sidebar": "shopify://shop_images/banner_sidebar.png",
-    "image_sidebar_link": "shopify://collections/furniture",
+    "custom_html_title": "Özel Hizmetler",
+    "custom_html_text": "<div class=\"services-sidebar\">\n    <ul>\n        <li>\n            <div class=\"service-content\">\n                <div class=\"service-icon\" style=\"font-size: 30px;\">\n                    <em class=\"fa fa-truck\"><\/em>\n                <\/div>\n\n                <div class=\"service-info\">\n                    <h4><a href=\"#\" title=\"Ücretsiz Teslimat\">Ücretsiz Teslimat<\/a><\/h4>\n                    <p>59.89₺'den itibaren<\/p>\n                <\/div>\n            <\/div>\n        <\/li>\n\n        <li>\n            <div class=\"service-content\">\n                <div class=\"service-icon\" style=\"font-size: 30px;\">\n                    <em class=\"fa fa-support\"><\/em>\n                <\/div>\n\n                <div class=\"service-info\">\n                    <h4><a href=\"#\" title=\"7\/24 Destek\">7\/24 Destek<\/a><\/h4>\n                    <p>24 saat online<\/p>\n                <\/div>\n            <\/div>\n        <\/li>\n\n        <li>\n            <div class=\"service-content\">\n                <div class=\"service-icon\" style=\"font-size: 30px;\">\n                    <em class=\"fa fa-refresh\"><\/em>\n                <\/div>\n\n                <div class=\"service-info\">\n                    <h4><a href=\"#\" title=\"Ücretsiz İade\">Ücretsiz İade<\/a><\/h4>\n                    <p>365 gün<\/p>\n                <\/div>\n            <\/div>\n        <\/li>\n\n        <li>\n            <div class=\"service-content\">\n                <div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n                    <em class=\"fa fa-cc-paypal\"><\/em>\n                <\/div>\n\n                <div class=\"service-info\">\n                    <h4><a href=\"#\" title=\"Ödeme Yöntemi\">Ödeme Yöntemi<\/a><\/h4>\n                    <p>Güvenli ödeme<\/p>\n                <\/div>\n            <\/div>\n        <\/li>\n    <\/ul>\n<\/div>",
+    "enable_banner_sidebar": false,
+    "enable_banner_sidebar_detail": false,
+    "enable_banner_sidebar_blog": false,
+    "image_sidebar": "shopify:\/\/shop_images\/banner_sidebar.png",
+    "image_sidebar_link": "shopify:\/\/collections\/furniture",
     "enable_categories_blog": true,
     "blog_menu": "sidebar-blog",
     "enable_recent_blog": true,
@@ -113,19 +122,19 @@
     "pp_grid": "4",
     "show_multiple_currencies": true,
     "currency_format": "money_format",
-    "supported_currencies": "USD EUR GBP",
-    "default_currency": "USD",
+    "supported_currencies": "TRY",
+    "default_currency": "TRY",
     "fixed_social": false,
     "position": "left",
     "position_top": "100",
-    "social_twitter_link": "https://twitter.com/izgarahazende",
-    "social_facebook_link": "https://www.facebook.com/100063822134562/videos/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d/305586208333988/",
+    "social_twitter_link": "https:\/\/twitter.com\/izgarahazende",
+    "social_facebook_link": "https:\/\/www.facebook.com\/100063822134562\/videos\/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d\/305586208333988\/",
     "social_google_link": "#",
-    "social_pinterest_link": "https://tr.pinterest.com/hazendeizgara/",
-    "social_instagram_link": "https://www.instagram.com/hazendeizgara/",
+    "social_pinterest_link": "https:\/\/tr.pinterest.com\/hazendeizgara\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/hazendeizgara\/",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https://www.youtube.com/channel/UCfvBfV9Aa7bcdtPgScPwvDQ",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCfvBfV9Aa7bcdtPgScPwvDQ",
     "social_vimeo_link": "#",
     "ssnp_width": 800,
     "ssnp_status": true,
@@ -134,22 +143,22 @@
     "ssnp_description": "Yeni gelen ürünler, özel tekliflerle ilgili güncellemeleri almak için posta listesine abone olun.",
     "ssnp_checkbox_title": "Bu açılır pencereyi bir daha gösterme",
     "ssnp_show_checkbox": true,
-    "newsletter": "shopify://shop_images/bg-newletter_03.png",
+    "newsletter": "shopify:\/\/shop_images\/bg-newletter_03.png",
     "newslettermodal_mailchimp": true,
     "newslettermodal_cookie": "60",
-    "newsletter_formmodal_action": "//magentech.us16.list-manage.com/subscribe/post?u=74b0f77582219cf039a743aa5&amp;id=e872bd5efa",
+    "newsletter_formmodal_action": "\/\/magentech.us16.list-manage.com\/subscribe\/post?u=74b0f77582219cf039a743aa5&amp;id=e872bd5efa",
     "ssnp_show_facebook": true,
-    "ssnp_link_facebook": "https://www.facebook.com/100063822134562/videos/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d/305586208333988/",
+    "ssnp_link_facebook": "https:\/\/www.facebook.com\/100063822134562\/videos\/hazende-izgarazengin-men%C3%BCs%C3%BC-g%C3%BCnl%C3%BCk-taze-%C3%BCr%C3%BCnleri-usta-ellerde-e%C5%9Fsiz-lezzetlere-d\/305586208333988\/",
     "ssnp_show_twitter": true,
-    "ssnp_link_twitter": "https://twitter.com/izgarahazende",
+    "ssnp_link_twitter": "https:\/\/twitter.com\/izgarahazende",
     "ssnp_show_googleplus": false,
     "ssnp_link_googleplus": "#",
     "ssnp_show_pinterest": true,
-    "ssnp_link_pinterest": "https://tr.pinterest.com/hazendeizgara/",
+    "ssnp_link_pinterest": "https:\/\/tr.pinterest.com\/hazendeizgara\/",
     "ssnp_show_linkedin": true,
-    "ssnp_link_linkedin": "https://tr.linkedin.com/in/hazende-izgara-b2982a225",
+    "ssnp_link_linkedin": "https:\/\/tr.linkedin.com\/in\/hazende-izgara-b2982a225",
     "ssnp_show_instagram": true,
-    "ssnp_link_instagram": "https://www.instagram.com/hazendeizgara/",
+    "ssnp_link_instagram": "https:\/\/www.instagram.com\/hazendeizgara\/",
     "ssnp_show_tumblr": false,
     "ssnp_link_tumblr": "#",
     "checkout_header_image": "",
@@ -232,7 +241,7 @@
     "display_sidebar_custom_detail": true,
     "display_sidebar_custom_blog": true,
     "custom_cms_title": "Custom CMS Block",
-    "custom_cms_text": "<div class=\"services-sidebar\">\n\t<ul>\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-truck\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free Delivery\">Free Delivery</a></h4>\n\t\t\t\t\t<p>From $59.89</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-support\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Support 24/7\">Support 24/7</a></h4>\n\t\t\t\t\t<p>Online 24 hours</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-refresh\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free return\">Free return</a></h4>\n\t\t\t\t\t<p>365 a day</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n\t\t\t\t\t<em class=\"fa fa-cc-paypal\"><span class=\"hidden\">Icon</span></em>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"payment method\">payment method</a></h4>\n\t\t\t\t\t<p>Secure payment</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</li>\n\t</ul>\n</div>",
+    "custom_cms_text": "<div class=\"services-sidebar\">\n\t<ul>\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-truck\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free Delivery\">Free Delivery<\/a><\/h4>\n\t\t\t\t\t<p>From $59.89<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-support\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Support 24\/7\">Support 24\/7<\/a><\/h4>\n\t\t\t\t\t<p>Online 24 hours<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 30px;\">\n\t\t\t\t\t<em class=\"fa fa-refresh\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"Free return\">Free return<\/a><\/h4>\n\t\t\t\t\t<p>365 a day<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t\t\n\t\t<li>\n\t\t\t<div class=\"service-content\">\n\t\t\t\t<div class=\"service-icon\" style=\"font-size: 25px; position: relative; top: 4px;\">\n\t\t\t\t\t<em class=\"fa fa-cc-paypal\"><span class=\"hidden\">Icon<\/span><\/em>\n\t\t\t\t<\/div>\n\t\t\t\t\n\t\t\t\t<div class=\"service-info\">\n\t\t\t\t\t<h4><a href=\"#\" title=\"payment method\">payment method<\/a><\/h4>\n\t\t\t\t\t<p>Secure payment<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/li>\n\t<\/ul>\n<\/div>",
     "home_page_layout": "home-page_layout-2",
     "color_prlinks": "#333333",
     "color_prlinkshover": "#1fc0a0",
@@ -253,7 +262,7 @@
     "header_design": "header-style1",
     "text_hot": "(801) 2345 - 6789",
     "display_hot": "true",
-    "top": "Summer sale discount off 50%! <a href=\"#\">Shop Now</a>",
+    "top": "Summer sale discount off 50%! <a href=\"#\">Shop Now<\/a>",
     "display_call": true,
     "text_call": "Call us now",
     "text_info_call": "Toll free: 123 456 7890",
@@ -313,7 +322,7 @@
     "enable_shop_by_tags_4": "true",
     "shop_by_tags_4_title": "aaa",
     "shop_by_tags_4_list_tags": "Lime,Glass",
-    "link_msg": "shopify://pages/page-get-fre",
+    "link_msg": "shopify:\/\/pages\/page-get-fre",
     "display_cate": "true",
     "title_cate": "Categories",
     "show_categories": "show_all",
@@ -332,7 +341,7 @@
     "bingo_newslettermodal_bgimage": false,
     "bingo_newslettermodal_mailchimp": true,
     "enable_sidebar": true,
-    "image": "shopify://shop_images/banner-sidebar.jpg",
+    "image": "shopify:\/\/shop_images\/banner-sidebar.jpg",
     "color_text": "#3d4246",
     "color_borders": "#e8e9eb",
     "color_button": "#7796a8",
@@ -352,7 +361,8 @@
     "sections": {
       "header": {
         "type": "header",
-        "settings": {}
+        "settings": {
+        }
       },
       "footer": {
         "type": "footer",
@@ -364,7 +374,7 @@
           "bg_headercenter": "#161619",
           "footer_co1_enable": true,
           "footer_show_logo": true,
-          "img_logo_ft": "shopify://shop_images/logo-hazende-izgara_1.webp",
+          "img_logo_ft": "shopify:\/\/shop_images\/logo-hazende-izgara_1.webp",
           "link_logo": "",
           "footer_dec": "Lezzetli tatlar ve keyifli anlar için biz buradayız! En taze malzemelerle hazırlanan özenle seçilmiş menümüzü keşfedin ve lezzetli bir deneyim yaşayın. Sizi bekliyoruz!",
           "footer_contact_email": "bilgi@hazende.com",
@@ -419,7 +429,7 @@
           "product_tab1_title": "Detaylar",
           "product_tab2_enable": true,
           "product_tab2_title": "İade &amp; Teslimat",
-          "product_tab2_content": "<div class=\"success rte\">\n<p>100₺ ve üzeri siparişlerinizde ücretsiz standart teslimat avantajından yararlanın.</p>\n<ul class=\"ncss-list-ul mt4-sm mb4-sm\">\n<li class=\"ncss-li\">Standart teslimat 2-3 iş günü içerisinde gerçekleştirilir</li>\n<li class=\"ncss-li\">Hızlı teslimat 1-2 iş günü içerisinde gerçekleştirilir</li>\n</ul>\n<br><p>Siparişleriniz Pazartesi-Cuma günleri arasında işlenir ve teslim edilir (resmi tatiller hariç).</p>\n</div>",
+          "product_tab2_content": "<div class=\"success rte\">\n<p>100₺ ve üzeri siparişlerinizde ücretsiz standart teslimat avantajından yararlanın.<\/p>\n<ul class=\"ncss-list-ul mt4-sm mb4-sm\">\n<li class=\"ncss-li\">Standart teslimat 2-3 iş günü içerisinde gerçekleştirilir<\/li>\n<li class=\"ncss-li\">Hızlı teslimat 1-2 iş günü içerisinde gerçekleştirilir<\/li>\n<\/ul>\n<br><p>Siparişleriniz Pazartesi-Cuma günleri arasında işlenir ve teslim edilir (resmi tatiller hariç).<\/p>\n<\/div>",
           "product_tab3_enable": false,
           "product_tab3_title": "Boyut Grafiği",
           "product_tab4_enable": true,
@@ -531,7 +541,7 @@
         "type": "template-contact",
         "settings": {
           "display_google_map": true,
-          "google_map_code": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6787.11846816203!2d-74.00106388051138!3d40.73303806053912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2zVGjDoG5oIHBo4buRIE5ldyBZb3JrLCBUaeG7g3UgYmFuZyBOZXcgWW9yaw!5e0!3m2!1svi!2s!4v1498454043100\"></iframe>",
+          "google_map_code": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d6787.11846816203!2d-74.00106388051138!3d40.73303806053912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2zVGjDoG5oIHBo4buRIE5ldyBZb3JrLCBUaeG7g3UgYmFuZyBOZXcgWW9yaw!5e0!3m2!1svi!2s!4v1498454043100\"><\/iframe>",
           "title_info": "CONTACT US",
           "contact_text_desc": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br> Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat sed do eiusmod tempor",
           "title_1": "",
@@ -552,7 +562,7 @@
           "1512635249137": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify://shop_images/ourteam1.png",
+              "our_image_1": "shopify:\/\/shop_images\/ourteam1.png",
               "cl_name_1": "Jennifer lawrence",
               "cl_job_1": "Tech Leader",
               "cl_des_1": "",
@@ -566,7 +576,7 @@
           "1512639232534": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify://shop_images/ourteam2.png",
+              "our_image_1": "shopify:\/\/shop_images\/ourteam2.png",
               "cl_name_1": "George Scoots",
               "cl_job_1": "Ceo & Director",
               "cl_des_1": "",
@@ -580,7 +590,7 @@
           "1512639272630": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify://shop_images/ourteam3.png",
+              "our_image_1": "shopify:\/\/shop_images\/ourteam3.png",
               "cl_name_1": "George Scoots",
               "cl_job_1": "Ceo & Director",
               "cl_des_1": "",
@@ -594,7 +604,7 @@
           "1512639296273": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify://shop_images/ourteam4.png",
+              "our_image_1": "shopify:\/\/shop_images\/ourteam4.png",
               "cl_name_1": "Jennifer lawrence",
               "cl_job_1": "Tech Leader",
               "cl_des_1": "",
@@ -614,8 +624,8 @@
         ],
         "settings": {
           "about_title": "Hello, We are Established 2018 - Paris  Fashion Show",
-          "about_image": "shopify://shop_images/img-about.png",
-          "about_text_desc": "<p>Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk. Mogul talk. Cloth talk. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth. In life you have to take the trash out, if you have trash in your life, take it out, throw it away, get rid of it, major key. Surround yourself with angels.</p>\n<br>\n<p>\nThey key is to have every key, the key to open every door. We don’t see them, we will never see them. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it. They never said winning was easy. Some people can’t handle success, I can. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth.\n</p>",
+          "about_image": "shopify:\/\/shop_images\/img-about.png",
+          "about_text_desc": "<p>Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk. Mogul talk. Cloth talk. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth. In life you have to take the trash out, if you have trash in your life, take it out, throw it away, get rid of it, major key. Surround yourself with angels.<\/p>\n<br>\n<p>\nThey key is to have every key, the key to open every door. We don’t see them, we will never see them. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it. They never said winning was easy. Some people can’t handle success, I can. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth.\n<\/p>",
           "about_link": "#",
           "show_service": true,
           "icon1": "Strategy & Marketing",
@@ -633,7 +643,7 @@
           "title2": "secure payment",
           "description2": "We value your security",
           "title3": "Online support",
-          "description3": "We have support 24/7",
+          "description3": "We have support 24\/7",
           "title4": "payment on delivery",
           "description4": "Cash on delivery option"
         }
@@ -793,13 +803,13 @@
               "product_col_column": 12,
               "product_item_col": 12,
               "banner_enable1": true,
-              "banner_link": "shopify://collections/electronics",
+              "banner_link": "shopify:\/\/collections\/electronics",
               "banner_col_column": 4,
               "banner_enable2": true,
-              "banner_link2": "shopify://collections/cameras-photo",
+              "banner_link2": "shopify:\/\/collections\/cameras-photo",
               "banner_col_column2": 4,
               "banner_enable3": true,
-              "banner_link3": "shopify://collections/new-arrivals",
+              "banner_link3": "shopify:\/\/collections\/new-arrivals",
               "banner_col_column4": 4,
               "mega_page_enable": false,
               "page_col_column": 12,
@@ -889,7 +899,7 @@
           "height": 250,
           "button_style": "default",
           "widget_text": "Chat with Us",
-          "page_url": "https://www.facebook.com/MagenTech",
+          "page_url": "https:\/\/www.facebook.com\/MagenTech",
           "tabs": "messages",
           "small_header": true,
           "hide_cover": false,
@@ -903,7 +913,7 @@
             "type": "text",
             "settings": {
               "title": "Smartphones & Tablets",
-              "menu_url": "shopify://collections/smartphones-tablets",
+              "menu_url": "shopify:\/\/collections\/smartphones-tablets",
               "enable_menu_icon": false,
               "font_icon": "television",
               "menu_icon": "",
@@ -940,7 +950,7 @@
             "type": "text",
             "settings": {
               "title": "Electronics",
-              "menu_url": "shopify://collections/electronics",
+              "menu_url": "shopify:\/\/collections\/electronics",
               "enable_menu_icon": false,
               "font_icon": "eercast",
               "menu_icon": "",
@@ -977,7 +987,7 @@
             "type": "text",
             "settings": {
               "title": "Laptop",
-              "menu_url": "shopify://collections/sports-outdoors",
+              "menu_url": "shopify:\/\/collections\/sports-outdoors",
               "enable_menu_icon": false,
               "font_icon": "gift",
               "menu_icon": "",
@@ -1014,7 +1024,7 @@
             "type": "text",
             "settings": {
               "title": "Computer",
-              "menu_url": "shopify://collections/health-beauty",
+              "menu_url": "shopify:\/\/collections\/health-beauty",
               "enable_menu_icon": false,
               "font_icon": "deaf",
               "menu_icon": "",
@@ -1051,7 +1061,7 @@
             "type": "text",
             "settings": {
               "title": "Camera & Photo",
-              "menu_url": "shopify://collections/toys-hobbies",
+              "menu_url": "shopify:\/\/collections\/toys-hobbies",
               "enable_menu_icon": false,
               "font_icon": "camera-retro",
               "menu_icon": "",
@@ -1088,7 +1098,7 @@
             "type": "text",
             "settings": {
               "title": "Television & Video",
-              "menu_url": "shopify://collections/furniture",
+              "menu_url": "shopify:\/\/collections\/furniture",
               "enable_menu_icon": false,
               "font_icon": "grav",
               "menu_icon": "",
@@ -1125,7 +1135,7 @@
             "type": "text",
             "settings": {
               "title": "Accessories",
-              "menu_url": "shopify://collections/automotive-motorcycle",
+              "menu_url": "shopify:\/\/collections\/automotive-motorcycle",
               "enable_menu_icon": false,
               "font_icon": "futbol-o",
               "menu_icon": "",
@@ -1162,7 +1172,7 @@
             "type": "text",
             "settings": {
               "title": "Laptops & Accessories",
-              "menu_url": "shopify://collections/laptops-accessories",
+              "menu_url": "shopify:\/\/collections\/laptops-accessories",
               "enable_menu_icon": false,
               "font_icon": "shopping-bag",
               "menu_icon": "",
@@ -1199,7 +1209,7 @@
             "type": "text",
             "settings": {
               "title": "Home Audio",
-              "menu_url": "shopify://collections/jewelry-watches",
+              "menu_url": "shopify:\/\/collections\/jewelry-watches",
               "enable_menu_icon": false,
               "font_icon": "desktop",
               "menu_icon": "",
@@ -1236,7 +1246,7 @@
             "type": "text",
             "settings": {
               "title": "Cameras & Photo",
-              "menu_url": "shopify://collections/cameras-photo",
+              "menu_url": "shopify:\/\/collections\/cameras-photo",
               "enable_menu_icon": false,
               "font_icon": "desktop",
               "menu_icon": "",
@@ -1287,7 +1297,7 @@
           "ver_menu_color": "#ffffff",
           "ver_title": "ALL CATEGORIES",
           "ver_all": "More All Categories",
-          "ver_url": "shopify://collections"
+          "ver_url": "shopify:\/\/collections"
         }
       },
       "sidebar-filter-collection": {
@@ -1397,7 +1407,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525851657785": {
@@ -1405,7 +1415,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525851669031": {
@@ -1413,7 +1423,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525851777965": {
@@ -1421,7 +1431,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525852305813": {
@@ -1429,7 +1439,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525852316870": {
@@ -1437,7 +1447,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525852326589": {
@@ -1445,7 +1455,7 @@
             "settings": {
               "image": "",
               "image_size": "170x100",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525852567476": {
@@ -1453,7 +1463,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1525852577385": {
@@ -1461,7 +1471,7 @@
             "settings": {
               "image": "",
               "image_size": "140x73",
-              "link": "/"
+              "link": "\/"
             }
           }
         },
@@ -1547,7 +1557,7 @@
         ],
         "settings": {
           "display_image_cat": true,
-          "img_cat": "shopify://shop_images/F005454A54507ACCCBB897BF522E5E26407DF72B52C5C59600_pimgpsh_fullsize_distr.png",
+          "img_cat": "shopify:\/\/shop_images\/F005454A54507ACCCBB897BF522E5E26407DF72B52C5C59600_pimgpsh_fullsize_distr.png",
           "limit_product": "12"
         }
       },
@@ -1558,7 +1568,7 @@
             "type": "slider_list",
             "settings": {
               "image": "",
-              "banner_link": "shopify://collections/sports-outdoors",
+              "banner_link": "shopify:\/\/collections\/sports-outdoors",
               "position": "center",
               "show_info": "no",
               "position_info": "left",
@@ -1579,14 +1589,14 @@
               "color_text3": "#ffffff",
               "fontsize_text3": "14",
               "use_custom_html": "0",
-              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"
             }
           },
           "1533192513962": {
             "type": "slider_list",
             "settings": {
               "image": "",
-              "banner_link": "shopify://collections/electronics",
+              "banner_link": "shopify:\/\/collections\/electronics",
               "position": "center",
               "show_info": "no",
               "position_info": "left",
@@ -1607,14 +1617,14 @@
               "color_text3": "#ffffff",
               "fontsize_text3": "14",
               "use_custom_html": "0",
-              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"
             }
           },
           "1533192527768": {
             "type": "slider_list",
             "settings": {
               "image": "",
-              "banner_link": "shopify://collections/smartphones-tablets",
+              "banner_link": "shopify:\/\/collections\/smartphones-tablets",
               "position": "center",
               "show_info": "no",
               "position_info": "left",
@@ -1635,7 +1645,7 @@
               "color_text3": "#ffffff",
               "fontsize_text3": "14",
               "use_custom_html": "0",
-              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"
             }
           }
         },
@@ -1738,56 +1748,56 @@
             "type": "quick_link",
             "settings": {
               "title_quick": "Moto E",
-              "link_quick": "shopify://products/bresaola-volupta"
+              "link_quick": "shopify:\/\/products\/bresaola-volupta"
             }
           },
           "1533118357812": {
             "type": "quick_link",
             "settings": {
               "title_quick": "Mobile",
-              "link_quick": "shopify://products/boudin-tenderloin"
+              "link_quick": "shopify:\/\/products\/boudin-tenderloin"
             }
           },
           "1533118374698": {
             "type": "quick_link",
             "settings": {
               "title_quick": "Tablet",
-              "link_quick": "shopify://products/jalapeno-kielbasa"
+              "link_quick": "shopify:\/\/products\/jalapeno-kielbasa"
             }
           },
           "1533118384157": {
             "type": "quick_link",
             "settings": {
               "title_quick": "Fashion Accessories",
-              "link_quick": "shopify://products/cignon-frankes"
+              "link_quick": "shopify:\/\/products\/cignon-frankes"
             }
           },
           "1533118443735": {
             "type": "quick_link",
             "settings": {
               "title_quick": "Laptops",
-              "link_quick": "shopify://products/aoccaecat-pariatur"
+              "link_quick": "shopify:\/\/products\/aoccaecat-pariatur"
             }
           },
           "1533118458115": {
             "type": "quick_link",
             "settings": {
               "title_quick": "Pen Drivers",
-              "link_quick": "shopify://products/bresaola-volupta"
+              "link_quick": "shopify:\/\/products\/bresaola-volupta"
             }
           },
           "1533118478996": {
             "type": "quick_link",
             "settings": {
               "title_quick": "Toys",
-              "link_quick": "shopify://products/ipsum-ribeye"
+              "link_quick": "shopify:\/\/products\/ipsum-ribeye"
             }
           },
           "1533118487208": {
             "type": "quick_link",
             "settings": {
               "title_quick": "Dress",
-              "link_quick": "shopify://products/capicola-deserun"
+              "link_quick": "shopify:\/\/products\/capicola-deserun"
             }
           }
         },
@@ -1871,7 +1881,7 @@
           "1533181462793": {
             "type": "image",
             "settings": {
-              "link": "shopify://collections/apple-mobile",
+              "link": "shopify:\/\/collections\/apple-mobile",
               "image": ""
             }
           }
@@ -2055,7 +2065,7 @@
               "color_text3": "#ffffff",
               "fontsize_text3": "30",
               "use_custom_html": "0",
-              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"
             }
           },
           "1561197983776": {
@@ -2068,7 +2078,7 @@
               "offset_info": "200",
               "show_button": "yes",
               "button_title": "+ Discover More",
-              "button_link": "/",
+              "button_link": "\/",
               "button_color_text": "#ffffff",
               "fontsize_button": "14",
               "button_color_bg": "rgba(0,0,0,0)",
@@ -2082,7 +2092,7 @@
               "color_text3": "#ffffff",
               "fontsize_text3": "30",
               "use_custom_html": "0",
-              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"
             }
           },
           "1562120867629": {
@@ -2095,7 +2105,7 @@
               "offset_info": "200",
               "show_button": "yes",
               "button_title": "+ Discover More",
-              "button_link": "/",
+              "button_link": "\/",
               "button_color_text": "#ffffff",
               "fontsize_button": "14",
               "button_color_bg": "rgba(0,0,0,0)",
@@ -2109,7 +2119,7 @@
               "color_text3": "#ffffff",
               "fontsize_text3": "30",
               "use_custom_html": "0",
-              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE</div>"
+              "code_html": "<div class=\"tp-caption medium_bg_asbestos fade\" data-x=\"50\" data-y=\"250\" data-speed=\"500\" data-start=\"800\" data-easing=\"Power4.easeOut\" data-endspeed=\"300\" data-endeasing=\"Power1.easeIn\" data-captionhidden=\"off\" style=\"z-index: 6\">CONTENT HERE<\/div>"
             }
           }
         },
@@ -2132,7 +2142,7 @@
         "type": "homepage-product-carousel",
         "settings": {
           "title1": "Today’s Special Dish",
-          "link1": "/",
+          "link1": "\/",
           "collection": "barbecue",
           "image_size": "270x270",
           "column1": "2",
@@ -2206,43 +2216,43 @@
             "type": "item_testimonial",
             "settings": {
               "title": "Celvin Anthony",
-              "dec": "<h2>Meet our Chefs</h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,</p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.</p>",
+              "dec": "<h2>Meet our Chefs<\/h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,<\/p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.<\/p>",
               "image_size": "170x100",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561710553628-1": {
             "type": "item_testimonial",
             "settings": {
               "title": "Alexander",
-              "dec": "<h2>Alexander</h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, </p>",
+              "dec": "<h2>Alexander<\/h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<\/p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, <\/p>",
               "image_size": "170x100",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561710553628-2": {
             "type": "item_testimonial",
             "settings": {
               "title": "Mark Washington",
-              "dec": "<h2>Mark Washington</h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,</p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. </p>",
+              "dec": "<h2>Mark Washington<\/h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,<\/p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. <\/p>",
               "image_size": "170x100",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561710649567": {
             "type": "item_testimonial",
             "settings": {
               "title": "Dillon Harper",
-              "dec": "<h2>Dillon Harper</h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>",
+              "dec": "<h2>Dillon Harper<\/h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<\/p>",
               "image_size": "170x100",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561710657551": {
             "type": "item_testimonial",
             "settings": {
               "title": "Peterson Henderson",
-              "dec": "<h2>Peterson Henderson</h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,</p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+              "dec": "<h2>Peterson Henderson<\/h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,<\/p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.<\/p>",
               "image_size": "170x100",
               "link": ""
             }
@@ -2267,45 +2277,45 @@
             "type": "item_product",
             "settings": {
               "title": "Cheese Croissants",
-              "dec": "<h2>Today's best offer</h2>\n<p class=\"qt\">TÜrkçe  is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,</p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.</p>",
+              "dec": "<h2>Today's best offer<\/h2>\n<p class=\"qt\">TÜrkçe  is simply dummy texting of the printings type amet industry has industry's\nstandard dummy. Voluptate velit esse cillum dolore,<\/p>\n<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnai aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur.<\/p>",
               "image_size": "308x292",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561956557977-1": {
             "type": "item_product",
             "settings": {
               "title": "Bruschetti",
-              "dec": "<h2>Bruschetti</h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, </p>",
+              "dec": "<h2>Bruschetti<\/h2>\n<p class=\"qt\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<\/p>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, <\/p>",
               "image_size": "308x292",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561956557977-2": {
             "type": "item_product",
             "settings": {
               "title": "Awesome Vegetable",
-              "dec": "<h2>Awesome Vegetable</h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,</p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free fro</p>",
+              "dec": "<h2>Awesome Vegetable<\/h2>\n<p class=\"qt\">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,<\/p>\n<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free fro<\/p>",
               "image_size": "308x292",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561956824049": {
             "type": "item_product",
             "settings": {
               "title": "Tasty Snacks",
-              "dec": "<h2>Tasty Snacks</h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has </p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>",
+              "dec": "<h2>Tasty Snacks<\/h2>\n<p class=\"qt\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has <\/p>\n<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<\/p>",
               "image_size": "308x292",
-              "link": "/"
+              "link": "\/"
             }
           },
           "1561956852039": {
             "type": "item_product",
             "settings": {
               "title": "Meal for Whole Family",
-              "dec": "<h2>Meal for Whole Family</h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,</p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+              "dec": "<h2>Meal for Whole Family<\/h2>\n<p class=\"qt\">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero,<\/p>\n<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.<\/p>",
               "image_size": "308x292",
-              "link": "/"
+              "link": "\/"
             }
           }
         },
@@ -2400,7 +2410,7 @@
           "book_heading": "Make Reservation",
           "book_time_open": "8:00 AM - 18:00 PM | Monday - Friday",
           "book_phone": "+39 059 22 39 12",
-          "link": "/"
+          "link": "\/"
         }
       }
     },
@@ -2444,14 +2454,18 @@
       "sections": {
         "header": {
           "type": "header",
-          "settings": {}
+          "settings": {
+          }
         },
         "footer": {
           "type": "footer",
-          "settings": {}
+          "settings": {
+          }
         }
       },
-      "content_for_index": []
+      "content_for_index": [
+
+      ]
     },
     "Light": {
       "color_text": "#162950",
@@ -2502,11 +2516,13 @@
       "sections": {
         "header": {
           "type": "header",
-          "settings": {}
+          "settings": {
+          }
         },
         "footer": {
           "type": "footer",
-          "settings": {}
+          "settings": {
+          }
         },
         "product-template": {
           "type": "product-template",
@@ -2545,7 +2561,9 @@
           }
         }
       },
-      "content_for_index": []
+      "content_for_index": [
+
+      ]
     }
   }
 }
