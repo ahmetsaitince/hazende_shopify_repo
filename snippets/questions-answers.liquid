@@ -101,27 +101,27 @@
   <div class="simp-ask-question-header">
         <div class="simpAskQuestion-Qcontent">
           <h3>
-          	{% if shop.metafields.simptranslation.qa_have_question %}
-            	{{ shop.metafields.simptranslation.qa_have_question }}
-            {% else %}
-                Sorunuz mu var?
-            {% endif %}
+          	{% comment %}{% if shop.metafields.simptranslation.qa_have_question %}{% endcomment %}
+            	{% comment %}{{ shop.metafields.simptranslation.qa_have_question }}{% endcomment %}
+            {% comment %}{% else %}{% endcomment %}
+            Sorunuz mu var?
+            {% comment %}{% endif %}{% endcomment %}
           </h3>
           <p>
-            {% if shop.metafields.simptranslation.qa_first_question %}
-            	{{ shop.metafields.simptranslation.qa_first_question }}
-            {% else %}
+            {% comment %}{% if shop.metafields.simptranslation.qa_first_question %}{% endcomment %}
+            	{% comment %}{{ shop.metafields.simptranslation.qa_first_question }}{% endcomment %}
+            {% comment %}{% else %}{% endcomment %}
                 Bu konu hakkında soru soran ilk kişi olun.
-            {% endif %} 
+            {% comment %}{% endif %} {% endcomment %}
            </p>
         </div>
     	<a href="javascript:void(0)" class="simpAskQuestionForm-btnOpen btn button"><i class="demo-icon icon-simp-help-circled"></i>
           
-          {% if shop.metafields.simptranslation.qa_ask_btn %}
-				{{ shop.metafields.simptranslation.qa_ask_btn }}
-			{% else %}
+          {% comment %}{% if shop.metafields.simptranslation.qa_ask_btn %}{% endcomment %}
+				{% comment %}{{ shop.metafields.simptranslation.qa_ask_btn }}{% endcomment %}
+			{% comment %}{% else %}{% endcomment %}
 				Bir Soru Sor
-			{% endif %}
+			{% comment %}{% endif %}{% endcomment %}
     	</a>
   </div>
  	 {% endif %}
