@@ -9,14 +9,14 @@
 */
 {
   "current": {
-    "favicon": "",
+    "favicon": "shopify:\/\/shop_images\/hazende-fav.png",
     "logo_img_nav": true,
     "logo_max_width_nav": "161",
     "effect": "effect_10",
     "gotop_enable": true,
     "gotopmobile_enable": false,
     "loading_enable": true,
-    "img_loading": "",
+    "img_loading": "shopify:\/\/shop_images\/hazende-fav.png",
     "breadcrumb_bgcolor": "#ffffff",
     "breadcrumb_textcolor": "#666666",
     "breadcrumb_bgimage": false,
