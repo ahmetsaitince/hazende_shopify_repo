@@ -73,7 +73,7 @@
     "logo_img": true,
     "logo": "shopify:\/\/shop_images\/hazende_logo.png",
     "logo_max_width": "167",
-    "logo_mobile": "shopify:\/\/shop_images\/logo.png",
+    "logo_mobile": "shopify:\/\/shop_images\/hazende_logo.png",
     "display_wishlist": true,
     "display_shopcart": true,
     "enable_collection_sidebar": true,
