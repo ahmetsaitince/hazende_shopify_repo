@@ -1,0 +1,11 @@
+.header.header-style1 .navbar-logo>div {
+    margin: 0;
+}
+
+.main-megamenu ul.nav>li>a {
+    padding: 0 15px;
+}
+
+.header.header-style1 .middle-right {
+    margin-top: 0;
+}
