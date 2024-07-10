@@ -9,3 +9,11 @@
 .header.header-style1 .middle-right {
     margin-top: 0;
 }
+
+.header-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 22px;
+}
+
