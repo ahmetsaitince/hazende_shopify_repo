@@ -2107,7 +2107,7 @@
           "show_bannertimer": true,
           "start_width": "1903",
           "start_height": "870",
-          "delay_time": "16000",
+          "delay_time": "5000",
           "navigation": "solo",
           "navigation_type": "none",
           "navigation_stype": "round"
