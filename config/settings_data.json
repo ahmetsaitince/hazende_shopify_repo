@@ -2018,6 +2018,7 @@
       },
       "1557650755208": {
         "type": "home-blog",
+        "disabled": true,
         "settings": {
           "style": "style-df",
           "title1": "Our Latest News",
@@ -2142,29 +2143,29 @@
           "1561710015999-0": {
             "type": "featured_collection",
             "settings": {
-              "collection": "frontpage",
-              "collection_name": "HOP & ROLL BEER"
+              "collection": "ara-sicaklar",
+              "collection_name": "ARA SICAKLAR"
             }
           },
           "1561710015999-1": {
             "type": "featured_collection",
             "settings": {
-              "collection": "barbecue",
-              "collection_name": "NEW BRANDED BEER"
+              "collection": "burgerler",
+              "collection_name": "BURGERLER"
             }
           },
           "1561710015999-2": {
             "type": "featured_collection",
             "settings": {
-              "collection": "barbecue",
-              "collection_name": "Brewberry Bears"
+              "collection": "kirmizi-et-izgaralar",
+              "collection_name": "KIRMIZI ET IZGARALAR"
             }
           },
           "1561710178486": {
             "type": "featured_collection",
             "settings": {
-              "collection": "frontpage",
-              "collection_name": "NEW BRANDED BEER"
+              "collection": "set-menuler",
+              "collection_name": "SET MENÜLER"
             }
           }
         },
@@ -2175,7 +2176,7 @@
           "1561710178486"
         ],
         "settings": {
-          "titles": "Recommended Today",
+          "titles": "En Çok Sipariş Edilenler",
           "column1": "3",
           "column2": "3",
           "column3": "2",
@@ -2240,6 +2241,7 @@
           "1561710649567",
           "1561710657551"
         ],
+        "disabled": true,
         "settings": {
           "show_container": false,
           "title": "Testimonial list"
@@ -2313,6 +2315,7 @@
       },
       "1561977235542": {
         "type": "home-instagram",
+        "disabled": true,
         "settings": {
           "container_full": true,
           "title_instagram": "",
@@ -2384,8 +2387,8 @@
           "collection": "hazende-spesiyalleri",
           "image_size": "270x",
           "limit": "20",
-          "text_button": "+ Full Menu",
-          "text_button2": "- Less Menu"
+          "text_button": "Tümünü Gör",
+          "text_button2": ""
         }
       },
       "1562569363144": {
