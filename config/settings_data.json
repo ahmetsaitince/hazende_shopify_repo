@@ -143,7 +143,7 @@
     "ssnp_description": "Yeni gelen ürünler, özel tekliflerle ilgili güncellemeleri almak için posta listesine abone olun.",
     "ssnp_checkbox_title": "Bu açılır pencereyi bir daha gösterme",
     "ssnp_show_checkbox": true,
-    "newsletter": "shopify:\/\/shop_images\/bg-newletter_03.png",
+    "newsletter": "shopify:\/\/shop_images\/bg-popup_828ea169-05c1-4a62-a8d6-20f37e2f73de.png",
     "newslettermodal_mailchimp": true,
     "newslettermodal_cookie": "60",
     "newsletter_formmodal_action": "\/\/magentech.us16.list-manage.com\/subscribe\/post?u=74b0f77582219cf039a743aa5&amp;id=e872bd5efa",
@@ -2326,54 +2326,46 @@
       "1562043035140": {
         "type": "home-about-us",
         "blocks": {
-          "testimonial_7667Yy": {
-            "type": "testimonial",
-            "settings": {
-              "user": false,
-              "client_name": "",
-              "image": "shopify:\/\/shop_images\/mercimek.jpg",
-              "client_quote": "",
-              "client_dec": ""
-            }
-          },
           "1562043080442": {
             "type": "testimonial",
             "settings": {
               "user": true,
               "client_name": "Jenifer Jacob",
+              "image": "shopify:\/\/shop_images\/banner-03_187x_crop_center_8c58a710-3c84-46e2-b686-14b1c87961e4.png",
               "client_quote": "I watch cooking change the cook, just as it transforms the food.",
               "client_dec": "A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."
             }
           },
-          "1562051393654": {
+          "testimonial_bfG9WC": {
             "type": "testimonial",
             "settings": {
-              "user": true,
-              "client_name": "Jenifer Jacob",
-              "client_quote": "I watch cooking change the cook, just as it transforms the food.",
-              "client_dec": "A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."
+              "user": false,
+              "client_name": "",
+              "image": "shopify:\/\/shop_images\/banner-03_187x_crop_center_8c58a710-3c84-46e2-b686-14b1c87961e4.png",
+              "client_quote": "",
+              "client_dec": ""
             }
           },
-          "1562054916884": {
+          "testimonial_EzKMX6": {
             "type": "testimonial",
             "settings": {
-              "user": true,
-              "client_name": "Jenifer Jacob",
-              "client_quote": "I watch cooking change the cook, just as it transforms the food.",
-              "client_dec": "A visit to Haddon Hall is like a pilgrimage for me. There is something unique here, and each moment is\ntreasured & held. Thank you for looking after very beautiful place."
+              "user": false,
+              "client_name": "",
+              "image": "shopify:\/\/shop_images\/banner-03_187x_crop_center_8c58a710-3c84-46e2-b686-14b1c87961e4.png",
+              "client_quote": "",
+              "client_dec": ""
             }
           }
         },
         "block_order": [
-          "testimonial_7667Yy",
           "1562043080442",
-          "1562051393654",
-          "1562054916884"
+          "testimonial_bfG9WC",
+          "testimonial_EzKMX6"
         ],
         "settings": {
           "container_full": true,
           "background_color": "#ffffff",
-          "image1": "shopify:\/\/shop_images\/mercimek.jpg",
+          "image1": "shopify:\/\/shop_images\/2.png",
           "link1": "",
           "owl_navigation": false,
           "show_dot": true,
@@ -2399,9 +2391,11 @@
         "type": "ss_book",
         "settings": {
           "status": true,
-          "book_heading": "Make Reservation",
-          "book_time_open": "8:00 AM - 18:00 PM | Monday - Friday",
+          "book_heading": "Rezervasyon Yapın",
+          "book_image": "shopify:\/\/shop_images\/banner-04.png",
+          "book_time_open": "8.00 - 23.00 PM | 7 gün",
           "book_phone": "+39 059 22 39 12",
+          "image": "shopify:\/\/shop_images\/1.png",
           "link": "\/"
         }
       }
