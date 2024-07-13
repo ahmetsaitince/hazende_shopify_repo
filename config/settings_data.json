@@ -2379,8 +2379,9 @@
       "1562401540930": {
         "type": "homepage-menu",
         "settings": {
-          "title": "Dessert list",
-          "collection": "frontpage",
+          "bg_img": "shopify:\/\/shop_images\/banner-06.png",
+          "title": "Hazende Spesiyalleri",
+          "collection": "hazende-spesiyalleri",
           "image_size": "270x",
           "limit": "20",
           "text_button": "+ Full Menu",
@@ -2394,9 +2395,9 @@
           "book_heading": "Rezervasyon Yapın",
           "book_image": "shopify:\/\/shop_images\/banner-04.png",
           "book_time_open": "8.00 - 23.00 PM | 7 gün",
-          "book_phone": "+39 059 22 39 12",
+          "book_phone": "+90 216 353 43 77",
           "image": "shopify:\/\/shop_images\/1.png",
-          "link": "\/"
+          "link": "shopify:\/\/pages\/contact"
         }
       }
     },
