@@ -2144,28 +2144,32 @@
             "type": "featured_collection",
             "settings": {
               "collection": "ara-sicaklar",
-              "collection_name": "ARA SICAKLAR"
+              "collection_name": "Ara Sıcaklar",
+              "image": "shopify:\/\/shop_images\/2_ab641315-5735-4bef-829a-8679bd296d7e.png"
             }
           },
           "1561710015999-1": {
             "type": "featured_collection",
             "settings": {
-              "collection": "burgerler",
-              "collection_name": "BURGERLER"
+              "collection": "kebaplar",
+              "collection_name": "Kebaplar",
+              "image": "shopify:\/\/shop_images\/3.png"
             }
           },
           "1561710015999-2": {
             "type": "featured_collection",
             "settings": {
-              "collection": "kirmizi-et-izgaralar",
-              "collection_name": "KIRMIZI ET IZGARALAR"
+              "collection": "mantarlar",
+              "collection_name": "Mantarlar",
+              "image": "shopify:\/\/shop_images\/1_0a90790e-a052-4452-b499-8110291d649c.png"
             }
           },
           "1561710178486": {
             "type": "featured_collection",
             "settings": {
-              "collection": "set-menuler",
-              "collection_name": "SET MENÜLER"
+              "collection": "salatalar",
+              "collection_name": "Salatalar",
+              "image": "shopify:\/\/shop_images\/4.png"
             }
           }
         },
@@ -2383,8 +2387,8 @@
         "type": "homepage-menu",
         "settings": {
           "bg_img": "shopify:\/\/shop_images\/banner-06.png",
-          "title": "Hazende Spesiyalleri",
-          "collection": "hazende-spesiyalleri",
+          "title": "Salatalar",
+          "collection": "salatalar",
           "image_size": "270x",
           "limit": "20",
           "text_button": "TÜMÜNÜ GÖR",
