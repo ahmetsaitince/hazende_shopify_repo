@@ -2118,6 +2118,7 @@
         "type": "homepage-product-carousel",
         "settings": {
           "title1": "Şefin Önerisi",
+          "image1": "shopify:\/\/shop_images\/124.png",
           "link1": "\/",
           "collection": "ara-sicaklar",
           "image_size": "270x270",
