@@ -562,7 +562,6 @@
           "1512635249137": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify:\/\/shop_images\/ourteam1.png",
               "cl_name_1": "Jennifer lawrence",
               "cl_job_1": "Tech Leader",
               "cl_des_1": "",
@@ -576,7 +575,6 @@
           "1512639232534": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify:\/\/shop_images\/ourteam2.png",
               "cl_name_1": "George Scoots",
               "cl_job_1": "Ceo & Director",
               "cl_des_1": "",
@@ -590,7 +588,6 @@
           "1512639272630": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify:\/\/shop_images\/ourteam3.png",
               "cl_name_1": "George Scoots",
               "cl_job_1": "Ceo & Director",
               "cl_des_1": "",
@@ -604,7 +601,6 @@
           "1512639296273": {
             "type": "faq",
             "settings": {
-              "our_image_1": "shopify:\/\/shop_images\/ourteam4.png",
               "cl_name_1": "Jennifer lawrence",
               "cl_job_1": "Tech Leader",
               "cl_des_1": "",
@@ -624,28 +620,27 @@
         ],
         "settings": {
           "about_title": "Hello, We are Established 2018 - Paris  Fashion Show",
-          "about_image": "shopify:\/\/shop_images\/img-about.png",
-          "about_text_desc": "<p>Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk. Mogul talk. Cloth talk. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth. In life you have to take the trash out, if you have trash in your life, take it out, throw it away, get rid of it, major key. Surround yourself with angels.<\/p>\n<br>\n<p>\nThey key is to have every key, the key to open every door. We don’t see them, we will never see them. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it. They never said winning was easy. Some people can’t handle success, I can. I’m giving you cloth talk, cloth. Special cloth alert, cut from a special cloth.\n<\/p>",
-          "about_link": "#",
+          "about_text_desc": "<p>Hazende Restoran, misafirlerine eşsiz bir deneyim sunmayı amaçlayan özel bir mekandır. Lezzetli yemeklerimiz ve sıcak atmosferimizle, misafirlerimize unutulmaz anlar yaşatmayı hedefliyoruz. Her bir yemeğimiz, özenle seçilmiş malzemelerle hazırlanır ve sunulur. Amacımız, her ziyarette misafirlerimize en iyi hizmeti sunarak onları memnun etmektir. Restoranımızda geçirdiğiniz zaman boyunca kendinizi evinizde gibi hissedeceksiniz.<\/p>\n<br>\n<p>Başarımızın sırrı, her detaya önem vermemiz ve misafirlerimizi memnun etmek için sürekli çalışmamızdır. Ekibimiz, her zaman en iyi hizmeti sunmak için burada. Hazende Restoran'da, her yemeğin ve her anın özel olmasını sağlamak için buradayız. Sizleri de aramızda görmekten mutluluk duyarız.<\/p>",
+          "about_link": "\/contact",
           "show_service": true,
-          "icon1": "Strategy & Marketing",
-          "des1": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.",
-          "icon2": "interaction design",
-          "des2": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.",
-          "icon3": "WEb Development",
-          "des3": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week, very important, major key, cloth talk.",
+          "icon1": "Gastronomik Deneyim",
+          "des1": "Hazende Restorantı, misafirlerine unutulmaz bir gastronomik deneyim sunar. Lezzetli yemeklerimiz, kaliteli hizmetimizle birleşerek damak zevkinizi tatmin eder.",
+          "icon2": "Kaliteli Malzemeler",
+          "des2": "Yemeklerimizde kullandığımız tüm malzemeler özenle seçilir ve en yüksek kalitede tedarik edilir. Tazelik ve lezzet, mutfağımızın temel prensiplerindendir.",
+          "icon3": "Müşteri Memnuniyeti",
+          "des3": "Müşteri memnuniyeti, Hazende Restorantı'nın en önemli önceliğidir. Misafirlerimize her zaman en iyi hizmeti sunarak onların memnuniyetini sağlarız.",
           "show_team": true,
-          "member_title": "Our Member",
-          "our_text_desc": "Lorem Khaled Ipsum is a major key to success. Eliptical talk. The key to more success is to get a massage once a week",
+          "member_title": "Ekibimiz",
+          "our_text_desc": "Hazende'nin başarısında emeği geçen fedakar ve yetkin ekip arkadaşlarımız.",
           "show_policy": true,
-          "title1": "Free shipping",
-          "description1": "Free shipping on oder over $100",
-          "title2": "secure payment",
-          "description2": "We value your security",
-          "title3": "Online support",
-          "description3": "We have support 24\/7",
-          "title4": "payment on delivery",
-          "description4": "Cash on delivery option"
+          "title1": "Ücretsiz teslimat",
+          "description1": "150TL'nin üzerindeki siparişlerinizde",
+          "title2": "Güvenli ödeme",
+          "description2": "PayTR aracılığıyla",
+          "title3": "Online sipariş",
+          "description3": "İstediğiniz zaman",
+          "title4": "Kapıda ödeme",
+          "description4": "Kapıda ödeme seçeneğiyle"
         }
       },
       "ss-mainmenu": {
