@@ -2119,7 +2119,7 @@
         "settings": {
           "title1": "Şefin Önerisi",
           "image1": "shopify:\/\/shop_images\/124.png",
-          "link1": "\/",
+          "link1": "shopify:\/\/collections\/ara-sicaklar",
           "collection": "ara-sicaklar",
           "image_size": "270x270",
           "column1": "2",
@@ -2135,7 +2135,7 @@
           "owl_autoplay": false,
           "owl_autoplay_speed": "10000",
           "owl_speed": "300",
-          "text_button": "+ Discover More"
+          "text_button": "+ Daha Fazlası"
         }
       },
       "1561710015999": {
