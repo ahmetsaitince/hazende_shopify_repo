@@ -2117,9 +2117,9 @@
       "1561539494982": {
         "type": "homepage-product-carousel",
         "settings": {
-          "title1": "Today’s Special Dish",
+          "title1": "Şefin Önerisi",
           "link1": "\/",
-          "collection": "barbecue",
+          "collection": "ara-sicaklar",
           "image_size": "270x270",
           "column1": "2",
           "column2": "2",
